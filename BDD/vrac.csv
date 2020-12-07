@@ -1,0 +1,1145 @@
+,Artiste,Titre,Catégorie,id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+0, Neil Swainson Quintet Joe Henderson Woody Shaw,49th Parallel,jazz,6uEDQ3D4Lx83fZwbgLn895,0.406,0.6,2,-7.956,1,0.045,0.131,0.0676,0.209,0.262,116.751,527133,4
+4, Cannonball Adderley,Love For Sale - Remastered,jazz,16Po3i2Kcsy74jz0lp6fdJ,0.582,0.343,5,-8.004,0,0.0428,0.735,0.0,0.125,0.462,88.144,424640,4
+5, John Coltrane,Blue Train - Remastered 2003,jazz,6ZgaUtMlUzUf7SqbUUnfbu,0.506,0.493,8,-7.759,1,0.0427,0.798,0.00355,0.307,0.584,134.77,644013,4
+6, Miles Davis Quintet,It Could Happen To You,jazz,34xixFi5y3I5FIOH1ZWisx,0.623,0.403,5,-11.121,0,0.0426,0.451,1.13e-05,0.448,0.631,93.911,396960,4
+7, Clifford Brown Max Roach Quintet,Joy Spring,jazz,2oMaXY0yiWhAEWD7SutXh2,0.654,0.334,8,-12.662,1,0.0521,0.702,0.714,0.114,0.697,81.544,410667,4
+8, Freddie Hubbard,Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition,jazz,4N6JkrGD78eLooaTDmwo9s,0.418,0.227,4,-15.537,0,0.0379,0.912,0.822,0.0956,0.21,103.586,395560,4
+9, Hank Mobley,This I Dig Of You - Remastered 1999/Rudy Van Gelder Edition,jazz,5f0n6K8hW2RIVXuZjxO0bu,0.587,0.673,10,-7.858,1,0.0509,0.744,0.00618,0.0721,0.788,123.407,385867,4
+10, Lee Morgan,The Sidewinder - Remastered 1999/Rudy Van Gelder Edition,jazz,1dZHIbmuBDAwXfQOM4dyM3,0.473,0.67,8,-7.756,1,0.0353,0.446,3.15e-06,0.0957,0.808,152.484,625293,4
+11, Sonny Rollins Tommy Flanagan Doug Watkins Max Roach,St. Thomas,jazz,0zQE77yszbyv61M4NboU2u,0.541,0.607,0,-8.435,1,0.0438,0.727,0.442,0.0997,0.754,104.96,406267,4
+12, Art Blakey,Moanin',jazz,4Vkk3iD1VrENHJEACNddvt,0.612,0.493,5,-8.589,0,0.0467,0.804,0.266,0.202,0.484,126.358,570720,4
+13, Clark Terry,Swahili,jazz,3XcolyPDfgNsoEUyucOPrL,0.551,0.551,3,-12.876,1,0.0446,0.769,0.861,0.105,0.485,120.212,367440,4
+14, Miles Davis,So What,jazz,4vLYewWIvqHfKtJDk8c8tq,0.517,0.151,0,-17.266,1,0.0373,0.705,0.00136,0.116,0.21,136.356,562640,4
+15, Jackie McLean,Greasy,jazz,5rcEapnWT4NrPSFT5co106,0.62,0.324,3,-14.199,1,0.0606,0.682,0.00108,0.112,0.596,78.89,445427,4
+16, Sonny Rollins,There's No Business Like Show Business,jazz,3AJSnSiVDz37q85LP2Rop0,0.394,0.441,8,-14.237,1,0.0371,0.692,0.0375,0.105,0.629,90.058,378960,4
+17, Lee Morgan,Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster,jazz,6MXrGG7nff0FXBQJa5UF9P,0.416,0.201,8,-11.461,1,0.0379,0.975,0.803,0.107,0.372,165.869,339333,3
+18, Freddie Hubbard,Mirrors - Remastered 2004,jazz,4WU6x0MauVlAkpV6aTX4FM,0.406,0.208,1,-13.767,0,0.0413,0.962,0.929,0.181,0.291,102.778,368107,4
+19, Art Blakey & The Jazz Messengers,Free For All - 2004 Remaster/Rudy Van Gelder Edition,jazz,60HyLH6b6ClXi7jnT4XTZq,0.334,0.806,1,-8.993,1,0.132,0.258,0.0,0.112,0.395,127.759,669267,1
+20, John Coltrane,"Alabama - Live At Birdland Jazzclub, New York City, NY, 10/18/1963",jazz,013grywiX7Qu6WVfnJ1opa,0.428,0.0768,0,-17.412,0,0.0413,0.774,0.0487,0.123,0.112,107.712,308933,4
+21, Miles Davis,'Round Midnight,jazz,5vb7At47uO0yPGfmYnAHuw,0.495,0.182,10,-11.116,0,0.0467,0.79,0.000368,0.129,0.203,112.89,355333,4
+22, Herbie Hancock,Tell Me a Bedtime Story,jazz,6eimz6jvlZaPwtflDWCTa0,0.398,0.527,4,-16.591,0,0.0297,0.713,0.934,0.119,0.353,118.504,301867,4
+23, Freddie Hubbard,Red Clay,jazz,2JdllRPH6a8NCpt2bpxpns,0.519,0.379,9,-14.368,1,0.0353,0.407,0.288,0.161,0.598,139.749,729760,4
+24, Art Blakey & The Jazz Messengers,Quick Trick,jazz,2EW1mFJaikQh0vxOoB7uGp,0.611,0.291,2,-18.392,1,0.0647,0.765,0.000133,0.0571,0.534,83.443,283740,4
+25, John Coltrane,Naima,jazz,1hVRTl4yhWmGW7ImZoO22e,0.303,0.0141,10,-19.759,0,0.0418,0.948,0.0944,0.0792,0.157,171.439,258266,3
+26, Miles Davis,Blue in Green,jazz,0aWMVrwxPNYkKmFthzmpRi,0.421,0.0161,2,-25.358,0,0.0374,0.81,0.0021,0.0978,0.16,110.926,337733,4
+27, McCoy Tyner,When Sunny Gets Blue,jazz,1J9iVCaEriyoMXpj2XszhU,0.427,0.114,2,-22.546,0,0.0509,0.843,0.863,0.0966,0.114,60.484,282320,4
+28, Wes Montgomery,A Day In The Life,jazz,6f7r5i4xVwePkHDHwwMK75,0.476,0.251,9,-13.854,0,0.0278,0.769,0.774,0.0637,0.37,98.833,354973,4
+29, Art Blakey & The Jazz Messengers,Close Your Eyes,jazz,3vlX5kFfQHDloPDV1cGENX,0.565,0.222,5,-19.933,0,0.0646,0.799,0.000213,0.0934,0.689,99.198,386700,4
+30, Duke Ellington John Coltrane,In A Sentimental Mood,jazz,0E8q2Fx2XuzXCO2NSAppkR,0.464,0.305,3,-12.435,0,0.0316,0.936,0.0846,0.208,0.282,108.229,255227,4
+31, Mal Waldron,All Alone,jazz,6TAW00MAPvS59yEoIgtOEI,0.492,0.205,9,-8.488,0,0.0577,0.983,0.893,0.122,0.109,128.315,310055,4
+35, Keith Jarrett Jan Garbarek Palle Danielsson Jon Christensen,Questar,jazz,1ChYuSIoOFDVY6fHSXF6zS,0.468,0.391,2,-13.196,0,0.0269,0.658,0.0617,0.111,0.342,142.413,550493,4
+36, Billie Holiday,Strange Fruit,jazz,6fBgbPzBpuBjIf4uEqAo4H,0.33,0.0508,11,-22.43,1,0.033,0.988,0.0922,0.147,0.054,77.018,192867,3
+37, Art Blakey & The Jazz Messengers,Hipsippy Blues,jazz,3iFlfQ0CXc9URaAvai8VUe,0.573,0.247,5,-19.282,0,0.0627,0.713,5.64e-05,0.103,0.604,138.234,400447,4
+38, John Coltrane,Blue World,jazz,5z8eOnPiOC22EYpniAX3Qg,0.477,0.733,8,-8.301,1,0.0682,0.732,0.0756,0.153,0.385,120.42,368253,3
+39, Duke Ellington,Jack the Bear,jazz,2Sg3qUH02hlzKchItbq389,0.533,0.28,1,-12.809,1,0.0653,0.466,9.83e-05,0.344,0.61,78.352,199413,4
+40, Horace Silver,Serenade To A Soul Sister - Remastered,jazz,1duGF26RKaTntfsJ0cTkzj,0.487,0.535,8,-8.47,0,0.0305,0.73,0.00414,0.0903,0.591,144.548,379000,3
+41, Art Tatum,Tea for Two,jazz,0Otf1ZfYNIjhqFIuJk0fsy,0.358,0.452,1,-13.02,1,0.0347,0.991,0.864,0.14,0.525,166.973,193867,4
+42, Lester Young,These Foolish Things (Remastered),jazz,0ldmR2mJJNEoBIINfZWdv6,0.593,0.103,10,-14.961,1,0.081,0.986,0.6,0.12,0.443,66.283,190933,4
+43, Stanley Turrentine,Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition,jazz,7ysmJhXFQtiBQlk6EZ6sks,0.505,0.159,7,-11.235,0,0.0336,0.946,0.0127,0.212,0.196,59.385,295200,4
+44, Wayne Shorter,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,jazz,0IffIW3eyCx9aZ36IqOu5o,0.34,0.0837,3,-12.072,1,0.042,0.985,0.761,0.0945,0.119,138.689,414240,3
+45, Thelonious Monk Trio,Blue Monk - Rudy Van Gelder Remaster,jazz,2C3rh8eX5vltOmwrz9I78n,0.444,0.339,3,-16.936,1,0.0418,0.66,0.103,0.163,0.656,142.112,456360,4
+46, Dexter Gordon,A Night In Tunisia - Remastered,jazz,5KQ6uddno2Hht84gJDHsPF,0.528,0.583,7,-8.776,0,0.0643,0.592,0.0,0.305,0.671,96.284,495373,4
+47, John Coltrane,I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition,jazz,5p95DUZplmVxY0XCQ3hxUV,0.394,0.23,3,-10.475,1,0.0348,0.931,0.497,0.0662,0.358,78.319,477760,4
+48, Dave Brubeck,Besame Mucho,jazz,1GZD0TZJHmdQaZsucHBmWT,0.517,0.273,10,-17.279,0,0.0627,0.866,0.774,0.979,0.321,63.423,354573,4
+49, Chet Baker,If You Could See Me Now,jazz,2QZtOFPATNgKpUJiGUARZk,0.511,0.031,3,-19.636,1,0.0388,0.939,0.898,0.139,0.179,112.911,318413,4
+50, Charlie Parker,Summertime,jazz,09g9OlH3RDjbffMAnvBPgw,0.356,0.324,7,-8.699,0,0.0289,0.704,0.0025,0.204,0.438,88.861,166133,4
+51, Horace Silver,Song For My Father,jazz,1CDBaGlisZlOJzvx88lL8A,0.742,0.671,5,-8.142,0,0.0407,0.794,0.00441,0.122,0.591,127.359,438280,4
+52, Freddie Hubbard,Dedicated To You,jazz,0IxLWzmafWC5VTnpnvykJq,0.38,0.164,7,-14.69,0,0.0452,0.985,0.955,0.125,0.0871,79.03,202640,4
+53, Bill Evans,Young And Foolish,jazz,1WygPWqmNs4s2fxtjmtI3O,0.438,0.0172,9,-23.66,1,0.0384,0.973,0.557,0.0815,0.136,100.989,354667,4
+54, Sonny Rollins,"He's Younger Than You Are - From ""Alfie"" Score",jazz,11vaRXRIFXJTRr3BuzNbk5,0.417,0.11,5,-16.504,0,0.0405,0.951,0.721,0.174,0.22,57.312,313440,4
+55, Art Tatum,Blue Skies,jazz,0ADAFZE0bYIuaIyPNFl3LE,0.443,0.0711,1,-20.146,1,0.0486,0.989,0.894,0.101,0.596,175.02,172293,4
+56, Stan Getz João Gilberto Astrud Gilberto Antônio Carlos Jobim,Corcovado (Quiet Nights Of Quiet Stars),jazz,0xcJPMoBe9FenntXbfyx97,0.597,0.128,9,-16.656,0,0.0491,0.959,0.000704,0.123,0.34,128.393,254400,4
+57, Miles Davis,Stella By Starlight,jazz,4zxd4tiXPlWMqoJltbVTbE,0.485,0.144,10,-12.824,1,0.0362,0.912,0.000114,0.0965,0.246,86.143,284560,4
+58, Thelonious Monk,"Straight, No Chaser",jazz,6YYu8qFzcY1ZyzzsJIQM12,0.465,0.35,3,-12.977,1,0.0403,0.41,0.279,0.135,0.62,93.336,688133,4
+59, Wayne Shorter,Speak No Evil,jazz,0mHEBtkQ5H3PhAdWqLunva,0.457,0.395,5,-15.072,0,0.0376,0.652,4.52e-06,0.31,0.479,106.404,505693,3
+60, The Dave Brubeck Quartet,Strange Meadow Lark,jazz,0ivpUENLpheuPoa6VuY1ax,0.53,0.143,8,-17.471,1,0.0423,0.958,0.497,0.278,0.119,125.464,442227,4
+64, Stan Getz João Gilberto Astrud Gilberto,The Girl From Ipanema,jazz,4xGFcQEIjtmbPD6Jsxq14M,0.641,0.14,8,-16.79,1,0.039,0.867,0.00166,0.105,0.388,129.318,317987,4
+65, Sonny Rollins,God Bless the Child,jazz,7DUGRxCf9NFJffb5Eei8Ar,0.493,0.0421,2,-18.071,1,0.0347,0.913,0.173,0.0777,0.172,102.074,447560,4
+66, Oscar Peterson Trio,Stormy Weather,jazz,6ffJxrVKkPVW4hiRoiteB2,0.652,0.171,7,-16.1,1,0.0569,0.99,0.864,0.158,0.562,118.883,213387,4
+67, Wayne Shorter,Footprints,jazz,2jz7vSAguRJmBHEA4I6C4N,0.515,0.339,7,-16.457,0,0.0283,0.823,0.317,0.109,0.519,135.694,451733,3
+68, Dave Holland Quartet,Conference Of The Birds,jazz,2dPWP7FMCxnv4u9Api6WWU,0.392,0.168,10,-22.249,1,0.0442,0.637,0.358,0.198,0.292,123.419,277800,4
+69, McCoy Tyner,Search For Peace,jazz,4qRJ7ZJyfzchEd2fjle7Bz,0.456,0.222,0,-16.879,1,0.0354,0.938,0.806,0.24,0.15,112.725,392000,4
+70, Keith Jarrett Trio,Pretty Ballad,jazz,3gMMHNUrq3rPeUfgQcAJ2H,0.404,0.0602,11,-26.459,0,0.0422,0.861,0.901,0.703,0.168,106.82,210066,3
+71, Yusef Lateef,Love Theme From Spartacus - Remastered,jazz,7yzM0pEseQUpb6BMViOPEA,0.522,0.379,4,-14.096,0,0.0286,0.635,0.925,0.114,0.454,133.698,251600,3
+72, Kenny Burrell,Chitlins Con Carne,jazz,18A1V1vsy5YgHFqb4galTw,0.803,0.335,8,-13.331,1,0.0451,0.579,0.0128,0.0849,0.786,132.682,330440,4
+73, Lee Morgan,I Remember Clifford,jazz,5LaTsDrhrpXwLniidLpnF7,0.368,0.14,0,-15.005,0,0.045,0.901,0.874,0.0688,0.172,61.758,428973,4
+74, Hank Mobley,My Groove Your Move - Rudy Van Gelder Edition,jazz,5wcAcShxT5qvLJvuM6jkZt,0.585,0.375,2,-12.171,0,0.0504,0.78,0.00365,0.0806,0.665,72.59,367400,4
+75, Oliver Nelson,Stolen Moments,jazz,4ow1XH4hwe3yOGXG2eTTTY,0.575,0.187,0,-13.081,0,0.0513,0.927,0.876,0.166,0.342,107.469,525613,4
+76, Jackie McLean Herbie Hancock,Yams,jazz,57B6gMEI1E4E3kKLKvfX3U,0.571,0.293,0,-11.914,0,0.0385,0.828,0.179,0.112,0.23,82.745,480000,4
+77, Kenny Burrell,Midnight Blue - Remastered,jazz,2kF9Ijd7I2Kk2P4bYqUmzG,0.652,0.356,5,-13.733,0,0.0419,0.546,0.000103,0.132,0.56,148.822,242347,4
+78, Bud Powell,Polka Dots And Moonbeams - Remastered,jazz,3Wadbk42UtsJOT5mCx9Bb0,0.558,0.0891,2,-17.633,0,0.0643,0.946,0.924,0.0966,0.13,100.523,243773,4
+79, Ibrahim Maalouf,True Sorry,jazz,5EzGOkUwkRUXYAyvjlEHah,0.288,0.454,4,-7.639,0,0.0369,0.585,0.882,0.177,0.0792,123.143,291303,4
+80, Keith Jarrett,Part VII - Live,jazz,21Jm2Njh72h2WWLSRmiGT5,0.356,0.148,3,-18.135,1,0.035,0.984,0.903,0.0913,0.177,137.737,324224,4
+81, ARTEMIS,Nocturno,jazz,5DHU96HUvat8gddLT8IhFO,0.463,0.139,0,-16.971,1,0.0349,0.935,0.938,0.121,0.23,120.984,327379,4
+82, Ambrose Akinmusire,Roy,jazz,3HtrgoW2iPVupeM8SU3718,0.399,0.0123,10,-20.625,1,0.0449,0.958,0.485,0.113,0.279,107.924,160720,4
+83, Ibrahim Maalouf,Beirut - Duo Version,jazz,41KHQLCpNOnPV0GWqnEhG5,0.348,0.0918,7,-14.536,0,0.0449,0.985,0.944,0.252,0.118,121.418,277000,4
+84, Jacob Gurevitsch,Gamla Stan,jazz,0hNhCLpa4cYWwQ5OBCdbu6,0.436,0.326,6,-15.108,0,0.0394,0.977,0.893,0.113,0.22,148.834,325679,4
+85, Marcin Wasilewski Trio Joe Lovano,Glimmer Of Hope,jazz,5c83f2kFIeNNch1hvyNwGj,0.338,0.0952,6,-20.218,1,0.0364,0.979,0.801,0.124,0.0537,101.719,513293,3
+86, Connie Han,Captain’s Song,jazz,3djYspll15Mm2azjKSV55Y,0.5,0.21,8,-15.766,0,0.0304,0.921,0.84,0.0922,0.12,108.178,322693,4
+87, John Scofield Steve Swallow Bill Stewart,Radio,jazz,24XHqHf8NZQqu9x4MPEAWh,0.553,0.196,6,-18.709,0,0.0434,0.786,0.385,0.0922,0.385,104.832,261933,4
+88, Keith Jarrett,Answer Me - Live from Budapest,jazz,58eWz82VjBZLNwL6u4li7F,0.534,0.078,0,-21.014,1,0.0739,0.994,0.879,0.108,0.185,133.194,269025,4
+89, GoGo Penguin,Don’t Go,jazz,3Aj7zxN0GKJCTXwm7FpePK,0.474,0.162,4,-23.167,0,0.0327,0.946,0.945,0.0868,0.181,149.805,219286,4
+90, Athletic Progression,WHITE CRAYON,jazz,2XXfb3FToGrAOZKGJ1Nwhj,0.417,0.45,1,-12.49,1,0.0443,0.148,0.889,0.0869,0.177,81.234,271250,4
+91, Marcin Wasilewski Trio Joe Lovano,Vashkar,jazz,3Om7i5Xg1ORaABNTaCnF29,0.344,0.187,7,-17.767,1,0.044,0.903,0.631,0.245,0.143,62.919,356587,4
+92, Joshua Redman Brad Mehldau Brian Blade Christian McBride,"Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)",jazz,6R2vR6b0jLJaJCZUvyp5Ax,0.576,0.542,6,-10.167,1,0.0344,0.683,0.827,0.0513,0.565,124.019,360680,4
+93, Matthieu Saglio Nils Petter Molvær Steve Shehan,Amanecer,jazz,7z6F8O9kR3n3g7zyc1wiAO,0.571,0.264,7,-14.858,0,0.0329,0.721,0.854,0.113,0.333,139.961,392747,5
+94, Wallace Roney,Don't Stop Me Now,jazz,5ZR2kBtwXGvaB6naU8qGCJ,0.459,0.465,0,-10.478,0,0.0319,0.726,0.00716,0.0872,0.376,115.035,425453,3
+95, Matthew Halsall,The Sun in September,jazz,0rm7lBomgchi6bHaTwi7cL,0.285,0.172,1,-15.8,1,0.0412,0.858,0.965,0.112,0.291,184.416,470091,3
+96, Nils Petter Molvær,Khmer,jazz,5VXs7VjhKyExWRE9pAFagq,0.554,0.301,9,-20.369,0,0.0433,0.124,0.891,0.471,0.342,163.966,299427,5
+97, Chick Corea,Crystal Silence,jazz,5F8rPLt2c52p0SK7kiH26b,0.203,0.0186,9,-24.277,0,0.0408,0.985,0.377,0.0728,0.0481,76.591,415000,4
+98, Matthieu Saglio Vincent Peirani Ricardo Esteve,Bolero Triste,jazz,1ZW12FQBx3KZEkMAX6DxEx,0.548,0.145,0,-13.298,0,0.03,0.884,0.154,0.116,0.373,83.969,326547,4
+99, Emil Brandqvist Trio,Raindrops,jazz,1w0IXRQFCFcz2z07pdNH4s,0.321,0.109,5,-21.097,0,0.0365,0.93,0.888,0.124,0.162,70.392,357973,4
+100, Steve Tibbetts,Climbing,jazz,3kz6NAOACWLOUKYTQVvFkN,0.618,0.262,9,-24.976,0,0.141,0.82,0.866,0.107,0.0382,180.913,237333,3
+101, Terje Rypdal,Speil,jazz,2qJeNizewezb1J0oZ07lTr,0.388,0.0794,9,-21.906,0,0.0298,0.736,0.806,0.0872,0.132,76.573,503840,4
+102, Dave Holland Quartet,Conference Of The Birds,jazz,5Vmt3ascqbh0QJCV1een0Q,0.392,0.168,10,-22.249,1,0.0442,0.637,0.358,0.198,0.292,123.419,277800,4
+103, Alfa Mist Kaya Thomas-Dyke,Breathe,jazz,6nGNzqlHTKugpRWkXrZkPC,0.332,0.285,9,-13.385,0,0.0307,0.585,0.28,0.0837,0.0395,99.765,447000,3
+104, Avishai Cohen Big Vicious,Teardrop,jazz,1o6v06LkvEkYm0H4S12ejd,0.546,0.413,5,-13.508,0,0.0378,0.277,0.889,0.304,0.15,75.605,444600,4
+105, Gregoire Maret Romain Collin Bill Frisell,Re: Stacks - Radio Edit,jazz,5LgjJfkiN9BorHEUZV9M53,0.481,0.0848,8,-14.908,1,0.0332,0.941,0.467,0.0865,0.103,125.901,289638,4
+106, Miroslav Vitous Terje Rypdal Jack DeJohnette,Maya,jazz,7iB19KaF8Pows0nixti2wo,0.22,0.272,2,-20.885,0,0.0387,0.791,0.973,0.12,0.222,95.786,377600,3
+107, Pat Metheny,You Are,jazz,7cD7q524dd5KpU0GRdfB0I,0.456,0.325,5,-14.893,0,0.0343,0.829,0.898,0.0778,0.136,163.572,373445,3
+108, Kansas Smitty's,Riders,jazz,0LDytu1PRUdxTZ5YCMIZIC,0.451,0.303,4,-11.883,0,0.0306,0.765,0.906,0.112,0.208,133.533,252280,4
+109, Charles Lloyd,Requiem - Live,jazz,0EsPT0KrwqMReT97PWuMMC,0.47,0.241,7,-16.639,0,0.036,0.905,0.598,0.705,0.274,106.392,692624,4
+110, Avishai Cohen Yonathan Avishai,Shir Eres (Lullaby),jazz,36wpZ7gr4g48cCcEYvqrOj,0.338,0.0157,5,-23.558,0,0.036,0.995,0.94,0.0874,0.161,78.919,275427,4
+111, Houston Person,Willow Weep for Me,jazz,6ttNHrgyK11RvgYOdC6Vpn,0.566,0.347,0,-10.048,1,0.0369,0.868,0.761,0.124,0.425,95.322,488693,4
+112, Bremer/McCoy,Højder,jazz,5GWjxdXbCvHozYWvTO8qXr,0.481,0.0647,6,-20.372,1,0.0339,0.909,0.927,0.104,0.233,133.626,263107,1
+113, Casey Abrams,Why Don't You Do Right?,jazz,7GwGAzzPjj2adFxY2XcDgN,0.692,0.0287,2,-22.509,0,0.0372,0.955,0.7,0.127,0.275,111.18,180020,4
+114, Giovanni Guidi,Avec le temps,jazz,5uBpbSDljWMFtKxMYHsmpY,0.242,0.0736,0,-25.265,1,0.0348,0.965,0.825,0.104,0.0728,81.354,393373,4
+115, Avishai Cohen Yonathan Avishai,Azalea,jazz,2Lz03NspvyxfiCjgdtpEVR,0.501,0.0179,5,-21.112,1,0.0417,0.987,0.0135,0.109,0.127,72.993,221000,4
+116, Fazer,Lina,jazz,2fYcpbTFptY9uRcaY56NRu,0.475,0.289,5,-20.482,0,0.0531,0.9,0.803,0.109,0.0889,111.487,338926,4
+117, Krzysztof Kobylinski Erik Truffaz,Impression E Minor,jazz,5eIUDdG5pFjmshH9CsJgTV,0.449,0.125,4,-14.653,0,0.0365,0.994,0.0604,0.0975,0.5,133.94,222996,4
+118, Jakob Bro Palle Mikkelborg Thomas Morgan Jon Christensen,Strands,jazz,5LaxA3Vqu1huHZCQHUXnr3,0.324,0.029,0,-27.551,0,0.0365,0.857,0.806,0.106,0.0388,136.379,284933,4
+119, John Surman Nelson Ayres Rob Waring,Autumn Nocturne,jazz,6Jws7Ip1lI09JNDGppRHRv,0.313,0.103,7,-18.886,0,0.048,0.992,0.903,0.101,0.0737,73.377,412267,4
+120, Anouar Brahem Dave Holland Jack DeJohnette Django Bates,Opening Day,jazz,7FI4GNCpplLLHihNZPOwKW,0.453,0.149,7,-23.521,0,0.0528,0.849,0.932,0.261,0.304,114.804,421480,1
+121, Marc Johnson Bill Frisell John Scofield Peter Erskine,Black Is The Color Of My True Love's Hair,jazz,35HX8z7O4MaVVrT40YEujJ,0.084,0.00835,8,-33.475,0,0.041,0.982,0.943,0.0597,0.0679,83.285,427360,4
+122, Mathias Eick,Children,jazz,2zd2XhHfRH0pOyMw1sK0jo,0.52,0.292,8,-15.307,1,0.0325,0.775,0.833,0.222,0.284,86.817,342907,4
+123, Oscar Peterson,Stormy Weather,jazz,3wqEq2lsXWO98kHXUvrN9C,0.617,0.317,0,-8.488,1,0.0655,0.993,0.899,0.142,0.555,119.084,214493,4
+124, Paolo Fresu Richard Galliano Jan Lundgren,The Windmills of Your Mind,jazz,6Q8m3ux9ww9OMXlK7OrFkL,0.33,0.0685,5,-16.607,0,0.0366,0.991,0.546,0.0858,0.181,77.309,217880,4
+125, Anouar Brahem,The Astounding Eyes Of Rita,jazz,6NAXW6IwUyswJk9bHe4y9S,0.529,0.198,7,-19.192,0,0.0378,0.926,0.884,0.0997,0.388,115.107,521880,4
+126, Scott Hamilton Gerard Nieto Ignasi González Esteve Pi,Bésame Mucho (Live),jazz,0J6kTSVez9OjHlfoDqAJAB,0.597,0.471,2,-8.24,0,0.038,0.872,0.707,0.686,0.575,123.177,513502,4
+127, New Cool Collective,Thierno,jazz,2SdthMHDqydhV2PceC9QBX,0.492,0.291,0,-8.156,0,0.035,0.822,0.257,0.0634,0.383,172.723,274107,4
+128, Oscar Peterson,Blue and Sentimental,jazz,35QqECQ42isDX5YsVujptz,0.551,0.114,3,-24.78,0,0.0451,0.977,0.874,0.141,0.124,70.141,146093,4
+129, Roy Hargrove,Ruby My Dear,jazz,1czzmAtPTw287TyMQEfCfg,0.412,0.195,8,-10.288,1,0.0331,0.9,0.709,0.106,0.0778,133.918,372493,4
+130, Thelonious Monk,'Round Midnight,jazz,1wl5b2lw3YagQtZiYZbQWP,0.542,0.32,8,-9.975,1,0.0387,0.907,0.649,0.0609,0.206,116.648,193840,4
+131, Wynton Marsalis,Where or When,jazz,7xUbHoSHkdV7mb9UN1fuzL,0.326,0.0575,4,-16.5,1,0.0393,0.99,0.887,0.281,0.301,127.397,168667,5
+132, Chet Baker,That Old Feeling,jazz,2d64G7VaZdHQuAquz5HQNu,0.643,0.175,5,-16.813,0,0.0391,0.633,4.24e-05,0.143,0.642,78.031,183893,4
+133, Chick Corea Malcolm Addey,My One And Only Love,jazz,1mPjL8k3EG9hK3CvZcMZBK,0.405,0.27,5,-20.313,0,0.0349,0.799,0.887,0.108,0.51,80.24,216387,4
+134, Duke Ellington John Coltrane,My Little Brown Book,jazz,6Q6UjeMuOcxLaL5VBgzUdq,0.482,0.0775,7,-17.185,0,0.0346,0.975,0.0114,0.219,0.233,64.688,323200,3
+135, Bill Evans,Gary's Theme - 2003 Remastered Version,jazz,4G3EKvGtqcUSZqPQIWJFxd,0.42,0.0802,7,-21.795,1,0.04,0.905,0.857,0.135,0.0541,122.041,257693,3
+136, Lester Young Oscar Peterson Trio,There Will Never Be Another You,jazz,1eghoZLe436O2AHiZaoGVQ,0.559,0.0348,0,-17.576,0,0.0484,0.989,0.231,0.0925,0.382,83.089,208469,4
+137, Tord Gustavsen Trio,Curves,jazz,0glr1BX8Zy81l4HvLpmozl,0.515,0.0283,9,-28.954,1,0.0402,0.963,0.927,0.0906,0.0886,100.598,379533,4
+138, Julie London,I'm In The Mood For Love,jazz,6crfO56bDm0RjpctUuGs5X,0.581,0.0543,0,-14.595,1,0.0466,0.963,0.000274,0.0968,0.175,124.185,149827,4
+139, Roy Hargrove,Trust,jazz,1UceH3dNaxzKSG4qQ1kbp2,0.401,0.317,1,-14.369,1,0.0364,0.898,0.76,0.118,0.0633,116.744,325587,4
+140, Wes Montgomery,In Your Own Sweet Way,jazz,0KRjJtrKMJRngSPr4jp1Dl,0.565,0.0694,3,-21.971,1,0.0451,0.992,0.907,0.11,0.0777,121.881,293320,4
+141, Stan Getz João Gilberto Astrud Gilberto Antônio Carlos Jobim,Corcovado - Quiet Nights Of Quiet Stars,jazz,5i2sgqnzaxYpvXmGAB592h,0.524,0.108,0,-18.361,1,0.0493,0.957,0.00123,0.139,0.322,127.982,253933,4
+142, Oscar Peterson Trio,I Got It Bad And That Ain't Good,jazz,2kpaRWsZTE96rmw0NBfP0c,0.515,0.0551,2,-27.383,0,0.0477,0.972,0.915,0.0878,0.176,50.658,306173,4
+143, Chet Baker,It's Always You,jazz,6w4GCn9Tg8iJLUZlN3fxB7,0.514,0.068,8,-18.353,1,0.0415,0.928,0.000115,0.192,0.318,81.856,211893,4
+144, Giovanni Guidi Trio,Trilly - Variation,jazz,4gT8dnQ05pxVQecqDNPRlV,0.359,0.0835,7,-24.478,1,0.0345,0.922,0.872,0.127,0.216,69.361,297547,3
+145, John Coltrane,Time After Time,jazz,3EeUl7XZAqrU2NoDTZjfdU,0.602,0.262,3,-9.051,1,0.0343,0.947,0.544,0.136,0.323,91.554,462107,4
+146, Bremer/McCoy,She's Alive,jazz,1GLnM2xHIG9DdLGESEEA6n,0.511,0.0337,2,-28.338,0,0.0439,0.985,0.931,0.0957,0.25,59.329,131000,4
+147, Erik Söderlind Fredrik Lindborg Kjell Öhman Kenji Rabson Moussa Fadera,Grandmother's Dream,jazz,1q9lbtvwfAekaD6ScD7h2t,0.478,0.147,11,-18.729,0,0.0375,0.964,0.892,0.115,0.151,103.978,258840,4
+148, Branford Marsalis Quartet Terence Blanchard,Mo' Better Blues (feat. Terence Blanchard),jazz,78P3mF3w6APwFpnd6UFH4J,0.616,0.278,1,-16.973,1,0.0283,0.357,0.192,0.153,0.443,100.325,218973,4
+149, Scott Hamilton,Stockholm Sweetnin',jazz,73fjTjTG8KSLQ04t5fARWm,0.609,0.299,7,-11.617,0,0.0425,0.835,0.899,0.113,0.305,120.074,475680,4
+150, Julie London,Cry Me A River,jazz,7rcfs2bBj5mNyiJbBIQ7cc,0.455,0.0197,11,-21.882,0,0.0492,0.975,0.000872,0.103,0.127,85.525,174013,3
+151, Beegie Adair,They Didn't Believe Me,jazz,34oMi39G5RYgaCPwRNJ7OU,0.583,0.233,8,-15.529,1,0.0354,0.839,0.816,0.139,0.505,135.308,209333,4
+152, Shai Maestro,The Dream Thief,jazz,0YCzCTj47uGmUC72vWkVcy,0.271,0.222,9,-22.303,1,0.0331,0.898,0.925,0.108,0.115,100.012,509120,4
+153, Stéphane Kerecki Quartet,All I Need,jazz,7I63rA0w2lgv2iMaS7NRjY,0.534,0.32,0,-12.524,1,0.0373,0.93,0.736,0.11,0.157,83.022,432387,4
+154, Bobby Hutcherson,Stardust,jazz,6QqXTZUL8O3y46rgDEWnsm,0.352,0.0351,1,-22.254,1,0.0347,0.975,0.607,0.193,0.21,56.16,323600,4
+155, Stan Getz,Misty,jazz,4YhDhdIh1YYVmNUvnYjoRy,0.328,0.0421,6,-22.933,1,0.0426,0.993,0.525,0.0964,0.179,52.793,323227,4
+156, Led Zeppelin,Whole Lotta Love - 1990 Remaster,rock,0hCB0YR03f6AmQaHbwWDe8,0.412,0.902,9,-11.6,1,0.405,0.0484,0.131,0.405,0.422,89.74,333893,4
+157, Jimi Hendrix,All Along the Watchtower,rock,2aoo2jlRnM3A0NyLQqMN2f,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253,240800,4
+158, AC/DC,Back In Black,rock,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,1,0.047,0.011,0.00965,0.0828,0.763,188.386,255493,4
+159, The Rolling Stones,"Paint It, Black - Mono",rock,1RJeiAIwR9pZBgJA8ndZLL,0.505,0.836,5,-7.384,0,0.101,0.0103,0.0771,0.295,0.764,159.669,204480,4
+160, David Bowie,Rebel Rebel - 1999 Remaster,rock,66lOpKgTyFjOrac4S1s94g,0.676,0.92,9,-7.96,1,0.0435,0.00101,8.65e-06,0.248,0.624,126.341,269360,4
+161, The Beatles,Come Together - Remastered 2009,rock,2EqlS6tkEnglzr7tkKAAYD,0.533,0.376,9,-11.913,0,0.0393,0.0302,0.248,0.0926,0.187,165.007,259947,4
+162, The Clash,Should I Stay or Should I Go - Remastered,rock,39shmbIHICJ2Wxnk1fPSdz,0.742,0.833,2,-6.463,1,0.115,0.079,0.0,0.384,0.816,113.375,188987,4
+163, The Who,Baba O'Riley,rock,2KmEgiY8fQs0G6WNxtzQKr,0.489,0.724,5,-8.367,1,0.0352,0.313,0.185,0.287,0.15,117.292,300400,4
+164, Aerosmith,Sweet Emotion,rock,24NwBd5vZ2CK8VOQVnqdxr,0.38,0.76,9,-10.961,1,0.0378,0.00298,0.0294,0.104,0.491,99.437,274133,4
+165, Queen,Another One Bites The Dust - Remastered 2011,rock,57JVGBtBLCfHw2muk5416J,0.933,0.528,5,-6.472,0,0.162,0.112,0.329,0.163,0.756,109.975,214653,4
+166, The Doors,Light My Fire,rock,5uvosCdMlFdTXhoazkTI5R,0.413,0.725,3,-5.787,0,0.0324,0.369,2.16e-05,0.0905,0.44,124.618,429760,4
+167, ZZ Top,La Grange - 2005 Remaster,rock,70YvYr2hGlS01bKRIho1HM,0.545,0.64,4,-9.937,0,0.224,0.00249,0.0304,0.196,0.606,80.544,230480,4
+168, Tom Petty and the Heartbreakers,American Girl,rock,7MRyJPksH3G2cXHN8UKYzP,0.55,0.824,2,-5.988,1,0.0334,0.448,0.000127,0.366,0.777,114.512,214733,4
+169, Guns N' Roses,Paradise City,rock,3YBZIN3rekqsKxbJc9FZko,0.273,0.952,11,-8.762,1,0.0843,0.0169,0.0111,0.142,0.472,100.271,405640,4
+170, The Animals,House Of The Rising Sun,rock,61Q9oJNd9hJQFhSDh6Qlap,0.315,0.534,9,-7.552,0,0.031,0.000825,0.108,0.101,0.283,116.891,269720,3
+171, Bob Dylan,Like a Rolling Stone,rock,3AhXZa8sUQht0UEdBJgpGc,0.483,0.721,0,-6.836,1,0.032,0.729,0.0,0.189,0.562,95.261,369600,4
+172, Cream,Sunshine Of Your Love,rock,2K2M0TcglCRLLpFOzKeFZA,0.683,0.594,2,-8.289,1,0.0347,0.385,8.61e-05,0.121,0.734,115.099,250400,4
+173, Lynyrd Skynyrd,Sweet Home Alabama,rock,4CJVkjo5WpmUAKp3R44LNb,0.597,0.605,7,-12.013,1,0.0255,0.181,0.000331,0.118,0.886,97.782,281147,4
+174, Creedence Clearwater Revival,Fortunate Son,rock,4BP3uh0hFLFRb5cjsgLqDh,0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77,140773,4
+175, Pink Floyd,"Another Brick in the Wall, Pt. 2",rock,4gMgiXfqyzZLMhsksGmbQV,0.694,0.394,0,-15.881,1,0.0428,0.0781,0.000677,0.247,0.719,104.126,238747,4
+176, Fleetwood Mac,The Chain,rock,2X6gdRlGOQgfaXU9ALUQFQ,0.546,0.529,9,-13.6,1,0.0436,0.0629,0.000567,0.0383,0.574,151.727,271000,4
+177, Janis Joplin,Me and Bobby McGee,rock,1IqFh00G2kvvMm8pRMpehA,0.453,0.464,2,-10.96,1,0.0431,0.302,5.96e-05,0.152,0.658,93.19,271333,4
+178, Eagles,Hotel California - 2013 Remaster,rock,40riOy7x9W7GXjyGp4pjAv,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,391376,4
+179, Steve Miller Band,The Joker,rock,371VkfwKiXJxgH5ZPoQNHD,0.596,0.448,5,-9.616,1,0.0396,0.365,5.3e-06,0.206,0.796,83.293,264504,4
+180, Steppenwolf,Born To Be Wild,rock,63OFKbMaZSDZ4wtesuuq6f,0.438,0.71,2,-12.412,1,0.0919,0.262,0.537,0.221,0.53,145.928,210373,4
+181, Buffalo Springfield,For What It's Worth,rock,1qRA5BS78u3gME0loMl9AA,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883,153693,4
+182, Boston,More Than a Feeling,rock,32kgOw8wejH7zUhtXCM8DH,0.377,0.682,7,-8.039,1,0.0299,0.000894,0.00217,0.0504,0.288,108.736,285133,4
+183, Dire Straits,Sultans of Swing,rock,6cr6UDpkjEaMQ80OjWqEBQ,0.73,0.868,5,-7.325,1,0.0288,0.0632,0.0661,0.318,0.923,148.217,350400,4
+184, Jefferson Airplane,Somebody to Love,rock,4uGIJG1jYFonGc4LGp5uQL,0.504,0.578,4,-9.302,1,0.031,0.408,0.0,0.321,0.654,132.411,174840,4
+185, Lou Reed,Walk On the Wild Side,rock,5p3JunprHCxClJjOmcLV8G,0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522,254173,4
+186, KISS,Rock And Roll All Nite,rock,6KTv0Z8BmVqM7DPxbGzpVC,0.654,0.929,1,-5.906,1,0.0998,0.0468,0.0,0.0539,0.902,144.774,168840,4
+187, Rush,Tom Sawyer,rock,3QZ7uX97s82HFYSmQUAN1D,0.536,0.901,9,-7.211,1,0.0374,0.00145,0.0186,0.06,0.666,87.559,276880,4
+188, Queen David Bowie,Under Pressure - Remastered,rock,2aSFLiDPreOVP6KHiWk4lF,0.663,0.712,2,-7.268,1,0.0479,0.524,0.0,0.0804,0.527,113.439,236520,4
+189, Prince,When Doves Cry,rock,51H2y6YrNNXcy3dfc3qSbA,0.729,0.989,9,-4.613,0,0.049,0.0102,4.45e-05,0.443,0.84,126.47,352906,4
+190, The Police,Every Breath You Take - Remastered 2003,rock,2sXp9Qmvc7mRaDBjBgcGGi,0.813,0.46,1,-9.78,1,0.0346,0.56,0.0105,0.0724,0.729,117.387,253887,4
+191, Blue Öyster Cult,(Don't Fear) The Reaper,rock,5QTxFnGygVM4jFQiBovmRo,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000208,0.297,0.385,141.466,308120,4
+192, America George Martin,A Horse with No Name,rock,54eZmuggBFJbV7k248bTTt,0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,252240,4
+193, Elton John,"Rocket Man (I Think It's Going To Be A Long, Long Time)",rock,3gdewACMIVMEWVbyb8O9sY,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,281613,4
+194, Cheap Trick,I Want You to Want Me,rock,1JkZg3eMQTmTn93E8Yd3UL,0.806,0.462,2,-12.778,1,0.0298,0.78,0.0134,0.15,0.736,92.726,191227,4
+195, Led Zeppelin,Kashmir - Remaster,rock,6Vjk8MNXpQpi0F4BefdTyq,0.483,0.615,2,-8.538,1,0.0497,0.452,0.000414,0.0512,0.594,80.576,517125,3
+196, Aerosmith,Dream On,rock,5MxNLUsfh7uzROypsoO5qe,0.307,0.433,1,-10.057,1,0.029,0.388,9.08e-05,0.332,0.224,160.9,266960,4
+197, AC/DC,Highway to Hell,rock,2zYzyRzz6pRmhPzyfMEC8s,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,208400,4
+198, Stevie Nicks,Edge of Seventeen - 2016 Remaster,rock,5LNiqEqpDc8TuqPy79kDBu,0.591,0.804,0,-7.299,1,0.0454,0.327,5.98e-06,0.0818,0.658,111.457,329413,4
+199, Joan Jett & The Blackhearts,I Hate Myself for Loving You,rock,2HXixVqzzm9rEUIMAWzshl,0.611,0.883,9,-11.225,1,0.0539,0.0846,1.2e-06,0.192,0.604,117.928,246800,4
+200, Queen,Bohemian Rhapsody - Remastered 2011,rock,1AhDOtG9vPSOmsWgNW0BEY,0.414,0.404,0,-9.928,0,0.0499,0.271,0.0,0.3,0.224,71.105,354320,4
+201, Cream,White Room,rock,5X76oXHcR5uCXali0gOyX5,0.55,0.576,0,-13.475,1,0.0306,0.178,0.00935,0.0555,0.486,109.837,303200,4
+202, Creedence Clearwater Revival,Fortunate Son,rock,5e6x5YRnMJIKvYpZxLqdpH,0.636,0.746,0,-3.785,1,0.0393,0.0648,0.29,0.173,0.432,132.31,138053,4
+203, Derek & The Dominos,Layla - 40th Anniversary Version / 2010 Remastered,rock,3k9i7UzeSUYWIfUZFeFDUd,0.404,0.903,1,-3.88,1,0.0668,0.577,0.297,0.287,0.498,115.672,423840,4
+204, Don McLean,American Pie,rock,1fDsrQ23eTAVFElUMaf38X,0.531,0.481,4,-11.709,0,0.06,0.699,0.0,0.0842,0.491,138.45,516893,4
+205, Bob Dylan,Hurricane,rock,1lqMLr9Wj7SM2F9AikGcxN,0.509,0.827,0,-7.715,1,0.079,0.0409,0.0,0.12,0.743,135.601,512733,4
+206, Black Sabbath,Paranoid,rock,1Ly0ssAgeM7YqdHptao8Oe,0.426,0.619,4,-11.501,0,0.0722,8.44e-05,0.00239,0.17,0.382,162.721,168440,4
+207, Deep Purple,Smoke on the Water,rock,5SAUIWdZ04OxYfJFDchC7S,0.632,0.586,0,-11.333,1,0.0284,0.0983,0.581,0.0535,0.89,114.243,342173,4
+208, T. Rex,Bang a Gong (Get It On) - Remastered Version,rock,6FsQrRpBLgsrFeAeiQqytm,0.729,0.818,2,-9.992,1,0.0732,0.157,0.285,0.195,0.907,125.811,267000,4
+209, The Knack,My Sharona,rock,1HOMkjp0nHMaTnfAkslCQj,0.586,0.7,0,-9.558,1,0.0363,0.0589,0.00125,0.0318,0.897,147.245,295400,4
+210, The Byrds,Turn! Turn! Turn! (To Everything There Is a Season),rock,5qBqBdfTEIWJwAS0Jm2F5R,0.452,0.818,2,-8.124,1,0.0439,0.135,2.72e-05,0.052,0.755,124.474,229360,4
+211, Grateful Dead,Casey Jones - 2013 Remaster,rock,7LbfuQVct78YoghmoPtsQ8,0.671,0.405,0,-10.052,1,0.0392,0.385,0.0,0.132,0.828,99.678,265067,4
+212, Led Zeppelin,Immigrant Song - Remaster,rock,78lgmZwycJ3nzsdgmPPGNx,0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937,146250,4
+213, AC/DC,Dirty Deeds Done Dirt Cheap,rock,2d4e45fmUnguxh6yqC7gNT,0.668,0.906,11,-4.881,0,0.17,0.214,0.00245,0.135,0.507,135.653,231933,4
+214, Van Halen,Jump - 2015 Remaster,rock,7N3PAbqfTjSEU1edb2tY8j,0.572,0.835,0,-6.219,1,0.0317,0.171,0.000376,0.0702,0.796,129.994,241600,4
+215, Mötley Crüe,Kickstart My Heart,rock,7GonnnalI2s19OCQO1J7Tf,0.361,0.97,7,-4.817,0,0.284,0.00169,0.00163,0.357,0.254,179.017,282920,4
+216, Journey,Don't Stop Believin',rock,4bHsxqR3GMrXTxEPLuK5ue,0.5,0.748,4,-9.072,1,0.0363,0.127,0.0,0.447,0.514,118.852,250987,4
+217, Bruce Springsteen,Born in the U.S.A.,rock,0dOg1ySSI7NkpAe89Zo0b9,0.398,0.952,4,-6.042,1,0.061,0.000373,7.75e-05,0.1,0.584,122.093,278680,4
+218, Depeche Mode Francois Kevorkian,Personal Jesus - Original Single Version,rock,1xShPgQbOUa98avWJQFDBY,0.637,0.682,11,-11.625,1,0.0366,0.0112,0.0234,0.0473,0.714,129.983,224907,4
+219, The Clash,London Calling - Remastered,rock,5jzma6gCzYtKB1DbEwFZKH,0.651,0.801,0,-7.34,1,0.0513,0.123,0.0,0.0825,0.776,133.763,200480,4
+220, Kansas,Carry on Wayward Son,rock,4DMKwE2E2iYDKY01C335Uw,0.482,0.786,7,-5.735,1,0.032,0.00321,8.88e-05,0.446,0.793,126.755,323000,4
+221, Creedence Clearwater Revival,Have You Ever Seen The Rain,rock,2LawezPeJhN4AWuSB0GtAU,0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109,160133,4
+222, The Beatles,Back In The U.S.S.R. - 2018 Mix,rock,5Ly2g3fnof2iFE8zsQZJX2,0.51,0.893,9,-9.267,1,0.0342,0.00102,5.85e-05,0.201,0.934,142.657,163467,4
+223, The Kinks,You Really Got Me,rock,1oG2vWELiGjIqxwqGcyqwF,0.567,0.959,8,-3.822,1,0.102,0.0995,6.07e-05,0.1,0.961,137.377,133933,4
+224, Pretenders,Back on the Chain Gang - 2007 Remaster,rock,4cMHCRLPNoEbpnl2rz6GS9,0.598,0.901,2,-6.081,1,0.0359,0.116,0.0401,0.178,0.814,153.24,231120,4
+225, Supertramp,Give A Little Bit,rock,6XUHsYE38CEbYunT983O9G,0.531,0.818,2,-5.358,1,0.0452,0.0694,0.0096,0.263,0.471,90.767,248173,4
+226, The Doors,Riders on the Storm,rock,14XWXWv5FoCbFzLksawpEe,0.549,0.722,11,-11.729,0,0.0283,0.25,0.0138,0.11,0.716,103.885,434720,4
+227, Guns N' Roses,Sweet Child O' Mine,rock,7o2CTH4ctstm8TNelqjb51,0.454,0.91,6,-7.766,1,0.0448,0.0866,0.0996,0.116,0.629,125.116,354520,4
+228, Tom Petty,Free Fallin',rock,5tVA6TkbaAH9QMITTQRrNv,0.623,0.449,5,-13.333,1,0.0253,0.212,0.0,0.0613,0.572,84.383,256000,4
+229, Ozzy Osbourne,Crazy Train,rock,2b9lp5A6CqSzwOrBfAFhof,0.453,0.905,9,-4.001,1,0.115,0.36,0.000569,0.26,0.474,137.571,296200,4
+230, The Rolling Stones,(I Can't Get No) Satisfaction - Mono Version,rock,2PzU4IB8Dr6mxV3lHuaG34,0.723,0.863,2,-7.89,1,0.0338,0.0383,0.0317,0.128,0.931,136.302,222813,4
+231, Heart,Barracuda,rock,4KfSdst7rW39C0sfhArdrz,0.547,0.691,4,-13.553,0,0.0369,0.015,0.105,0.144,0.667,137.148,261933,4
+232, Kansas,Dust in the Wind,rock,6zeE5tKyr8Nu882DQhhSQI,0.475,0.322,7,-10.687,1,0.0283,0.367,0.00056,0.11,0.387,93.503,206267,4
+233, Aerosmith,Walk This Way,rock,2vX5WL7s6UdeQyweZEx7PP,0.629,0.785,5,-10.761,1,0.0471,0.0249,9.45e-06,0.0522,0.869,108.531,211027,4
+234, Bad Company,Feel like Makin' Love - 2015 Remaster,rock,3KPwt1LBpt1jVSHz8GXERo,0.543,0.529,7,-9.717,1,0.0301,0.326,0.00269,0.709,0.746,85.126,313840,4
+235, Ted Nugent,Stranglehold,rock,2f0P7iELCvAlV8j6Z3rGDE,0.484,0.711,2,-7.784,1,0.0331,0.0183,0.173,0.0941,0.49,148.189,503067,4
+236, AC/DC,T.N.T.,rock,7LRMbd3LEoV5wZJvXT1Lwb,0.754,0.759,9,-5.218,1,0.302,0.153,0.000108,0.101,0.435,126.366,214667,4
+237, Bon Jovi,Livin' On A Prayer,rock,0J6mQxEZnlRt9ymzFntA6z,0.534,0.887,0,-3.777,1,0.0345,0.0768,9.93e-05,0.325,0.72,122.494,249293,4
+238, The Hollies,Long Cool Woman (In a Black Dress) - 1999 Remaster,rock,5UwbnHhjnbinJH8TefuQfN,0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.923,199200,4
+239, Eagles,Life in the Fast Lane - 2013 Remaster,rock,6gXrEUzibufX9xYPk3HD5p,0.667,0.755,9,-7.246,1,0.069,0.0966,6.94e-05,0.0523,0.883,109.535,286220,4
+240, The Rolling Stones,Gimme Shelter,rock,1dv3ePjze9tPq2pk8eWJdR,0.63,0.616,1,-8.128,0,0.0309,0.463,0.0408,0.173,0.509,118.65,270773,4
+241, Free,All Right Now,rock,7IhkWF9zpiYKlU7CxHxYT9,0.766,0.446,2,-13.079,1,0.0867,0.25,0.000704,0.318,0.743,119.774,332907,4
+242, Lynyrd Skynyrd,Free Bird,rock,4JNi40t7xR5bO3PWxRkiPN,0.279,0.852,7,-7.838,1,0.0511,0.0119,0.076,0.0624,0.438,117.418,558933,4
+243, AC/DC,You Shook Me All Night Long,rock,2SiXAy7TuUkycRVbbWDEpo,0.532,0.767,7,-5.509,1,0.0574,0.00287,0.000513,0.39,0.755,127.361,210173,4
+244, Pink Floyd,Money - 2011 Remastered Version,rock,3aoDEt6zSuYQ47gzarlaVo,0.469,0.537,9,-10.421,1,0.152,0.0241,0.00201,0.269,0.783,124.193,382834,1
+245, Guns N' Roses,Welcome To The Jungle,rock,0eFvoRSTTaR2q8bSWVjwfp,0.456,0.978,10,-4.869,0,0.112,0.0301,0.499,0.313,0.327,123.411,271867,4
+246, David Bowie,Let's Dance - 1999 Remaster,rock,0F0MA0ns8oXwGw66B2BSXm,0.619,0.703,10,-9.414,0,0.0525,0.00388,0.205,0.163,0.709,115.043,457133,4
+247, Cream,Sunshine Of Your Love,rock,5y4761pjcksXs1hNsCmc4n,0.691,0.592,2,-8.089,1,0.0366,0.389,3.29e-05,0.124,0.736,115.152,250400,4
+248, Queen,We Will Rock You - Remastered,rock,54flyrjcdnQdco7300avMJ,0.693,0.497,2,-7.316,1,0.119,0.679,0.0,0.258,0.473,81.308,122067,4
+249, The Who,Pinball Wizard,rock,1zGk1kgAxCpg6PHjGuLe4J,0.543,0.715,2,-8.89,1,0.0356,0.0192,0.0,0.256,0.468,124.011,180943,4
+250, The Rolling Stones,Beast Of Burden - Remastered,rock,0832Tptls5YicHPGgw7ssP,0.786,0.87,1,-3.875,0,0.0316,0.413,0.000494,0.0389,0.864,100.66,265173,4
+251, Talking Heads,Once in a Lifetime - 2005 Remaster,rock,38Ngied9rBORlAbLYNCl4k,0.644,0.919,2,-6.289,1,0.0561,0.181,0.134,0.622,0.871,117.459,259907,4
+252, Boston,Peace of Mind,rock,3sY6z4pGcxpMwx3W026WtU,0.421,0.677,4,-6.183,1,0.0343,0.000989,9.65e-05,0.211,0.683,127.67,303587,4
+253, Black Sabbath,Iron Man - 2012 - Remaster,rock,3IOQZRcEkplCXg6LofKqE9,0.336,0.792,9,-10.875,1,0.084,0.00351,0.00175,0.0437,0.427,155.587,355304,4
+254, The Doobie Brothers,Listen to the Music,rock,7Ar4G7Ci11gpt6sfH9Cgz5,0.645,0.598,1,-13.18,0,0.0335,0.221,3.53e-06,0.0721,0.913,105.929,227267,4
+255, The Rolling Stones,Wild Horses - 2009 Mix,rock,52dm9op3rbfAkc1LGXgipW,0.432,0.389,7,-6.517,1,0.0255,0.687,0.0107,0.0788,0.158,139.506,341773,4
+256, Skip the Use,Ghost,rock,59p3L2BcqN4L2DBBeg0KlQ,0.681,0.875,6,-4.272,0,0.0662,0.323,0.0,0.347,0.883,97.997,188533,4
+257, Saez,Jeune et con,rock,0xLWMbuXHlW2O1DouU57AK,0.427,0.808,4,-6.939,0,0.0647,0.00111,0.0,0.744,0.33,102.893,232973,4
+258, Louise Attaque,Ton invitation,rock,0xHLq3Ko1jt86yrcf1M04E,0.458,0.58,6,-7.835,0,0.0662,0.151,1.29e-06,0.282,0.628,98.405,159867,4
+259, Les Rita Mitsouko,Ding Dang Dong (Ringing at Your Bell),rock,5SMv636dHIy8h1TXjoboue,0.644,0.895,2,-5.666,0,0.0365,0.0486,0.00732,0.212,0.839,122.1,219933,4
+260, Gaëtan Roussel,Help Myself (Nous Ne Faisons Que Passer),rock,0M2Xjjd8xgwe8zJOzFPJlH,0.676,0.911,0,-3.605,0,0.0438,0.214,0.0,0.517,0.715,130.997,166293,4
+261, Indochine,Alice & June - Mix 2020,rock,7taoYAfDTtuI5dxSBeijUO,0.456,0.888,2,-6.36,0,0.0756,0.00253,0.0214,0.322,0.315,136.114,208987,4
+262, Empyr,New Day,rock,1UjnPnV8ua8XL6BulbZmru,0.466,0.931,11,-2.158,0,0.0494,0.000706,0.0426,0.432,0.419,101.592,175133,4
+263, Silmarils Clive Martin,Karma,rock,5Mhh4h7CIC8EgwTtJjcc98,0.64,0.87,5,-7.91,0,0.101,0.0234,0.00502,0.166,0.904,79.971,222773,4
+264, Miossec,Les Bières Aujourd’hui S’ouvrent Manuellement,rock,3YcylKDWGtb9yuBVJRObmO,0.563,0.868,11,-3.443,0,0.0341,0.000114,0.0483,0.245,0.94,102.912,178720,4
+265, F.F.F.,Le pire et le meilleur,rock,3SrUddck55h8vSltaiRGdi,0.543,0.927,9,-7.055,0,0.064,0.0592,0.000569,0.377,0.721,127.762,205467,4
+266, Astonvilla Jean Baptiste Mory Greg Baudrier Emmanuel Baroux Franck Pilant Frédéric Franchitti,Regarde-moi,rock,6Fo0iSM2LaVTCLS3WkTXgz,0.478,0.819,8,-2.127,1,0.032,0.000619,2.11e-05,0.234,0.405,92.026,240560,4
+267, Louise Attaque,Anomalie,rock,4lzxPainD9ovAzAAAeXoqs,0.593,0.846,6,-6.556,0,0.0455,0.149,1.67e-06,0.13,0.421,123.987,189520,4
+268, -M-,Mojo,rock,3XwQ8ks84wlj3YcRyxXrlN,0.413,0.943,1,-5.195,1,0.12,0.00125,0.0536,0.134,0.457,157.001,196600,4
+269, Bertrand Cantat,L’Angleterre,rock,1QN7BO1eG8CsnmdZi72agF,0.524,0.721,1,-6.181,1,0.0281,0.289,0.00251,0.19,0.487,98.039,259347,4
+270, Saez,J'accuse,rock,1tlli4qq3WJANcXdC1ZM6h,0.743,0.712,9,-5.018,0,0.0624,0.0759,0.0,0.0785,0.884,107.013,268533,4
+271, Last Train,Cold Fever,rock,1faHiTYxPg7wTpxTTsbK0U,0.312,0.514,10,-11.239,1,0.0526,0.0145,0.059,0.114,0.416,163.087,210250,4
+272, Pogo Car Crash Control,Comment lui en vouloir,rock,10k8YznHTvTzcQq4bwrX5T,0.268,0.855,2,-5.791,0,0.0448,3.32e-05,0.138,0.242,0.34,126.343,167901,4
+273, Izïa,Let Me Alone,rock,5R8TGuZ8WSbH2ASGlLDpKg,0.41,0.772,9,-5.741,1,0.111,0.0301,0.038,0.09,0.556,161.868,231067,4
+274, Marcel et son Orchestre,Raoul et Alain,rock,6QRrR32Yx14b9j1tcd82A0,0.664,0.827,4,-5.159,0,0.162,0.0166,4.42e-06,0.0886,0.7,96.9,153653,4
+275, Stereotypical Working Class,Already Lost,rock,2eipnelVQfW7dXcpFJonAQ,0.567,0.816,9,-5.228,0,0.0655,0.00164,0.106,0.471,0.318,92.034,210893,4
+276, Pleymo,Divine excuse,rock,0e5gaFZGe4hYscBzPBlc80,0.547,0.899,4,-4.967,1,0.0632,0.000199,0.0,0.327,0.449,99.931,210493,4
+277, Saez,Jeunesse lève-toi,rock,4SNHtnHyAbSXgE7vbdblwp,0.733,0.28,2,-16.82,0,0.0422,0.835,7.6e-06,0.117,0.52,100.011,285733,4
+278, Noir Désir,Le vent nous portera,rock,2ZQVJD9I6GCqXmkmMuEoLa,0.669,0.702,4,-10.616,0,0.0582,0.713,0.0408,0.119,0.793,105.232,288693,4
+279, Mickey 3d,Respire,rock,2xcuDxTLlp0ro2GYlS1i9G,0.709,0.827,11,-4.4,0,0.0554,0.0372,0.386,0.228,0.371,96.972,228347,4
+280, Les Innocents,Colore,rock,0YtkBsAVQM8En4dRTrPjVp,0.578,0.912,4,-6.37,1,0.0474,0.061,0.0739,0.1,0.604,108.849,294440,4
+281, Da Silva,L'indécision,rock,41zrRHYHY72LCf2hzaK18z,0.67,0.611,11,-5.445,0,0.054,0.681,0.00261,0.127,0.912,142.263,185066,4
+282, Les Wampas,Rimini,rock,5xo1GjsebrOd1iUVoJ6SEK,0.61,0.523,9,-5.95,1,0.0266,0.0467,0.00839,0.17,0.647,102.763,163760,4
+283, Kaolin,Partons vite,rock,4bsSygJynZCIoU5xje0KQA,0.595,0.771,0,-7.695,0,0.0421,0.454,1.24e-06,0.172,0.701,94.963,241147,4
+284, Matmatah,La cerise,rock,2quLcKfpSNzpnqSnR41MA5,0.547,0.745,2,-4.969,0,0.0397,0.0375,0.0,0.0851,0.358,104.935,215760,4
+285, Cali,Elle m'a dit,rock,631aobaJggPYE0nIh3mo2t,0.575,0.947,4,-3.751,0,0.0617,0.156,0.0,0.14,0.504,134.124,213800,4
+286, Tarmac,Notre Epoque,rock,0tas4ZLkePk8aTjt5eesp6,0.555,0.714,0,-6.044,1,0.0291,0.425,0.00225,0.13,0.644,132.031,214667,4
+287, Autour de Lucie,Je reviens,rock,44zWQlazwx1gxxF3Sg4ujg,0.431,0.473,4,-8.763,0,0.0258,0.432,0.24,0.196,0.173,150.058,369267,4
+288, Joseph d'Anvers,Radio 1,rock,4NpWFcNncNPuCvdP59vFTO,0.594,0.912,0,-6.919,1,0.0376,0.00343,0.426,0.164,0.652,108.019,193440,4
+289, Blankass,Qui que tu sois,rock,6oS7ATqkkkuPH96EaUht4t,0.465,0.873,9,-3.833,0,0.0259,0.0176,0.00359,0.241,0.389,89.032,226587,4
+290, Detroit,Droit Dans Le Soleil,rock,4rpeOY4yFkKFcImfFxZqqu,0.342,0.19,9,-11.601,0,0.0416,0.895,0.000673,0.155,0.291,182.133,204747,3
+291, Arman Méliès,Constamment je brûle,rock,5snWds11nfrlppIdIpkm2U,0.412,0.739,2,-7.369,1,0.0439,0.0216,1.02e-06,0.271,0.398,147.908,354600,4
+292, Prohom,Ca Oublie D'Aimer,rock,4cCSn4Pj0f2npuxs3vBGGF,0.653,0.681,0,-6.005,0,0.183,0.00843,1.46e-06,0.122,0.687,158.44,220573,4
+293, Têtes Raides,L'Iditenté,rock,0YfbfdutOwXknxNIY1qwJ4,0.321,0.702,10,-4.622,0,0.0399,0.0339,0.000907,0.119,0.512,148.301,266080,4
+294, Romain Humeau,Amour,rock,4Qe42FWomEZkq3pqLcj27R,0.631,0.791,11,-6.175,0,0.0343,0.00092,0.522,0.246,0.433,90.008,260427,4
+295, Les Fatals Picards,Le Retour à la terre,rock,715zIQcEj658KTFby8MJYp,0.75,0.891,5,-5.033,1,0.0633,0.203,0.0,0.363,0.846,102.06,232773,4
+296, Gaëtan Roussel,Dis-Moi Encore Que Tu M'Aimes,rock,7vyAq4J0ca56TYWQMN727O,0.68,0.862,1,-3.877,0,0.0286,0.0292,0.7,0.0905,0.968,137.038,188173,4
+297, Archimède,Le bonheur,rock,1WsPkcmKon4hQypbdtYiTo,0.732,0.671,2,-5.0,1,0.0392,0.0877,0.0,0.111,0.809,121.012,155707,4
+298, Les Innocents,Apache,rock,0k6WbOgPM0GjIhd0Vxx4j3,0.717,0.934,7,-5.461,1,0.0507,0.436,0.000624,0.0734,0.65,153.055,213907,4
+299, Mademoiselle K.,Jouer dehors,rock,3TVoY7A5OWdJvefHDEsfRf,0.675,0.701,9,-7.135,0,0.0457,0.167,0.0,0.119,0.599,117.887,213880,4
+300, Elista,Debout,rock,7BtHv7yR6us7qkRdfyvzu5,0.602,0.788,0,-5.734,1,0.0298,0.000838,0.0032,0.197,0.627,125.045,197560,4
+301, Tue-Loup,Merlin,rock,4tOr7XnGmkBV8zBwu5B7mx,0.433,0.581,4,-8.417,0,0.0269,0.0576,0.0447,0.492,0.0777,76.737,195333,4
+302, Adrienne Pauly,J'veux un mec - Marlon B,rock,2r9210ixI5FD7YPopfJXnf,0.754,0.794,9,-5.139,1,0.107,0.0275,0.0,0.116,0.748,122.049,253493,4
+303, Philippe Uminski,Mon Premier Amour,rock,2o2yCKpq08l85uNKUmkNp2,0.486,0.797,1,-4.562,1,0.0699,0.0984,0.0,0.164,0.459,140.141,200013,4
+304, Cyril Mokaiesh,Communiste,rock,3QpuDyTolGXxkePqvD86SP,0.4,0.843,7,-5.515,0,0.0787,0.109,0.0,0.102,0.476,173.975,241720,4
+305, La Maison Tellier,Sur un volcan,rock,3bFcSg0cC6ACPqavbsVcAH,0.372,0.652,7,-9.75,0,0.0404,0.424,0.00811,0.0828,0.486,110.044,184322,4
+306, Frédéric Chopin Omario Baggeman Jean Baudin Clarke,"Nocturne in E Flat Major, Op. 9 No. 2: II. Andante (E Flat major)",classique,1wrnhZmN2HXPJ30QAzFLSZ,0.459,0.0829,10,-24.866,1,0.052,0.949,0.952,0.12,0.155,98.662,282355,4
+307, Betoven Collection,Moonlight Sonata (1st Movement),classique,1LNqr2FALBNFX1smNJcKD2,0.262,0.0167,1,-29.46,0,0.0533,0.994,0.908,0.143,0.114,79.842,314305,3
+308, Betoven Collection,Für Elise,classique,0dQZmVKzYF3F9W64ESs8h4,0.263,0.127,9,-25.092,0,0.0423,0.98,0.849,0.109,0.0906,140.442,172980,4
+309, Frédéric Chopin Maximilian Oberroither,"Nocturne in C-sharp minor, B.49 : Lento con gran espressione",classique,73FM6KfVTjgUUEyH6NqDBd,0.345,0.00721,6,-29.185,0,0.0493,0.988,0.951,0.109,0.174,129.047,234548,4
+310, Claude Debussy Omario Baggeman Jean Baudin Clarke,"Suite Bergamasque, L. 75: III. Clair de lune",classique,6GXPVW6kZNqhgKmFv2HnuV,0.458,0.00626,1,-22.566,1,0.0524,0.992,0.934,0.0838,0.0659,69.053,299445,3
+311, Frédéric Chopin Maximilian Oberroither,"Waltzes in C-sharp minor, Op.64: II. Tempo giusto",classique,69JxLSmBK4u134IDyO2zUJ,0.253,0.105,1,-23.526,0,0.0432,0.982,0.932,0.447,0.203,128.312,240682,3
+312, Yann Tiersen Jean Baudin Clarke,"Comptine d`un autre ete, l`apres-midi",classique,6t26lJyF9QkbHzUMI5k3Fd,0.386,0.0455,4,-21.716,0,0.0474,0.978,0.925,0.0926,0.332,191.854,134490,4
+313, Betoven Collection,Moonlight Sonata (3rd Movement),classique,7wyOeWMb8aiR2qjdCEEYZJ,0.242,0.193,9,-23.566,1,0.037,0.968,0.862,0.105,0.113,155.866,427247,4
+314, Ryan Tenner,River Flows In You,classique,6O4MAAXOQ7mmLFpHqi7kMU,0.344,0.121,9,-23.438,1,0.0527,0.936,0.896,0.103,0.0923,139.318,180249,4
+315, Johann Pachelbel Omario Baggeman Jean Baudin Clarke,"Canon and Gigue in D major, P.37: I. Canon",classique,0U8QSYMw4xJTNM8IaP6PnD,0.401,0.0455,2,-22.912,1,0.0538,0.987,0.94,0.0831,0.112,130.349,187246,4
+316, Maximilian Oberroither,La Valse d'Amélie,classique,59d6uevB0QGLjUilTex8Qn,0.243,0.0848,0,-19.873,1,0.04,0.987,0.947,0.0692,0.0826,173.96,150881,1
+317, Franz Liszt Omario Baggeman Jean Baudin Clarke,"Liebesträume, S.541 ""Liebestraum"": III. Oh Lieb, so lang du lieben kannst",classique,70xgYbOQxi9XRbf7c7LwIZ,0.268,0.039,8,-23.718,1,0.0541,0.98,0.911,0.101,0.0369,77.043,263036,3
+318, Franz Schubert Franz Liszt Maximilian Oberroither,"Ständchen in D Minor, S. 560 (Trans. from Schwanengesang No. 4, D. 957)",classique,53gjVXIaYliSNUlvamzcPp,0.421,0.023,2,-27.725,1,0.0415,0.995,0.944,0.112,0.152,133.314,225417,4
+319, Erik Satie Omario Baggeman Jean Baudin Clarke,3 Gymnopédies: Gymnopédie No.1,classique,5iPeralcsBvYAVKvCWPEAt,0.685,0.00832,7,-30.099,1,0.0693,0.992,0.956,0.103,0.351,72.993,192447,3
+320, Maurice Ravel Maximilian Oberroither,"Pavane pour une infante défunte, M. 19",classique,3pA7cZpRMiPMwQIJUnWRrj,0.502,0.0196,4,-26.013,0,0.065,0.993,0.936,0.0889,0.125,131.522,354477,4
+321, Robert Schumann Maximilian Oberroither,"Kinderszenen in F Major, Op.15: VII. Träumerei",classique,0BJpqDSyXSlIPFvwuOK3Wv,0.503,0.00375,5,-34.903,1,0.0721,0.995,0.962,0.0709,0.427,67.073,168649,4
+322, Franz Liszt Maximilian Oberroither,"Grandes études de Paganini Etude in G Sharp minor, S.141: III. La Campanella",classique,2St2m1RskZmhzWUCp4ucPw,0.34,0.247,8,-23.743,0,0.0451,0.982,0.901,0.122,0.453,90.604,286480,4
+323, Felix Mendelssohn Maximilian Oberroither,"Lieder ohne Worte in F-Sharp Minor, Op.67: II. Allegro leggiero",classique,1onpBEdjVNDuJofNbduon1,0.455,0.184,6,-23.324,0,0.0481,0.986,0.933,0.106,0.506,172.411,118169,3
+324, Claude Debussy Maximilian Oberroither,"2 Arabesques in E-Major, L.66: I. Andantino con moto",classique,57eaF9LgQO2epyhtcYQa5z,0.292,0.0459,4,-27.281,1,0.046,0.981,0.925,0.113,0.139,129.434,242331,3
+325, Alexandra Steliski Jean Baudin Clarke,Plus Tôt,classique,3amF9qc8806rmprCbt8rpp,0.402,0.0912,2,-24.584,1,0.0471,0.937,0.925,0.105,0.159,133.43,170156,1
+326, Claude Debussy Maximilian Oberroither,"Rêverie, L. 68",classique,542GUvNpIGlwYXDbjsT5UW,0.302,0.0143,4,-29.09,1,0.0424,0.989,0.942,0.0845,0.117,69.294,305498,3
+327, Ludovico Einaudi Jean Baudin Clarke,Una Mattina,classique,1uNGBc7tjVyVOMu8y0tcCj,0.244,0.0294,9,-30.31,0,0.0525,0.989,0.905,0.0886,0.055,120.287,211023,4
+328, Wolfgang Amadeus Mozart Maximilian Oberroither,"Piano Sonata No.11 in A-Major, K.331/300i: III. Alla Turca",classique,70fNVvnVv4J1PcQJsi0D0v,0.582,0.258,9,-16.248,1,0.0569,0.966,0.887,0.119,0.771,132.355,206500,4
+329, Felix Mendelssohn Maximilian Oberroither,"Lieder ohne Worte in F-Sharp Minor, Book 2 Op.30 ""Venetianisches Gondellied"": VI. Allegretto tranquillo",classique,0BNzTF7piaXxPQhucFMEuA,0.311,0.0561,6,-22.707,0,0.0437,0.981,0.933,0.118,0.117,86.917,193167,3
+330, Ludwig van Beethoven Maximilian Oberroither,"Rondo a capriccio in G Major, Op.129: Die Wut über den verlorenen Groschen",classique,7F1ny89lDLYuY7Ua3LDjcA,0.287,0.183,7,-18.77,1,0.0364,0.98,0.93,0.119,0.351,74.83,371734,4
+331, Ludwig van Beethoven Maximilian Oberroither,"Piano Sonata No.17 in D Minor, Op.31 No.2 ""The Tempest"": III. Allegretto",classique,362v1xIk2anDa2PLv0shcg,0.345,0.421,7,-17.198,0,0.0401,0.964,0.896,0.133,0.623,97.992,453367,1
+332, Ludovico Einaudi Jean Baudin Clarke,Nuvole Bianche,classique,2GRXu9e3E1h2xiCXUeOzuP,0.273,0.154,8,-22.449,1,0.0669,0.979,0.928,0.109,0.0384,120.052,319507,3
+333, Johann Sebastian Bach Omario Baggeman Jean Baudin Clarke,"Orcherstral Suite No.3 in D major, BWV 1068: II. Air",classique,5Nb7LxV9voRG5uNr72Hiwj,0.578,0.13,2,-21.025,1,0.0613,0.987,0.952,0.0783,0.366,134.008,262293,4
+334, Ludwig van Beethoven Maximilian Oberroither,"Piano Sonata No.21 in C Major, Op.53 ""Waldstein"": I. Allegro con brio",classique,7qghQ3RlCC0BXa3gwD9iJi,0.18,0.0915,0,-24.289,1,0.0316,0.971,0.941,0.143,0.0782,75.434,619935,4
+335, Franz Liszt Maximilian Oberroither,"Hungarian Rhapsody No.2 in C Sharp Minor, S.244/2",classique,0dxduPNKKthcQxzPZEPk05,0.32,0.144,1,-20.772,1,0.0557,0.985,0.91,0.109,0.137,79.855,565768,4
+336, Sergei Rachmaninoff Maximilian Oberroither,"Morceaux de fantaisie in C-Sharp Minor, Op.3: II. Prelude",classique,6QkV6BahHhv0zjQ3zKLg1r,0.477,0.0299,6,-24.55,0,0.091,0.995,0.953,0.102,0.111,78.962,214721,4
+337, Wolfgang Amadeus Mozart Maximilian Oberroither,"Piano Sonata No.16 in C major, K.545 ""Sonata facile"": I. Allegro",classique,557OZa2yJhNQp5Bv12GKhZ,0.287,0.0701,0,-25.355,1,0.0388,0.978,0.926,0.128,0.433,128.195,278768,4
+338, Felix Mendelssohn Maximilian Oberroither,"Lieder ohne Worte in E-Minor, Op. 19 ""Sweet Remembrance"": I. Andante con moto",classique,5OheM4dT5kwlgoaNnL5Dgd,0.395,0.0558,11,-23.324,1,0.0364,0.992,0.929,0.0937,0.303,93.031,168220,4
+339, Johann Sebastian Bach Omario Baggeman Jean Baudin Clarke,"Prelude and Fugue in C major, BWV 846 ""Das wohltemperierte Klavier The Well Tempered Piano"": Book 1. Prelude",classique,6yZjW6jJmpUnrRhYqRWB3O,0.196,0.0214,1,-33.554,1,0.0435,0.992,0.874,0.0971,0.0845,125.186,142663,4
+340, Ludwig van Beethoven Maximilian Oberroither,"Piano Sonata No.8 in C Minor, Op.13 ""Pathétique"": I. Grave - Allegro di molto e con brio",classique,6bvohMRq4PWppPq6PtLSJo,0.388,0.113,0,-21.588,0,0.0658,0.978,0.899,0.107,0.084,79.416,427029,4
+341, Ludwig van Beethoven Maximilian Oberroither,"Piano Sonata No.8 in C Minor, Op.13 ""Pathétique"": II. Adagio Cantabile",classique,0U9RP9AtlHdyBOBKAw1Hhl,0.4,0.00752,8,-30.275,1,0.0465,0.995,0.939,0.118,0.118,132.976,271797,4
+342, Ludwig van Beethoven Maximilian Oberroither,"Piano Sonata No.8 in C Minor, Op.13 ""Pathétique"": III. Rondo (Allegro)",classique,6K64ZB0gTApGygfzVyE1Gh,0.402,0.0901,0,-23.743,0,0.045,0.987,0.917,0.124,0.178,99.621,279406,3
+343, Nikolai Rimsky-Korsakov Maximilian Oberroither,"The Tale of Tsar Saltan, Op. 57 ""Flight of the Bumblebee""",classique,3JAvgDP5wMtZNYdLc71Ipy,0.416,0.208,9,-20.437,1,0.0334,0.985,0.973,0.273,0.279,69.808,62016,4
+344, Erik Satie Danica Binx Gerard Tahaud,Gnossienne: I. Lent,classique,7s2LRlQznQba27yRFiuq3y,0.448,0.0149,5,-24.484,0,0.0552,0.995,0.963,0.0994,0.173,79.987,248917,4
+345, Erik Satie Danica Binx Gerard Tahaud,Gnossienne: II. Avec étonnement,classique,0BLV91AHFIInJwY8WUXwH9,0.493,0.00784,2,-24.845,0,0.0643,0.996,0.964,0.12,0.0706,92.541,172370,4
+346, Erik Satie Danica Binx Gerard Tahaud,Gnossienne: III. Lent,classique,653NitGZ4pRUnlkBtRr33n,0.4,0.0301,9,-24.711,0,0.0734,0.995,0.962,0.105,0.129,142.155,196090,4
+347, Erik Satie Danica Binx Gerard Tahaud,Jeu te veux,classique,16MoFbm3bnW8IHfssDzefa,0.317,0.0566,0,-21.736,1,0.0507,0.991,0.943,0.0871,0.225,74.454,324000,4
+348, Franz Schubert Danica Binx Gerard Tahaud,"4 Impromptus in G Flat Major, D.899: III. Andante",classique,7wK5CRJM8icoiKJLWrYcNz,0.0885,0.0406,6,-25.52,1,0.0392,0.983,0.913,0.109,0.0713,60.577,352474,4
+349, Franz Schubert Danica Binx Gerard Tahaud,"4 Impromptus in A-Flat major, D.899: IV. Allegretto",classique,0i3xrAT0dj7T9Yi9cSlmJl,0.291,0.0238,8,-25.26,1,0.0359,0.986,0.933,0.111,0.137,135.697,422433,4
+350, Frédéric Chopin Danica Binx Gerard Tahaud,"Fantaisie-impromptu in C-Sharp Minor, Op.66",classique,2GeVven1f0Nfb4MzKcswg0,0.132,0.0411,1,-25.118,1,0.037,0.987,0.912,0.107,0.0779,74.486,281913,4
+351, Alexander Scriabin Danica Binx Gerard Tahaud,"3 Pieces in C sharp minor, Op.2: I. Etude",classique,1bc5B8sU4u8UgHNJIXAoJZ,0.447,0.014,1,-26.773,0,0.0537,0.996,0.937,0.0916,0.116,103.388,172452,3
+352, Frédéric Chopin Danica Binx Gerard Tahaud,"Waltzes in D flat major, Op.64 ""Minuet Waltz"": I. Molto vivace",classique,1dm7qjgPhjft5bZqbHJBzm,0.238,0.153,1,-20.318,1,0.0382,0.983,0.93,0.166,0.313,112.005,121522,3
+353, Christian Petzold Danica Binx Gerard Tahaud,"Minuet in G major, BWV Anh.114",classique,3Z8jTUtARyeJfELMZA0gJD,0.467,0.0787,7,-24.348,1,0.0555,0.993,0.921,0.16,0.616,125.548,96481,3
+354, Antonín Dvořák Danica Binx Gerard Tahaud,"Serenade for Strings in E Major, Op. 22 B. 52: II. Tempo di valse",classique,6dMV8s6a3EjyH2n8rBVgEV,0.322,0.0347,9,-25.041,1,0.0488,0.992,0.941,0.102,0.286,162.969,399517,3
+355, Edvard Grieg Danica Binx Gerard Tahaud,"Peer Gynt Suite No.1, Op.46: I. Morning Mood",classique,0eq9dxnxCDGgBRErdlQTBa,0.434,0.0502,4,-23.122,1,0.0422,0.988,0.941,0.122,0.0671,134.525,246354,4
+356, Franz Liszt Danica Binx Gerard Tahaud,"Consolations, S.172: III. Lento placido",classique,5lYX237Cg4zi1ze2hbqA3y,0.477,0.00433,1,-29.008,1,0.0397,0.991,0.925,0.145,0.179,173.602,271020,3
+357, Wolfgang Amadeus Mozart Danica Binx Gerard Tahaud,"Piano Sonata No.12 in F major, K.332/300k: II. Adagio",classique,7ml18jJ5MgtuKz13BzoxdG,0.515,0.0579,10,-26.026,1,0.0476,0.993,0.951,0.125,0.33,138.697,280756,4
+358, Wolfgang Amadeus Mozart Danica Binx Gerard Tahaud,"Piano Concerto No.21 in C Major, K.467 ""Elvira Madigan"": II. Andante",classique,718v1nVNQfiJoNP7o01hIP,0.277,0.0489,5,-23.307,1,0.0521,0.991,0.921,0.127,0.0875,191.816,380338,3
+359, Pyotr Ilyich Tchaikovsky Danica Binx Gerard Tahaud,"The Nutcracker in E Minor, Op.71a ""Dance of the Sugar Plum Fairy"": II. Danses caractéristiques b) Danse de la Fée-Dragée. Andante ma non troppo",classique,7oilAebemSj7MXPCf5ZgI2,0.804,0.266,4,-17.637,0,0.0915,0.911,0.8,0.0644,0.49,119.996,108715,4
+360, Maurice Ravel Danica Binx Gerard Tahaud,"Piano Concerto in G major, M.83: II. Adagio assai",classique,65Ds8OFHgjlbWopjIChArh,0.554,0.0629,4,-24.605,1,0.0482,0.985,0.941,0.103,0.0374,135.896,580103,4
+361, Robert Schumann Franz Liszt Danica Binx Gerard Tahaud,"Liebeslied (Widmung), S. 566",classique,2f1wxfeVu5NYugFBUa68vy,0.297,0.0548,8,-22.765,1,0.0358,0.992,0.935,0.105,0.0608,67.276,196432,3
+362, Johannes Brahms Danica Binx Gerard Tahaud,"21 Hungarian Dances in F-Sharp Minor, WoO 1: V. Allegro",classique,7uIopsPJ0239j7tMcfxTiz,0.466,0.0266,6,-25.925,0,0.0445,0.986,0.911,0.101,0.413,131.285,114408,4
+363, Johannes Brahms Danica Binx Gerard Tahaud,"6 Klavierstücke in A Major, Op.118: II. Andante teneramente",classique,0fJvB9KeBF783rfRsvoJoG,0.509,0.0108,9,-25.541,1,0.0629,0.994,0.963,0.0907,0.386,122.03,395938,4
+364, Johannes Brahms Danica Binx Gerard Tahaud,"5 Lieder in E-Flat Major, Op.49: IV. Wiegenlied",classique,4Grxm5wHr4uOQuHHYeU3hJ,0.697,0.064,3,-31.895,1,0.0618,0.996,0.967,0.122,0.747,128.056,102187,3
+365, Frédéric Chopin Danica Binx Gerard Tahaud,"Études in A Minor, Op.25 ""Winter Wind"": XI. Étude",classique,3AtRoqUxRqAXsJqfwPHkUy,0.282,0.184,9,-19.767,0,0.0326,0.919,0.884,0.0975,0.127,102.042,175618,4
+366, Frédéric Chopin Danica Binx Gerard Tahaud,"Piano Sonata No.2 in B-Flat Minor, Op.35 ""Funeral March"": III. Marche funèbre",classique,3Tn3xWY0nbKm1YzsUj3ayC,0.486,0.0138,10,-25.543,0,0.0499,0.993,0.943,0.0986,0.143,133.275,451794,4
+367, Frédéric Chopin Danica Binx Gerard Tahaud,"Polonaise in A-Flat Major, Op.53",classique,2yh2Bz1TedP0ajaHL2DzrO,0.288,0.0803,8,-22.04,1,0.0329,0.986,0.915,0.124,0.167,103.096,354697,3
+368, Frédéric Chopin Danica Binx Gerard Tahaud,"Preludes in E Minor, Op.28: IV. Largo",classique,0I467Psshd7B9NIT4n9fkU,0.369,0.0148,0,-32.847,1,0.0967,0.994,0.961,0.0751,0.0328,112.453,118380,4
+369, Frédéric Chopin Danica Binx Gerard Tahaud,"Nocturne in E Minor, Op.72: I. Andante",classique,7bVmjdzXJ43buCgEQZuhCn,0.348,0.00635,11,-25.114,1,0.0473,0.989,0.962,0.0921,0.118,70.623,304425,3
+370, Frédéric Chopin Danica Binx Gerard Tahaud,"Preludes in D-Flat Minor, Op.28 ""Raindrop"": XV. Prelude",classique,5eNRLFX3rhqtuVWD8pHGGT,0.286,0.00542,1,-31.764,1,0.0561,0.995,0.961,0.156,0.138,169.026,274915,4
+371, Frédéric Chopin Danica Binx Gerard Tahaud,"Preludes in B Minor, Op.28: XI. Prelude",classique,6br3CZxAs0ehQYJHDEFpSW,0.537,0.0554,7,-28.796,1,0.0762,0.995,0.966,0.0933,0.346,95.78,99935,4
+372, Pyotr Ilyich Tchaikovsky Danica Binx Gerard Tahaud,"The Seasons, Op.37a: VI. June-Barcarolle",classique,2VvfbYspMx0yGqmIAqQNpI,0.258,0.0382,7,-24.811,0,0.0615,0.993,0.919,0.0902,0.0887,67.503,256778,5
+373, Claude Debussy Danica Binx Gerard Tahaud,"2 Arabesques in G Major, L. 66: II. Allegretto scherzando",classique,4Vspn656FeljEH1HBUAZtk,0.463,0.0433,7,-25.746,1,0.0482,0.992,0.901,0.0908,0.358,138.875,202869,4
+374, Claude Debussy Danica Binx Gerard Tahaud,"Préludes, Livre 1 L. 117: VIII. La fille aux cheveux de lin",classique,5DteDervqiUZgqq0t0MAJV,0.451,0.00585,6,-27.363,1,0.0613,0.993,0.941,0.0686,0.0916,136.963,172866,3
+375, Betoven Collection,Waldstein (1st Movement),classique,28YrbqKDaKBngAHHqm7GIN,0.173,0.235,0,-24.187,1,0.034,0.942,0.93,0.0769,0.195,157.446,617465,4
+376, Betoven Collection,Waldstein (2nd Movement),classique,0IQ8pQfVj4Xch8gRU7pxKf,0.517,0.0049,0,-30.131,1,0.092,0.989,0.894,0.0776,0.0768,134.695,181301,1
+377, Betoven Collection,Waldstein (3rd Movement),classique,6ExowkcIBzX1MfleYpxr3H,0.55,0.117,0,-24.503,1,0.0341,0.964,0.925,0.111,0.0874,114.994,567681,4
+378, Betoven Collection,Appassionata (1st Movement),classique,6QZDdzBlKBmBTCVto8ssxF,0.213,0.065,5,-27.345,0,0.0346,0.949,0.872,0.0949,0.0433,179.104,530530,3
+379, Betoven Collection,Appassionata (2nd Movement),classique,21Q626ue3X562aanSY6CiP,0.338,0.0205,1,-26.013,1,0.0457,0.994,0.871,0.104,0.106,92.041,381179,4
+380, Betoven Collection,Appassionata (3rd Movement),classique,08TwDVzVc4BfE25rKDTTEs,0.373,0.153,5,-27.555,0,0.0367,0.976,0.937,0.113,0.0827,77.214,445823,4
+381, Betoven Collection,Les Adieux (1st Movement),classique,79IlJCeKRnNSd0Riu0H2MO,0.599,0.063,3,-27.104,1,0.0395,0.985,0.877,0.14,0.142,89.014,417588,4
+382, Betoven Collection,Les Adieux (2nd Movement),classique,6XKSTfSFEQl5PVTLEBQuEV,0.671,0.0496,7,-28.797,1,0.0495,0.991,0.906,0.0793,0.131,62.016,164955,4
+383, Betoven Collection,Les Adieux (3rd Movement),classique,4IC76kL1KQHhmNoyrF2qPw,0.578,0.14,10,-24.652,1,0.0334,0.985,0.903,0.118,0.332,121.983,263779,4
+384, Felix Mendelssohn Danica Binx Gerard Tahaud,"Lieder ohne Worte, Op.62: IV. Allegro con anima",classique,7n5bQsTQ5GA1BATie7hqL0,0.366,0.039,7,-28.776,1,0.0572,0.994,0.959,0.107,0.26,139.548,77630,4
+385, Michael Nyman,The Heart Asks Pleasure First,classique,4RW7EZi7SHSLRwvn1Q8Mqj,0.166,0.263,9,-18.907,0,0.0357,0.972,0.92,0.124,0.41,177.408,96560,3
+386, Dario Marianelli Jean-Yves Thibaudet,"A Postcard to Henry Purcell - From ""Pride & Prejudice"" Soundtrack",classique,1Pz4QbS8ls7h1JLDprmjZN,0.209,0.0199,5,-26.368,1,0.0475,0.974,0.674,0.126,0.567,84.93,159453,3
+387, Toygar Işıklı,Aşk-ı Memnu Jenerik Müziği,classique,62SHtgv66Mo9BeSGondc8k,0.386,0.571,7,-7.567,0,0.0349,0.00568,0.881,0.138,0.194,152.112,100566,3
+388, Igor Stravinsky Gérard Poulet Noël Lee,Tango pour violon et piano,classique,121ZUhSS238Tu0eccc98ux,0.464,0.107,2,-19.4,0,0.0326,0.985,0.0836,0.078,0.39,108.921,186333,4
+389, Felix Mendelssohn Daniel Harding Renaud Capuçon Mahler Chamber Orchestra,"Mendelssohn: Violin Concerto No. 2 in E Minor, Op. 64: I. Allegro molto appassionato",classique,4rv4IGP97XmEEzWAKmO1n3,0.302,0.144,4,-17.926,0,0.0458,0.965,0.196,0.182,0.138,101.223,767187,4
+390, Gabriel Fauré Renaud Capuçon Michel Dalberto,"Fauré: Berceuse, Op. 16",classique,1FTZArygTINdpZhFDHnNbo,0.22,0.0294,2,-25.532,1,0.0527,0.986,0.00477,0.0757,0.122,132.712,219129,4
+391, Pyotr Ilyich Tchaikovsky Renaud Capuçon Jerome Ducros,"Tchaikovsky: Valse sentimentale in F Minor, Op. 51 No. 6",classique,7xqwLNI5x1aKcJBmS86Cz9,0.292,0.0393,5,-28.341,0,0.0615,0.961,0.000956,0.114,0.167,100.326,208613,1
+392, Erik Satie Olga Scheps,Je te veux,classique,2qZePoxz5PZ07LiUr8ofWw,0.406,0.0376,0,-24.348,1,0.0387,0.996,0.934,0.105,0.203,95.835,335280,3
+393, Vittorio Monti Edgar Moreau Pierre-Yves Hodique Basil Cameron Philharmonia Orchestra,Monti: Csárdás,classique,4qmB6KgS5KlAD0t8pOStWh,0.272,0.128,2,-21.935,1,0.045,0.986,0.602,0.0785,0.182,85.274,289933,4
+394, Mark Eliyahu,Humbleness,classique,0b75Zuqy9hO631MUAhW6JA,0.517,0.407,0,-5.88,0,0.033,0.792,0.0129,0.113,0.464,120.241,248372,4
+395, Ji Pyeong Kwon,Sad Romance (A.K.A. Sad Violin),classique,0m5kdGuPwbTLBM3hWkLd1D,0.122,0.229,9,-11.789,0,0.0493,0.92,0.0612,0.0957,0.0748,74.381,276013,3
+396, John Williams Itzhak Perlman Boston Symphony Orchestra,Theme From Schindler's List,classique,3DzMT13HJV7EsbVbNZZJZQ,0.117,0.134,2,-24.162,0,0.0415,0.864,0.838,0.0977,0.0769,83.83,255160,3
+397," Angèle Dubeau, Rachèle Laurin",Adagio (Albinoni),classique,40H1lAqW9Fck7KZrmXlovD,0.0615,0.064,0,-25.954,0,0.0454,0.783,0.911,0.36,0.0347,58.748,497400,3
+398, Johann Pachelbel Music Lab Collective Valentina Lisitsa,"Canon in D Major, P.37",classique,6A6vSsLkXoTJZ8cA4vtznl,0.404,0.125,2,-17.933,1,0.0434,0.988,0.937,0.113,0.227,106.399,288853,4
+399, Abel Korzeniowski,Satin Birds,classique,3zOoOCM5wUe8lWeFHGl5nD,0.415,0.129,0,-19.005,0,0.0355,0.965,0.773,0.102,0.122,130.178,269600,3
+400, Carter Burwell,Medieval Waters,classique,4JVRdnTQ0OIGLA3wnvk0I8,0.173,0.115,7,-20.528,0,0.0412,0.885,0.825,0.102,0.143,62.401,99720,3
+401, Shigeru Umebayashi,Yumeji's Theme - Theme from 'in the Mood for Love',classique,0yVq58uQ2Bp2OVADYlLHNk,0.502,0.22,0,-10.934,0,0.0291,0.95,0.639,0.0982,0.224,129.296,150587,3
+402, Franz Schubert Andreas Staier Daniel Sepec Roel Dieltiens,"Trio pour piano et violoncelle en Mi Bémol Majeur, D. 929, Op. 100: II. Andante con moto",classique,00zJDVXhQvGixkoMC45crr,0.305,0.0289,0,-22.509,0,0.0337,0.979,0.257,0.0881,0.0913,95.851,567733,4
+403, Johann Sebastian Bach Pablo Casals,"Bach: Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",classique,270Oy4Tf4CcKO0840vA3nk,0.168,0.168,7,-18.908,1,0.052,0.946,0.859,0.441,0.333,84.236,148440,4
+404, The Trouble Notes,Grand Masquerade,classique,3mXqWdXOkn4Vc4kWWvGpJ3,0.569,0.942,11,-4.405,0,0.14,0.0342,0.347,0.336,0.525,144.931,251204,4
+405, Itzhak Perlman Samuel Sanders,The Devil's Trill,classique,6b6EmPElw09fWyaY7yzo5N,0.326,0.15,7,-17.046,0,0.0406,0.985,0.125,0.115,0.236,95.688,872420,4
+406, Time For Three,Toxic / Vivaldi Summer,classique,6xjsusLOrqd3DLMLdLEwXk,0.336,0.316,8,-14.251,1,0.0533,0.253,0.0807,0.24,0.359,161.223,229733,4
+407, David Arnold Michael Price,Who You Really Are,classique,24xTylaPWS5iVVCxwTTkcv,0.224,0.273,9,-15.592,0,0.0558,0.237,0.905,0.0867,0.126,129.479,155773,4
+408, David Arnold Michael Price,Irene's Theme,classique,7sDlvq7J4Y9rpSnRa02fo7,0.382,0.0399,2,-19.078,0,0.0439,0.993,0.0576,0.0648,0.724,88.768,42933,4
+409, Franz Schubert Laura Sullivan Wojtek Slawinski,"Schwanengesang, D.957: No. 4, Ständchen - Arr. for Cello and Piano",classique,0Lr47DzXRucrac3P4jLwN2,0.131,0.0341,2,-23.782,1,0.0401,0.938,0.901,0.112,0.101,181.04,448024,4
+410, Sumak Trio,Violin Taksim,classique,5l2bgty5AbRE1MWgkq4JHn,0.313,0.0678,0,-18.635,1,0.0525,0.991,0.584,0.127,0.347,97.379,247507,4
+411, Ramin Djawadi,Light of the Seven,classique,6iLzFJhs4ATwJn7P1utZIJ,0.273,0.102,0,-16.843,0,0.0494,0.903,0.721,0.268,0.0583,120.378,589095,4
+412, George Frideric Handel Alexander Briger Academy of St. Martin in the Fields,"Handel / Orch. Hale: Keyboard Suite in D Minor, HWV 437: III. Sarabande",classique,1upQiytDIEZfl9ItruoXuC,0.204,0.0331,2,-24.044,0,0.0487,0.927,0.825,0.0954,0.0547,116.2,207267,3
+413, 113 Booba,Banlieue (feat. Booba),rap_fr,5GhNk23L1egDTx3YIpNRdP,0.787,0.867,7,-4.727,1,0.352,0.103,0.0,0.15,0.575,87.846,199480,4
+414, Bouga,Belsunce Breakdown,rap_fr,1HMH8ctdYfDrRac24jkQv0,0.89,0.724,4,-5.097,0,0.0428,0.13,0.0278,0.0548,0.513,109.94,239987,4
+415, Suprême NTM Lord Kossity,Ma Benz (feat. Lord Kossity),rap_fr,4G01edX97eZlCmEbYewboU,0.899,0.449,1,-5.501,1,0.37,0.137,8.6e-05,0.0978,0.608,91.054,247093,4
+416, Booba,Pitbull,rap_fr,4xUo6mxLoEyg5VQgk057BD,0.788,0.964,11,-4.816,0,0.39,0.289,9.32e-06,0.0625,0.594,177.974,229707,4
+417, Nèg' Marrons,Le bilan,rap_fr,4hElE1DmCfpoFVjczvfB5U,0.723,0.767,6,-6.316,0,0.298,0.181,0.0,0.0599,0.927,169.059,263533,4
+421, Iam,Je danse le Mia,rap_fr,3vTgQBHiLsJ40XpQlQxlhG,0.833,0.785,10,-5.343,0,0.152,0.541,3.21e-06,0.173,0.578,103.004,267240,4
+422, Cut Killer,La Haine,rap_fr,4HNH7bIAIscir2rVqVi2eV,0.882,0.677,8,-10.001,0,0.284,0.261,0.000723,0.541,0.74,100.022,139227,4
+426, SNIPER,Gravé dans la roche,rap_fr,0OLh0QqBA781GNO5CJTKxR,0.812,0.743,10,-5.313,0,0.144,0.209,0.0,0.0696,0.923,94.062,287693,4
+427, La Fouine,Du ferme,rap_fr,6k8ynYPD7SjWpDShcImkz1,0.759,0.557,8,-5.703,1,0.101,0.177,0.0,0.0419,0.138,75.008,232853,4
+431, Booba,Destinée,rap_fr,0N6tU8P9qhNiEG30hZHSdH,0.547,0.771,9,-5.568,0,0.298,0.328,0.00298,0.187,0.529,88.53,312093,4
+432, Iam,Petit frère,rap_fr,3jqBLwtTiUYismDiZgAgPE,0.677,0.824,8,-4.434,0,0.34,0.0408,0.00598,0.0845,0.483,176.4,285933,4
+436, Sefyu,Molotov 4,rap_fr,6IIFlVTXXhVbfp1N3xjBCZ,0.851,0.79,2,-4.825,1,0.331,0.0745,0.0,0.158,0.894,170.103,240813,4
+437, Suprême NTM,Laisse pas traîner ton fils,rap_fr,19wTIVLYwubMX8XZppB6lH,0.551,0.723,6,-6.215,1,0.372,0.11,5.7e-05,0.0819,0.832,176.19,238040,4
+438, Mafia K'1 Fry,Pour ceux,rap_fr,3JjnCqQwWlgIz5ty1ByAbO,0.775,0.903,7,-3.262,1,0.153,0.0509,0.000127,0.232,0.689,100.982,367493,4
+439, Booba,N°10 - Single Version,rap_fr,3wBnEsxkTABwvl32tpZBsj,0.765,0.796,0,-4.251,1,0.277,0.0955,0.0,0.162,0.38,91.994,277427,4
+440, Akhenaton La Fonky Family Shurik'n,"Bad Boys de Marseille, Pt. 2 (feat. Shurik'n)",rap_fr,5q0tqXhUKqwBxissPvia6X,0.646,0.736,11,-5.391,0,0.241,0.0561,1.57e-06,0.102,0.842,168.98,223133,4
+441, 113,Les princes de la ville,rap_fr,4zu2xquA7ZcrjPZylino4Z,0.495,0.813,7,-5.925,0,0.176,0.345,0.0066,0.0886,0.899,115.077,296333,4
+442, Diam's,La Boulette (Génération nan nan),rap_fr,1Vf09Cxf2jqSkU6sfueYAq,0.943,0.584,0,-6.661,1,0.304,0.281,1.2e-06,0.151,0.659,98.996,231440,4
+443, Suprême NTM,That's My People,rap_fr,1RWXFHOJ6XjK8a9pitucrX,0.754,0.569,7,-8.878,1,0.354,0.0777,3.22e-05,0.269,0.522,87.928,251307,4
+444, Iam,"Demain, c'est loin",rap_fr,4C4tuRmDTMz875IFJiqIpy,0.778,0.799,11,-6.893,0,0.357,0.179,0.0,0.0643,0.842,180.119,540467,4
+445, La Caution,Thé à la menthe,rap_fr,2eDvflMCe9ssOkUJrxqikB,0.648,0.88,8,-3.295,0,0.204,0.00781,0.0,0.0618,0.959,99.029,224147,4
+446, Rohff,Regretté,rap_fr,6W1MYXhhqO5IuIovuXp7Na,0.7,0.95,2,-4.642,1,0.393,0.184,0.0,0.292,0.0852,89.092,621560,4
+447, Disiz La Peste,J'pète les plombs,rap_fr,5onlhFwHJhp0ff2tPju2X6,0.83,0.552,8,-11.194,0,0.428,0.0795,0.0,0.101,0.924,95.95,244454,4
+448, Seth Gueko Sefyu,Patate de forain,rap_fr,2VMzuaMP2YP6F0xIA4hoch,0.697,0.811,9,-3.523,0,0.343,0.116,0.0,0.0958,0.32,95.652,254320,4
+452, Kery James,Banlieusards,rap_fr,461K9NwFNjnyZBtrn1EIlo,0.677,0.764,8,-3.087,1,0.146,0.014,7.87e-06,0.216,0.583,78.949,469027,4
+453, Rocca,Les Jeunes De L'Univers,rap_fr,1p3Xdm0lPy9EQ3OtISAkcE,0.809,0.623,1,-6.741,1,0.132,0.0648,1.9e-06,0.246,0.712,91.429,264333,4
+454, La Fouine Booba,Reste En Chien (feat. Booba) - Radio Edit,rap_fr,0BmufSOs2foqz8fdF9dwVi,0.704,0.808,7,-3.677,1,0.294,0.171,0.0,0.0866,0.732,84.069,223573,4
+455, X-Men,Retour aux pyramides,rap_fr,0O9ArnwRTo6Ky4Wd7Gdb6E,0.702,0.677,6,-8.438,0,0.787,0.374,2.38e-06,0.368,0.649,117.5,225427,5
+456, Fonky Family Less du neuf,Nique le monopole des grands,rap_fr,6CMPyllTvT7MrlSNpSQBRm,0.674,0.772,7,-6.513,1,0.443,0.0459,0.0,0.225,0.844,184.007,276707,4
+457, K-Rhyme Le Roi Fonky Family 3ème Œil Akhenathon Freeman & Faf La Rage,Le retour du squad,rap_fr,1f8MwZUwXTocLcviQ7OyFr,0.883,0.552,9,-8.419,1,0.198,0.0215,2.46e-06,0.363,0.404,92.475,434678,4
+458, Diam's,Dj,rap_fr,4D0dgZLZWkaWG25NBuxOfS,0.916,0.623,4,-7.648,1,0.118,0.15,0.0,0.179,0.816,123.08,270960,4
+459, Suprême NTM,La fièvre,rap_fr,0t4J6vsfIb5wtYcSdht9yy,0.783,0.703,9,-8.091,0,0.226,0.0659,0.0,0.0924,0.608,87.895,245560,4
+463, Raggasonic - NTM,Aiguisé comme une lame,rap_fr,4JTviRADkTsRQiP2XciEXn,0.704,0.742,10,-12.938,0,0.45,0.232,0.0,0.391,0.892,81.706,243360,4
+464, Lunatic,Pas l'temps pour les regrets,rap_fr,2wbOsLvN17xwcNsOLFZdBy,0.609,0.868,11,-4.535,1,0.316,0.286,0.0,0.0866,0.592,92.742,280973,4
+465, Doc Gyneco,Dans ma rue (High for the Chronic !),rap_fr,1etjGtHh8yBUhFqCufqdrd,0.767,0.495,11,-9.861,0,0.0677,0.00305,0.0,0.0617,0.5,92.504,241093,4
+466, Kery James,Deux issues,rap_fr,63M7jLGXTWT9axGYkj95zB,0.6,0.796,4,-7.68,0,0.273,0.71,0.0444,0.118,0.773,93.991,320640,4
+467, Assasin Supernatural,Undaground connexion,rap_fr,0HHG5v9DKrvsCuXG1pUJ5p,0.734,0.822,5,-5.581,0,0.258,0.0248,0.0,0.252,0.624,99.724,373995,4
+468, Fonky Family,Sans rémission,rap_fr,7njnsewQzFssYI6F1RGwhn,0.727,0.797,1,-7.43,1,0.379,0.299,0.0,0.052,0.753,94.282,323160,4
+469, Akhenaton,"Mon texte, le savon",rap_fr,4dJB9vWpBhhtTOEBiKJvau,0.523,0.43,8,-9.063,0,0.337,0.27,0.000344,0.112,0.353,181.283,280400,4
+470, Lunatic,Civilisé,rap_fr,1zCFKBMX7lWA3RnRSXEzvi,0.724,0.612,1,-7.977,1,0.269,0.12,3.19e-05,0.107,0.854,95.962,286200,4
+471, Mafia Trece,Le mauvais chemin,rap_fr,0NDjlTPzBe0ivw1O7LoZCL,0.754,0.664,8,-6.641,0,0.334,0.398,3.01e-05,0.305,0.883,93.123,242040,4
+472, Oxmo Puccino,L'enfant seul,rap_fr,3hR6FtDMsgTIO3a4VIucIK,0.828,0.455,1,-9.987,0,0.233,0.0851,0.000305,0.0902,0.735,86.977,250200,4
+473, Ideal J,Hardcore,rap_fr,3vIWJsJZGK444LJqWGzjIU,0.447,0.86,1,-6.544,1,0.7,0.493,0.0,0.312,0.635,175.514,309147,4
+474, La Clinique Les Sales Gosses,Tout Saigne - Remasterisé En 2006,rap_fr,4YtpY8Hv0bwv84vfvONOwz,0.632,0.885,10,-3.925,0,0.293,0.00843,0.0,0.202,0.768,92.13,253827,4
+475, Lunatic,Le Crime Paie - Remasterisé En 2006,rap_fr,2lZ2ASijYcN2SX8XUAL7n7,0.612,0.702,1,-6.45,1,0.334,0.344,0.0,0.0477,0.934,88.879,301000,4
+479, Assassin,Sérieux Dans Nos Affaires,rap_fr,0ujIRGcWdKW9HtukNs9j1Q,0.777,0.698,7,-5.533,1,0.238,0.019,0.0,0.0895,0.594,92.023,333133,4
+480, Fonky Family,Cherche pas à comprendre,rap_fr,0Frv8qzBuCVh6F6nTNenLB,0.686,0.648,11,-7.261,0,0.523,0.236,0.0,0.114,0.456,87.067,325533,4
+481, Suprême NTM,Tout n'est pas si facile,rap_fr,2rKILkEJB20rf6RLLmtDQm,0.71,0.743,6,-8.796,1,0.139,0.0204,0.00287,0.41,0.82,87.764,290867,4
+482, La Rumeur,Blessé dans mon ego,rap_fr,09brzxj37XLuWN11GhsHR8,0.638,0.617,11,-8.312,0,0.405,0.545,0.0,0.336,0.803,96.896,168667,4
+483, Iam,L'Aimant,rap_fr,1z1ZTy0G4pU3kXjNIvN1bn,0.591,0.737,1,-9.863,1,0.194,0.00636,0.00122,0.299,0.7,186.022,291373,4
+484, Rohff,En Mode 1,rap_fr,5VmqiV311PU5BJmREfUC14,0.765,0.882,9,-2.096,1,0.319,0.179,0.0,0.0547,0.533,94.918,206613,4
+485, SNIPER,Gravé dans la roche,rap_fr,0LZ90308GB1Tp05STjabeC,0.806,0.745,10,-5.292,0,0.151,0.225,0.0,0.0765,0.916,94.03,285893,4
+486, Fonky Family,Art de rue,rap_fr,6Xo7NrY0dDj6pQQ2XIph1Y,0.712,0.927,10,-3.712,0,0.257,0.188,0.0,0.2,0.686,103.817,313800,4
+487, Suprême NTM,Laisse pas traîner ton fils,rap_fr,1G4h8b4UkDVhjFOdpmCyeI,0.551,0.723,6,-6.215,1,0.372,0.11,5.7e-05,0.0819,0.832,176.19,238040,4
+488, Booba,Boulbi,rap_fr,5NfigFlUBUEBgMFOq1rfkB,0.758,0.731,2,-4.404,1,0.3,0.0122,0.0,0.102,0.482,88.004,243027,4
+489, Psy 4 De La Rime Saleem,Le son des bandits,rap_fr,4rt87mfQdJ9wKYkBrRggVF,0.755,0.591,6,-6.991,1,0.238,0.0605,0.0,0.137,0.39,88.211,296387,4
+490, Rohff,La Puissance,rap_fr,1cWxCvep4soXYHkXDmJpSg,0.74,0.884,4,-2.224,0,0.192,0.0248,0.0,0.0788,0.404,94.874,255267,4
+491, Sefyu,Molotov 4,rap_fr,0XZUo8Rds5wEp3UwyXER6J,0.851,0.79,2,-4.824,1,0.331,0.0745,0.0,0.158,0.894,170.103,240813,4
+492, Soprano,À la bien,rap_fr,3bVfpPoszqs4ICTTA5gQhA,0.731,0.871,4,-4.8,0,0.306,0.0788,0.0,0.306,0.558,93.004,239027,4
+493, 113,Au summum,rap_fr,2dfahYnct5aULxIVSQ6sv7,0.807,0.802,7,-7.344,0,0.0421,0.093,9.13e-06,0.0831,0.665,108.008,291227,4
+494, Akhenaton La Fonky Family Shurik'n,"Bad Boys de Marseille, Pt. 2 (feat. Shurik'n)",rap_fr,78ujFEl6ZHZF8wRy7dYo0T,0.67,0.597,11,-8.379,0,0.269,0.0821,1.75e-05,0.0729,0.867,168.981,225693,4
+495, Bouga,Belsunce Breakdown,rap_fr,1sBYtNBryv969UasF3bbsx,0.888,0.724,4,-5.077,0,0.0431,0.13,0.0458,0.0633,0.478,109.93,241693,4
+496, Booba,N°10,rap_fr,0DJUpgIfxed8EIUYUofGoc,0.765,0.796,0,-4.251,1,0.277,0.0955,0.0,0.162,0.38,91.994,277427,4
+497, Rohff,Qui est l'exemple ?,rap_fr,77pB3BxEgaSZIbJ4uQflS8,0.968,0.689,1,-5.18,1,0.153,0.0147,0.0,0.386,0.74,110.042,244360,4
+499, Rohff,Qui est l'exemple ?,rnb,77pB3BxEgaSZIbJ4uQflS8,0.968,0.689,1,-5.18,1,0.153,0.0147,0.0,0.386,0.74,110.042,244360,4
+501, SNIPER,Sans (re)Pères,rap_fr,28GKxsXwDnfPb6q6lF7iUd,0.595,0.689,11,-7.286,0,0.102,0.191,0.0,0.0898,0.481,89.899,301240,4
+502, Fonky Family,Mystère et suspense,rap_fr,68VptzWEeq3mJZtxLZVxCo,0.75,0.673,8,-6.965,1,0.357,0.0143,1.81e-06,0.171,0.217,102.991,331067,4
+503, SNIPER 113 Diam's G-Kill Haroun Mano Kid Sam Salif Sinik Skadrille Tandem Zoxea,Panam Hall Starz,rap_fr,4zSki09FPXrzqFZJaCjnGs,0.75,0.917,2,-4.27,0,0.384,0.224,0.0,0.276,0.638,96.936,468413,4
+504, Arsenik,Regarde le monde,rap_fr,7zcQ1j3vTLKWCkmPtO5rSR,0.74,0.809,6,-4.734,1,0.217,0.0163,9.47e-05,0.107,0.524,92.065,301667,4
+505, Lunatic,Pas l'temps pour les regrets,rap_fr,72B5i2mQecSeyVJhVo1NWb,0.609,0.868,11,-4.535,1,0.316,0.286,0.0,0.0866,0.592,92.742,280973,4
+506, SNIPER,Pris pour cible,rap_fr,4tKvYAqWt3lPfyEYafWrLC,0.596,0.772,0,-5.242,0,0.193,0.0233,0.000134,0.36,0.835,182.23,243800,5
+507, Suprême NTM,Seine Saint-Denis Style,rap_fr,2bhwjZIhQvzDrfISCij85A,0.703,0.894,6,-6.235,1,0.373,0.0881,3.96e-05,0.348,0.808,91.122,200240,4
+508, Kery James,Banlieusards,rap_fr,0yFCrb2x6KTwZjY90Z7iIP,0.677,0.764,8,-3.087,1,0.146,0.014,7.87e-06,0.216,0.583,78.949,469027,4
+509, Scred Connexion Fabe Haroun Mokless Koma,Partis de rien,rap_fr,7hpGE5NHxTK5umouUBw20v,0.751,0.637,8,-5.632,0,0.291,0.011,2.09e-06,0.286,0.511,96.884,241480,4
+510, Sinik,Une époque formidable,rap_fr,63Mv2ORJ7QmKRuZ8bUWCiv,0.74,0.863,9,-5.332,1,0.296,0.156,0.0,0.106,0.893,93.956,282201,4
+511, Booba Kayna Samet,Destinée,rap_fr,4zz7ZKea2q50B7KnDAfJiI,0.54,0.762,9,-5.562,0,0.288,0.312,0.00349,0.224,0.545,88.597,312093,4
+512, Lunatic,La lettre,rap_fr,0ooSj4Umkg2qncHeVlc5cL,0.851,0.53,1,-7.596,1,0.418,0.126,0.0,0.0306,0.837,90.983,290093,4
+513, 113 Black Rénégat,Jour de paix (feat. Black Rénégat),rap_fr,7y95KJIQzhg2HzFUAldqzp,0.561,0.481,2,-6.823,0,0.2,0.354,0.0,0.0915,0.33,80.324,246520,4
+514, Psy 4 De La Rime,Le monde est…,rap_fr,3iPbT8wn13XMZAZpMi3tDZ,0.621,0.624,10,-6.771,0,0.29,0.158,0.0,0.085,0.517,88.621,324987,4
+515, L'Skadrille Sniper,Bons moments,rap_fr,77GDjOBgPm1Tx2Wusq1fBr,0.749,0.616,1,-5.981,1,0.296,0.0097,0.0,0.105,0.47,104.04,279667,4
+516, Nessbeal,A chaque jour suffit sa peine,rap_fr,3Rf1L0UWxTHp4Vr5jGLGQS,0.379,0.71,0,-6.633,1,0.152,0.0645,7.43e-06,0.324,0.583,76.932,215893,1
+517, Soprano Blacko,Ferme les yeux et imagine toi (feat.Blacko),rap_fr,76AoiDvRX9GgvzMIvlcx1j,0.474,0.884,1,-3.9,1,0.373,0.128,0.0,0.0989,0.625,95.93,276413,4
+518, Sinik James Blunt,Je réalise,rap_fr,6uYE33YcZJXojCsmf8qKap,0.768,0.8,8,-3.591,1,0.0294,0.073,0.0,0.143,0.316,87.967,227527,4
+519, La Fouine,Qui peut me stopper ?,rap_fr,3qZC3kSB1ZiM6MTkwJhtfI,0.717,0.759,0,-3.359,0,0.0785,0.168,0.0,0.0825,0.452,90.036,257027,4
+520, Kery James,"Le combat continue, pt. 3",rap_fr,6ShnB6qWToV9vW6HnNkldp,0.611,0.928,9,-2.793,0,0.426,0.0849,0.0,0.315,0.522,112.012,415680,5
+521, La Fouine Jmi Sissoko,L'unité (feat. J-Mi Sissoko),rap_fr,047Gjox3XPfgtrStqfUfoq,0.694,0.724,0,-3.74,1,0.245,0.308,0.0,0.0884,0.69,98.113,229227,4
+522, Orelsan,Suicide social,rap_fr,5IZGqvPLERJ4BOHAmLrRoy,0.544,0.894,4,-3.081,0,0.441,0.0467,0.0,0.227,0.362,171.828,341866,4
+523, Salif,J'Hésite,rap_fr,67cM9VzyzOHtGSgUYxWG88,0.618,0.798,6,-3.047,0,0.0856,0.0423,0.0,0.665,0.344,93.381,224240,4
+524, Kool Shen JoeyStarr,J'Reviens,rap_fr,3VOh8zuGcZ3NmyyIyhKAY1,0.61,0.882,1,-4.818,0,0.269,0.0658,0.0,0.109,0.75,160.037,254813,4
+525, Sexion D'Assaut,Ma direction,rap_fr,6tFJdAZGXGsHTdMKmc1NjR,0.865,0.763,4,-5.482,0,0.197,0.0783,0.0,0.105,0.683,106.977,263533,4
+526, Sexion D'Assaut,Désolé,rap_fr,5NsOnvpjvH9sCz8TyVOmOz,0.631,0.482,1,-6.761,0,0.121,0.428,0.0,0.0819,0.677,100.013,204453,4
+527, Vaï,Sur ma vie,rap_fr,1qWMLpYL6v2D4yV0VjAihC,0.551,0.774,4,-8.348,0,0.332,0.00551,0.00271,0.0907,0.596,170.529,212373,4
+528, Nekfeu,On verra,rap_fr,57I5KhEpQFC9XBgKt6nklL,0.575,0.58,0,-6.801,1,0.067,0.166,0.0,0.0781,0.324,75.2,211413,4
+529, Nekfeu S.Pri Noir,Ma dope,rap_fr,6eVHz1I8JaAYUl1jTgSjRW,0.855,0.551,8,-7.651,1,0.0741,0.245,2.31e-06,0.477,0.351,135.995,227400,4
+530, Cheb Mami K-Mel,Parisien du nord,rap_fr,36qApX3rBxPZE73GuMkrBn,0.83,0.737,0,-9.331,0,0.386,0.631,0.0,0.247,0.734,103.996,211667,4
+531, Scred Connexion,On pense tous monnaie monnaie,rap_fr,1ZPo5rGRZr5z8sjvMjTTVc,0.801,0.438,0,-9.281,1,0.404,0.113,0.0,0.0981,0.772,99.07,257573,4
+532, Aketo,Deceptions,rap_fr,4fnodwvo6PZvHbutzsow9o,0.464,0.9,9,-4.32,1,0.383,0.36,0.0,0.185,0.621,92.167,301267,4
+533, SCH,Fusil,rap_fr,1gKcpNIXhmHx2EHI5IPhte,0.87,0.464,10,-7.44,0,0.357,0.474,0.00122,0.094,0.0929,100.011,252067,4
+534, Vald,Désaccordé,rap_fr,4ueL4j6iOPX23UG5VsvGrm,0.75,0.496,1,-8.424,0,0.352,0.448,0.0,0.116,0.431,150.108,214827,4
+535, Lacrim French Montana,A.W.A,rap_fr,3xf9GbVqLnDgL2x0xztcTV,0.835,0.732,1,-5.045,1,0.0458,0.0121,0.0,0.138,0.281,100.002,162733,4
+536, Mino Don Diego,Un homme blessé,rap_fr,6dE01B8S354Vu7vkcOd3Wc,0.733,0.668,7,-5.279,0,0.249,0.514,0.0,0.117,0.437,82.065,280800,4
+537, Nuttea,Elle te rend dingue - poom poom short radio edit,rap_fr,6Qku7tQdLiYsh31kFbTtId,0.79,0.548,0,-8.135,1,0.164,0.104,0.0,0.115,0.544,148.992,225653,4
+539, Nuttea,Elle te rend dingue - poom poom short radio edit,rnb,6Qku7tQdLiYsh31kFbTtId,0.79,0.548,0,-8.135,1,0.164,0.104,0.0,0.115,0.544,148.992,225653,4
+541, Rohff,Le Son qui tue,rap_fr,3ee6eXqZqJo3DJEiBr1SHs,0.659,0.834,1,-4.428,0,0.17,0.238,0.0,0.0847,0.757,91.517,224200,4
+542, Suprême NTM,That's My People,rap_fr,6sv9plOLJQocFU3d0DolZP,0.754,0.569,7,-8.878,1,0.354,0.0777,3.22e-05,0.269,0.522,87.928,251307,4
+543, SNIPER JoeyStarr,Brule,rap_fr,3aCF3k4Sq3eIclkYrR7kLF,0.5,0.916,0,-4.025,1,0.391,0.135,0.0,0.349,0.211,97.278,281227,4
+544, SNIPER,Y a pas de mérite,rap_fr,6A8rTCMLWP57dqYVmHZXgE,0.594,0.691,0,-4.545,0,0.296,0.284,0.0,0.153,0.757,92.695,249253,4
+545, SNIPER,Trop vite,rap_fr,1YPPT6yAGyA5ktC1LPxJOw,0.817,0.808,6,-5.911,0,0.164,0.313,0.0,0.0571,0.93,81.996,337133,4
+546, Shurik'n,Samuraï,rap_fr,16etD0jjMNdKsHByc48tOY,0.856,0.554,7,-7.368,0,0.334,0.338,0.0,0.0515,0.394,87.959,231373,4
+547, Booba,Pitbull,rap_fr,1efBNlkIwBbccMBXHoJBZN,0.787,0.964,11,-4.816,0,0.39,0.289,9.32e-06,0.0625,0.594,177.972,229707,4
+548, Fonky Family,Marginale musique,rap_fr,5zLpJ5fcplc6ndMbpwqqPf,0.587,0.928,2,-2.432,1,0.315,0.0718,0.0,0.265,0.811,173.374,302227,4
+549, Booba,Repose en paix,rap_fr,0eA6A6COGwb1yyhTRCrgq2,0.737,0.66,11,-5.089,1,0.215,0.0526,0.00183,0.2,0.22,95.623,173520,4
+550, Booba,Ma définition,rap_fr,0n3wYb9lcLZlSaNnRlnVvy,0.621,0.816,6,-5.91,1,0.398,0.0475,0.0,0.292,0.711,91.943,216733,4
+551, Booba,Tallac,rap_fr,3UjUJo7Sw7412uwo2WgZNe,0.757,0.662,11,-4.235,0,0.305,0.191,6.94e-05,0.176,0.254,88.489,243747,4
+552, Booba Leya Masry,Avant De Partir,rap_fr,12Gi244AKPANoi55yMhz6v,0.789,0.593,4,-4.257,0,0.0447,0.1,0.000144,0.105,0.582,90.01,324747,4
+553, Booba Trade Union Mister Rudie,Au bout des rêves,rap_fr,4WTPxgSYbANxJvRaxpKrxY,0.736,0.702,0,-3.095,1,0.0741,0.0928,1.1e-06,0.367,0.477,88.046,264840,4
+554, Booba Akon,Gun In Hand,rap_fr,1kwmjkUpBF56lt9B5SgYg5,0.762,0.656,10,-4.82,0,0.249,0.097,0.00023,0.084,0.803,81.99,282427,4
+555, Sinik,100 mesures de haine,rap_fr,5sz1u0E9k7Oyjem8DMX7jH,0.718,0.965,1,-3.817,1,0.399,0.182,0.0,0.154,0.152,95.975,541492,4
+556, Sinik,Autodestruction,rap_fr,4RrNHWtdE7i5In83odxgGx,0.694,0.878,1,-3.215,1,0.37,0.0651,0.0,0.0965,0.411,85.175,265352,4
+557, La Fouine,Laissez-moi dénoncer,rap_fr,720jCglRUfmEpf2o5b7SiI,0.717,0.772,10,-4.311,0,0.273,0.186,0.000182,0.0912,0.661,92.562,248293,4
+558, Suprême NTM,Un ange dans le ciel - Live à Paris-Bercy 2008,rap_fr,2F1Pqkb1eOltUBLgAB1NFa,0.496,0.881,11,-4.641,1,0.182,0.102,0.0,0.634,0.257,92.12,273240,4
+559, Psy 4 De La Rime,Inaya,rap_fr,53ZwOKV5YWCqsLOqLnOLRd,0.555,0.495,2,-6.108,0,0.0391,0.769,0.0,0.271,0.441,85.249,301347,4
+560, Psy 4 De La Rime,Jamais j'oublierai - Shan,rap_fr,3bLlQLo8LhNdKcAzzggpcn,0.602,0.885,11,-6.098,0,0.369,0.0296,0.0,0.0414,0.0752,130.067,540200,4
+561, Psy 4 De La Rime Anna Torroja,Enfants de la Lune,rap_fr,73AmiCYz4nIsFyiSm4r0Gr,0.739,0.486,1,-8.058,0,0.147,0.534,0.0,0.044,0.504,89.987,274307,4
+562, Soprano Diam's,Mélancolique anonyme (feat. Diam's) - Live Marseille 2007,rap_fr,3L7UwGtr8SLR4xqOHeELp8,0.563,0.845,0,-7.701,1,0.526,0.387,0.0,0.981,0.239,94.855,253533,4
+563, Soprano Indila,Hiro (feat. Indila),rap_fr,1RHiqaz9MG1tKqJ9ny5Alf,0.465,0.733,11,-6.935,0,0.444,0.495,0.0,0.0903,0.466,92.411,281533,4
+564, Soprano K-Rlos,Avec le temps (feat. K-Rlos),rap_fr,7aBfzYl1hxDKxgkrhcJKlF,0.652,0.79,9,-5.88,0,0.404,0.0836,0.0,0.349,0.555,92.373,255787,4
+565, Diam's,Marine - Version 2006,rap_fr,4m8WJ3qra5m7WlBYaEqqxB,0.682,0.736,2,-5.605,1,0.393,0.143,0.0,0.474,0.47,84.067,340800,4
+566, Diam's,Ma France à moi,rap_fr,6qdGKP6ndrNejt1EEkctIK,0.743,0.693,8,-3.532,1,0.332,0.527,0.0,0.188,0.427,83.038,233133,4
+567, Soprano,Alleluia,rap_fr,7hVCtj5ngpvKYn8ioGZq38,0.746,0.645,8,-4.634,0,0.16,0.421,0.0,0.0523,0.796,120.006,246840,4
+568, Demon One Soprano,J'étais comme eux,rap_fr,15iEGqbKh5Ao2XlQLxIPRY,0.603,0.888,6,-2.596,0,0.243,0.384,0.0,0.25,0.761,97.492,227720,4
+569, La Fouine Soprano,Repartir à zéro (feat. Soprano),rap_fr,1WShJW7hnDUYMgYgLp2TxZ,0.508,0.682,3,-6.285,0,0.29,0.378,0.0,0.149,0.632,83.887,263293,4
+570, La Fouine Soprano Sefyu,Ca fait mal (feat. Soprano & Sefyu) - Remix Album Version,rap_fr,2QMvwxSEIrUAnRiSi3OYQn,0.652,0.664,7,-4.966,1,0.252,0.0762,0.0,0.319,0.471,84.866,272067,4
+571, La Fouine Soprano Admiral T Seth Gueko Nessbeal Canardo Cut Killer,"Bafana Bafana Remix (feat. Soprano, Admiral T., Seth Gueko, Nessbeal, Canardo & Cut Killer) - (hosted by Cut Killer & DJ Battle )",rap_fr,5wGj9rg3hDez1ujEf8qXPU,0.647,0.688,9,-4.646,1,0.28,0.0366,0.0,0.356,0.678,80.449,368253,4
+572, La Fouine,D'où l'on vient,rap_fr,37hi3bNT6hQvRM9mkF5SCU,0.598,0.684,5,-6.084,0,0.057,0.288,0.0,0.169,0.401,94.939,274920,4
+573, Canardo,A ce qu'il paraît,rap_fr,0TnMeMh1Z5mNN6CD9GMbqQ,0.619,0.561,11,-12.962,1,0.834,0.0405,0.0,0.0771,0.562,114.016,189440,3
+574, Canardo,Ça vient de Paris (feat. S.pri Noir & Still Fresh),rap_fr,3VaAoGQ9Jo7Sk5HEXrSG29,0.522,0.758,7,-5.07,1,0.418,0.153,0.0,0.401,0.378,96.775,233267,4
+575, Orelsan,San,rap_fr,36SHbxigbf4iSCHdQVgy6V,0.624,0.8,1,-6.061,1,0.436,0.396,0.0,0.0843,0.332,115.198,242333,4
+576, Alonzo,Alors On Sort,rap_fr,2F15j5VSF1LW3TKZBkOFxw,0.586,0.656,6,-5.685,0,0.369,0.123,0.0,0.0584,0.724,85.394,233867,4
+577, Sexion D'Assaut,Rien n' t'appartient,rap_fr,7E1NP0HahYT5Df5si0VmbJ,0.828,0.493,4,-5.449,0,0.252,0.484,1.63e-06,0.468,0.652,94.941,324693,4
+578, JoeyStarr,Métèque,rap_fr,71LR7mxKLDCaF3Se2erosU,0.792,0.802,1,-6.82,1,0.33,0.203,0.0,0.253,0.364,94.018,189667,4
+579, Scylla,Rien à remplacer,rap_fr,7pb0XRjyCA1CE7D5NcsXzO,0.578,0.61,4,-7.952,0,0.408,0.102,0.0,0.357,0.669,85.193,349269,4
+580, Booba,Friday,rap_fr,1CYj9Yx8zrYvU93khXvmsA,0.777,0.779,7,-3.127,0,0.0927,0.677,0.0,0.11,0.371,124.589,217147,4
+581, Booba,DKR - Bonus Track,rap_fr,21V8iZQ250M58SvRXvq5hA,0.687,0.811,3,-5.662,0,0.274,0.615,3.4e-05,0.0756,0.939,103.705,174787,4
+582, Damso,Feu de bois,rap_fr,4L0Iwsk1s8cbdBcEgdm8K5,0.789,0.633,2,-6.269,1,0.0734,0.256,1.31e-06,0.092,0.262,138.097,183307,4
+583, projet facteur x²,Pom pom pom,rnb,5068IJEz3vdwLFRH5iWlmW,0.875,0.594,4,-4.8,0,0.11,0.371,0.0,0.0548,0.891,120.062,252227,5
+584, Mystik K-Reen,Le fruit défendu (feat. K-Reen),rnb,0WaVo0Fu6RDtZPIhPSagjb,0.586,0.656,9,-8.378,0,0.216,0.204,0.0,0.324,0.485,176.951,221573,4
+585, Saian Supa Crew,Angela - Version 2,rnb,7HkAJlrDqGvFA880bbgFlJ,0.686,0.673,8,-5.918,0,0.0684,0.0453,1.17e-05,0.0539,0.963,175.903,229280,4
+586, Matt,R&B 2 Rue,rnb,59DfPIDioIs5WolSQNPID4,0.91,0.78,10,-5.027,0,0.071,0.158,0.159,0.0594,0.911,107.942,232067,4
+587, Tragédie,Hey Oh - Radio Edit,rnb,5Lc24nn70WSNSHfk9tAEtz,0.929,0.365,8,-6.774,0,0.0705,0.0031,0.0,0.053,0.865,95.021,211720,4
+588, Zaho,Je te promets,rnb,0i7cDSYYTqUWQIcswtRFWA,0.462,0.202,9,-14.34,0,0.0427,0.829,0.0,0.0973,0.248,132.953,258947,4
+589, Corneille,Parce qu'on vient de loin,rnb,1wthYeOSBWfUYeCqhYcGt0,0.756,0.571,11,-6.613,0,0.22,0.107,5.52e-05,0.106,0.728,91.977,232933,4
+590, Nuttea,Trop peu de temps,rnb,3Z1dOVkyrqTh6CuDluKDcc,0.765,0.416,11,-7.094,1,0.186,0.349,0.0,0.0534,0.773,78.267,262533,4
+591, Gage,Pense À Moi,rnb,1gS2KQkvunhUNnG5iX2zqh,0.732,0.52,9,-9.214,0,0.0416,0.28,0.00572,0.0773,0.801,155.956,427626,4
+592, Diam's,Jeune demoiselle,rnb,42apdJFDH65Ew9RVuldbrb,0.874,0.798,11,-4.807,1,0.278,0.0571,0.0,0.149,0.785,98.37,250920,4
+593, Wallen Shurik'n,Celle Qui A Dit Non,rnb,4NLZJcCIIUtDOWo2tPrHuB,0.774,0.637,10,-7.387,1,0.267,0.471,0.0,0.114,0.701,88.015,284560,4
+594, Tragédie,Sexy pour moi! - Mix 2,rnb,0E2ckO3QKtQ8dAUDNNec6a,0.894,0.447,8,-8.622,1,0.108,0.0211,0.0,0.0707,0.618,105.027,216493,4
+595, Diam's Vitaa,Confessions nocturnes (feat. Vitaa),rnb,0C9qil6cXEEJ8AzrMUEHv6,0.531,0.877,0,-6.604,0,0.877,0.49,0.0,0.306,0.346,75.137,360120,4
+596, Factor X,Boom Boom,rnb,1dWkL98h8GwGFkonK191p9,0.8,0.547,10,-4.691,0,0.0916,0.341,0.0,0.227,0.765,101.488,210333,4
+597, Corneille,Avec classe,rnb,4vhPC6yiqkeQG1aF8WSn8r,0.789,0.656,5,-6.735,0,0.0758,0.0105,0.00103,0.132,0.74,98.014,227733,4
+598, Sheryfa Luna,Il avait les mots,rnb,2GHprNPynt33XoCHfEDKxD,0.621,0.703,1,-6.54,1,0.0378,0.218,0.0,0.0737,0.62,85.964,227027,4
+599, Wallen,L'Olivier,rnb,4IqFzZ9jXIC9Mq5Qd1RkDw,0.42,0.738,7,-5.915,1,0.0592,0.512,5.21e-05,0.119,0.405,200.38,335987,3
+600, Zaho,C'est chelou,rnb,3wIoQubsIhvsIBHskw6u0w,0.857,0.804,10,-4.518,0,0.149,0.138,0.00426,0.0336,0.915,94.994,216973,4
+601, Vitaa,A fleur de toi,rnb,2mT0YKSgM8ie4Irf0gkuPA,0.554,0.783,5,-6.08,0,0.109,0.491,0.0,0.121,0.39,125.959,261093,4
+602, Assia,Elle est à toi,rnb,3kqcuCxwH2wySUtEh7E9Eh,0.724,0.574,6,-4.849,1,0.145,0.122,9.72e-05,0.0482,0.652,174.08,277293,4
+603, Matt Lord Kossity,Cendrillon Du Ghetto,rnb,6SJwOqt1zNH3BmfSkeelDh,0.614,0.592,7,-6.806,0,0.354,0.195,1.27e-05,0.226,0.914,116.572,221760,4
+604, Kenza Farah,Je me bats,rnb,1IIPc8bQPDticwOG8Oullw,0.669,0.809,7,-2.407,1,0.0308,0.0278,0.0,0.192,0.325,95.969,251360,4
+605, Teri Moïse,Les poèmes de Michelle,rnb,01ZhThhYhykTkJ6065qg0B,0.536,0.677,3,-4.59,0,0.0252,0.445,0.0,0.115,0.589,90.112,237320,4
+606, Shy'm,Femme de couleur,rnb,4kpF8J1HTTnO7VS7cAvOMv,0.656,0.641,3,-4.045,0,0.184,0.333,0.0,0.152,0.498,90.016,215906,4
+607, M. Pokora Sweety,Elle Me Contrôle,rnb,27kV1kvGUacbiRpf1VsQWe,0.775,0.684,7,-6.402,0,0.075,0.197,1.58e-06,0.165,0.323,106.993,226400,4
+608, Nâdiya,Parle-moi,rnb,2rXROCKPA9IHn6zMILU7aX,0.773,0.861,5,-1.536,0,0.0494,0.248,0.0002,0.0967,0.892,96.023,275480,4
+609, Amel Bent,Ma philosophie,rnb,1HOtCYTuOCISpTn9cW6fcz,0.752,0.724,4,-3.591,0,0.114,0.205,0.0,0.124,0.45,100.01,203227,4
+610, Corneille,Ensemble,rnb,2Skc0ShbY2IynQesiODGry,0.758,0.62,7,-5.489,0,0.0561,0.00186,0.00176,0.319,0.823,107.994,270533,4
+611, M. Pokora,Juste une photo de toi,rnb,7AxPQQgyi45H6pxCJPrAWj,0.584,0.735,6,-6.948,1,0.0282,0.0333,0.0,0.102,0.53,149.989,232813,4
+612, Matt,Dans La Peau D'Un Dealer,rnb,4HeBzaonyX7D3P1stz7N92,0.69,0.775,9,-4.222,0,0.0756,0.479,0.0678,0.174,0.931,180.017,258173,4
+613, Amel Bent,Le Droit A L'Erreur,rnb,3QpiAq5rWOANWM0tfPvvAD,0.614,0.636,3,-4.494,0,0.0265,0.56,5.51e-05,0.161,0.511,110.423,241507,3
+614, Kayliah - Pegguy Tabu,Belly Dance,rnb,3486Lr8wG9lwDDImcHMR6f,0.751,0.708,0,-6.006,1,0.0746,0.307,0.0,0.0681,0.744,90.248,237027,4
+615, Lynnsha,Je veux que tu me mentes,rnb,4ALOFfNcLUWKtsenEyveYo,0.728,0.772,10,-6.959,0,0.0999,0.218,0.000313,0.0725,0.743,95.004,216960,4
+616, Kayna Samet,Ecorchée Vive,rnb,5gdwHpP3sLvkSfBsXzd9QH,0.499,0.509,4,-6.787,0,0.0314,0.547,0.0357,0.169,0.175,132.026,265013,4
+617, Kenza Farah,Au coeur de la rue,rnb,3fZxU7yluTfDCa6zmyrdhf,0.627,0.815,10,-4.745,0,0.0887,0.53,0.0,0.102,0.724,73.437,216440,4
+618, Zaho,Kif'n'dir,rnb,0e8fRA4hsivzWeFbn3b21P,0.784,0.637,10,-8.468,0,0.0354,0.131,0.0736,0.0894,0.882,131.002,293200,4
+619, Kayliah,quand une fille est love,rnb,7nKdiQqIvS9C0LtjRkADCh,0.743,0.54,1,-8.045,0,0.0673,0.457,0.0,0.0475,0.672,104.031,242026,4
+620, Humphrey Busta Flex,Qu'est-c'tu fous cette nuit?,rnb,0KjgyGr6EVDApW23QcGkvb,0.829,0.698,5,-4.201,0,0.221,0.0188,2.78e-05,0.0421,0.81,104.062,244573,4
+621, Wallen,Mes Rêves,rnb,54B96Al4FqH3L4RsSGIqtk,0.634,0.629,11,-7.148,0,0.0474,0.0867,1.52e-05,0.161,0.374,128.002,271933,4
+622, Jalane,"Femmes (Cette Fois, Je Sais...)",rnb,5yZ0KIiVY6Bl5YLlGNF6Cn,0.815,0.648,10,-5.372,0,0.0637,0.0701,2.5e-06,0.0583,0.929,100.967,228827,4
+623, Wallen Abd Al Malik,A Force De Vivre,rnb,7fjVwAYvbsgbKwGKiA7Voz,0.475,0.582,11,-7.546,0,0.275,0.197,2.48e-06,0.369,0.661,83.129,227933,1
+624, Vibe,No Blaggadda,rnb,5U3fWtXtjbmj9XLmrssXO6,0.823,0.563,10,-7.405,0,0.413,0.0727,0.0,0.358,0.942,94.937,246133,4
+625, Gage,Trop Fresh,rnb,3y3qu5YJSxwtdn2NaQKwEr,0.789,0.615,5,-7.552,0,0.0549,0.273,0.0,0.0989,0.767,100.997,261440,4
+626, M. Pokora,Parti Trop Tôt,rnb,1VnNO1FWkLTYTgCF5RE5ER,0.652,0.542,1,-7.965,0,0.0453,0.38,0.000187,0.0797,0.811,77.985,206227,4
+627, Oxmo Puccino K-Reen,Nous aurions pu - Remasterisé,rnb,6GDVGliKVmTroIcAOmgCb7,0.782,0.624,2,-5.692,1,0.0341,0.0289,9.33e-06,0.107,0.563,95.008,212093,4
+628, Willy Denzey,L'homme qu'il te faut,rnb,7tTSSirNwG5TiYGnketM4j,0.336,0.83,0,-4.001,0,0.0913,0.151,0.0,0.091,0.271,71.594,180187,4
+629, Afrodiziac Janahé Manic B,Toi + Moi,rnb,1y38VbNctXLnnqAbKIa4SK,0.796,0.798,5,-6.413,0,0.0514,0.354,0.000365,0.198,0.945,129.95,251173,4
+630, Mystik White & Spirit K-Reen,Le fruit défendu,rnb,5SteThTPwFkssBFVBLfKc4,0.585,0.606,9,-10.059,0,0.231,0.282,0.0,0.253,0.465,176.881,222160,4
+631, Blaque,808,rnb,1Pqv7l6vxjBxd5fx4bWchC,0.867,0.42,1,-9.478,1,0.167,0.00328,3.18e-06,0.0887,0.367,121.66,306693,4
+632, Kenny Lattimore,Never Too Busy,rnb,0TNAK7LNCi7AKDZAbhWQXr,0.761,0.413,4,-10.137,0,0.0681,0.113,0.00197,0.09,0.733,167.947,331560,4
+633, Tyrese,Nobody Else,rnb,2ZmUMKX5cJQfQj12SmGYtg,0.697,0.684,7,-5.634,1,0.0897,0.00923,1.5e-05,0.136,0.596,91.882,232733,4
+634, Silk,It Had to Be You,rnb,0UH3m8uxVdQDCtG61CKMXE,0.69,0.654,1,-7.852,0,0.0322,0.00867,0.0,0.072,0.709,134.607,248000,4
+635, Dru Hill,How Deep Is Your Love,rnb,60NvAO9lx0KmBNAVHIlWN6,0.729,0.434,3,-9.111,0,0.079,0.0473,1.23e-05,0.314,0.743,94.411,243360,4
+636, Blaque *NSYNC,Bring It All to Me (feat. *NSYNC),rnb,1cjBan0t4eBk2Y5j17hdyf,0.695,0.579,0,-5.066,1,0.0325,0.000479,0.0,0.0556,0.726,88.957,218187,4
+637," Donell Jones Lisa ""Left Eye"" Lopes","U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",rnb,5PMKzsUsTpZZGsCcJBuhP2,0.854,0.543,8,-6.166,0,0.0844,0.0402,5.73e-05,0.0419,0.868,103.032,243733,4
+638, Case Joe,Faded Pictures,rnb,1CAw3ethNuSDPf3E7luSFF,0.705,0.511,6,-7.422,0,0.202,0.125,1.72e-06,0.153,0.581,82.011,229773,4
+639, Mark Morrison,Return of the Mack,rnb,3jDdpx9PMlfMBS5tOBHFm9,0.715,0.833,2,-5.379,1,0.108,0.00631,0.0,0.164,0.612,95.487,213093,4
+640, Destiny's Child Wyclef Jean,"No, No, No Pt. 2 (feat. Wyclef Jean)",rnb,5kHgrRO3hMDPehtH9VhYQc,0.67,0.582,1,-3.574,1,0.224,0.3,0.0,0.0845,0.675,181.841,207467,4
+641, New Edition,Hit Me Off,rnb,0yNCFwihschpOwSgK31f2O,0.72,0.719,7,-4.571,0,0.0882,0.185,0.000128,0.522,0.899,88.987,261400,4
+642, Ralph Tresvant,Sensitivity,rnb,3lRgzwd3g1TewI4zjgbh9V,0.683,0.661,1,-12.823,1,0.0459,0.137,0.557,0.0772,0.707,96.956,281333,4
+643, Johnny Gill,Rub You The Right Way,rnb,40xz60ciGIpsRtDqRfPKBE,0.66,0.873,10,-6.952,1,0.0461,0.0152,0.00324,0.331,0.864,111.872,332307,4
+644, Bobby Brown,Humpin' Around,rnb,36tOpYpo1omPwIab8ebEkW,0.71,0.8,1,-7.141,1,0.04,0.00223,0.211,0.0455,0.61,110.211,378493,4
+645, Destiny's Child,"Bills, Bills, Bills",rnb,1Oi2zpmL81Q0yScF1zxaC0,0.845,0.576,11,-5.15,0,0.153,0.139,0.0,0.0764,0.461,127.641,256027,4
+646, Bell Biv DeVoe,Do Me!,rnb,47uDHNJpq4zUfOM0RFdEbV,0.714,0.735,7,-8.03,1,0.0373,0.0179,1.56e-05,0.238,0.704,107.822,272427,4
+647, H-Town,Knockin' da Boots,rnb,6x53SJOV1PAZ8ZUwH4NFXQ,0.726,0.501,1,-13.884,0,0.154,0.155,0.0,0.0893,0.582,128.099,330945,4
+648, Soul For Real,Every Little Thing I Do,rnb,5u3rsmRYRSKJpFHXPT4p07,0.713,0.378,7,-9.04,0,0.0298,0.00561,0.00186,0.0845,0.291,99.055,260067,4
+649, Jodeci,Cry For You,rnb,3RNvMhYFEwpCgPnDGKR5MB,0.65,0.496,5,-12.349,0,0.0331,0.305,0.0,0.33,0.576,115.775,300907,4
+650, Destiny's Child,Say My Name,rnb,7H6ev70Weq6DdpZyyTmUXk,0.713,0.678,5,-3.525,0,0.102,0.273,0.0,0.149,0.734,138.009,271333,4
+651, Bell Biv DeVoe,B.B.D. (I Thought It Was Me)?,rnb,3KNH9AoufxNYVdZTWpADsK,0.745,0.754,7,-9.52,1,0.0423,0.0035,5.14e-05,0.0547,0.714,105.569,275293,4
+652, SWV,Right Here - Human Nature Radio Mix,rnb,5u3FywQOPJ5O7ZAjm31cnq,0.601,0.74,9,-5.043,0,0.0573,0.0299,0.332,0.0937,0.672,94.013,226800,4
+653, Monifah,Touch It,rnb,3upCmUgdchN3u0vkedbC5S,0.863,0.476,8,-10.019,0,0.0932,0.0307,0.0515,0.0706,0.783,115.459,285827,4
+654, Jodeci,Come and Talk to Me - Remix,rnb,5xE7sFTlv2yrG9mmhDSpdq,0.72,0.657,11,-6.823,0,0.295,0.0262,2.33e-06,0.209,0.657,172.168,295387,4
+655, 702,Steelo,rnb,5OQO6NEs89flntUWPtXUiG,0.767,0.731,8,-8.109,0,0.114,0.103,0.00364,0.102,0.678,90.997,257960,4
+656, Xscape,Feels So Good,rnb,0b0vpt8e3AkV3GG8HoUEJm,0.712,0.454,7,-9.029,1,0.0478,0.0162,1.23e-06,0.111,0.659,82.619,212040,4
+657," SWV Allen Gordon, Jr. aka ""ALLSTAR"" Arty Skye","Anything - Old Skool Radio 7"" Version",rnb,1vf3GldTchj0ytKoyLgMrZ,0.798,0.792,10,-5.667,0,0.0448,0.0103,0.00031,0.309,0.798,94.967,247440,4
+658, Guy,Wanna Get With U,rnb,0Vp56gzB5TWuZ1o3owrHu5,0.797,0.722,10,-10.631,0,0.0422,0.012,0.00761,0.0474,0.819,110.095,286373,4
+659, Adina Howard,Freak Like Me,rnb,6Vas6h9lB5mmeVDXdFqlQA,0.655,0.837,11,-6.04,0,0.0723,0.0262,5.85e-06,0.0454,0.66,91.014,253613,4
+660, Mary J. Blige,Real Love,rnb,3XG801WWhqC753dekEBkMt,0.769,0.781,0,-5.472,1,0.0797,0.119,0.000371,0.0506,0.826,95.02,269973,4
+661, Xscape,Love On My Mind,rnb,5hzdcPTFKEuRVuN8cTkcvl,0.892,0.488,3,-9.748,0,0.041,0.0316,0.0,0.0284,0.786,101.89,228902,4
+662, SWV,You're the One,rnb,67ZorjDM25q7bETfLbHdfS,0.79,0.608,6,-7.151,1,0.0363,0.522,0.00491,0.193,0.958,94.166,282600,4
+663, Faith Evans,Love Like This,rnb,7MQywXGHEev7JmwwIzMcao,0.767,0.551,0,-7.328,1,0.0616,0.00364,0.0,0.0451,0.796,100.904,275707,4
+664, Brandy MC Lyte Yo-Yo Queen Latifah,"I Wanna Be Down (feat. Queen Latifah, Yoyo & McLyte) - Remix",rnb,5HQwoi47vjLNqaOc329VNM,0.893,0.433,11,-5.88,0,0.396,0.33,0.0,0.395,0.675,86.01,256667,4
+665, Brownstone,If You Love Me,rnb,0BTGqPIW9acmhhUmENkq5r,0.687,0.583,7,-10.224,1,0.064,0.224,0.0,0.106,0.21,95.137,303903,4
+666, Xscape,My Little Secret,rnb,0mIuIBLkaRvPCz6A0mPqbM,0.814,0.431,8,-9.125,1,0.0936,0.371,0.0,0.335,0.542,129.957,268040,4
+667, SWV,I'm So Into You,rnb,5A0aUvnfAEcmUx3hoXjI8R,0.85,0.513,7,-10.663,1,0.0513,0.0624,0.00249,0.0689,0.623,99.01,278333,4
+668, Usher,You Make Me Wanna...,rnb,47TqCCnEliDp8NRDyIQoQq,0.761,0.639,5,-7.577,0,0.0539,0.0359,0.0,0.0945,0.922,164.088,219120,4
+669, Blackstreet Dr. Dre Queen Pen,No Diggity,rnb,6MdqqkQ8sSC0WB4i8PyRuQ,0.867,0.646,1,-4.674,0,0.288,0.303,0.0,0.279,0.67,88.634,304600,4
+670, Big Pun Joe,Still Not a Player (feat. Joe),rnb,5PG3h38oiQLEJlOuOvIs80,0.902,0.614,4,-6.529,0,0.289,0.184,0.000742,0.0867,0.862,94.069,236907,4
+671, Ginuwine,Pony,rnb,6mz1fBdKATx6qP4oP1I65G,0.749,0.605,8,-9.359,0,0.086,0.00186,0.0381,0.115,0.966,142.024,251733,4
+672, Total,Can't You See,rnb,1poK64Wt7p7VwrAbFgD5hS,0.715,0.721,8,-5.622,0,0.0541,0.157,1.75e-06,0.309,0.807,86.26,277320,4
+673, Tony! Toni! Toné! DJ Quik,Let's Get Down,rnb,7qdo6JOOaaY9LadOAhfXq7,0.907,0.645,7,-4.38,1,0.0976,0.043,0.0,0.18,0.562,103.312,299507,4
+674, Janet Jackson,That's The Way Love Goes,rnb,29rQJydAlO0uMyWvRIZxQg,0.703,0.7,5,-6.789,1,0.0693,0.302,0.471,0.0718,0.582,97.675,265107,4
+675, Whitney Houston,My Love Is Your Love,rnb,1ckU1EhAO0Nr73QYw24SWJ,0.77,0.475,7,-9.512,1,0.159,0.0557,4.81e-06,0.0607,0.474,82.511,261573,4
+676, Reba McEntire,Fancy,country,1ecIqo8pOc8S6y3l80iGxd,0.675,0.54,4,-10.139,1,0.0774,0.204,0.0,0.0688,0.514,94.959,296320,4
+677, Trisha Yearwood,XXX's And OOO's (An American Girl),country,7b05yUcjnxPDUhWNL4nE3K,0.704,0.735,0,-5.68,1,0.031,0.18,0.0,0.172,0.766,125.815,167840,4
+678, Mark Chesnutt,Bubba Shot The Jukebox,country,7fJaL74toBMoNuO7iUXsST,0.604,0.6,2,-10.156,0,0.0438,0.338,0.0,0.0817,0.888,82.695,185867,4
+679, Travis Tritt,Here's a Quarter (Call Someone Who Cares),country,0RdMBceHhBJLqNjObk1NPP,0.654,0.537,7,-8.067,1,0.0257,0.196,0.0,0.119,0.597,112.437,152640,3
+680, Joe Diffie,John Deere Green,country,2ZXsvL9DO2MPv43Ay1IxgR,0.685,0.817,2,-5.683,1,0.0298,0.15,0.0,0.242,0.768,130.41,273000,4
+681, Alan Jackson,"Tall, Tall Trees",country,5JkGBzxQ6qqf6MSzuLnjV2,0.675,0.794,7,-6.174,1,0.0396,0.172,0.0,0.136,0.964,145.951,148973,4
+682, Trace Adkins,(This Ain't) No Thinkin' Thing,country,4AWZVz9cuAS1ZsJUB5cq8S,0.628,0.807,9,-3.835,0,0.0251,0.156,4.92e-05,0.0962,0.554,116.058,241120,4
+683, Vince Gill,One More Last Chance,country,2h5a6t9JFasqH5WJFPbmGL,0.525,0.878,2,-8.677,1,0.0404,0.411,0.0,0.291,0.963,176.249,191200,4
+684, Ty Herndon,It Must Be Love - Single Version,country,4clg6kDhG2jceRFk8nqqRg,0.622,0.784,4,-4.576,1,0.0342,0.249,0.0,0.121,0.727,115.958,212307,4
+685, Wynonna,No One Else On Earth,country,52PGtJuGEFNVOnRdLac1Av,0.775,0.861,0,-7.113,1,0.0295,0.188,4.2e-06,0.199,0.964,98.649,255400,4
+686, Travis Tritt,I'm Gonna Be Somebody - 2003 Remaster,country,2Vgdge1IJBTdU3NItPa1dB,0.561,0.659,7,-6.701,1,0.0267,0.148,9.93e-06,0.106,0.554,76.49,245267,4
+687, Faith Hill,It Matters to Me,country,3rXdABev6vQtBCElztIl7m,0.613,0.355,6,-8.218,1,0.0247,0.567,0.0,0.0909,0.129,135.622,197667,4
+688, Alan Jackson,Chattahoochee,country,59kHPbwyyCApYA8RQQEuXm,0.606,0.706,0,-9.665,1,0.0379,0.362,0.0,0.16,0.819,174.533,148160,4
+689, Shania Twain,You Win My Love,country,2lKA9bNdd4kAoeHiufa0aK,0.707,0.802,6,-8.943,1,0.0352,0.0165,0.0,0.0697,0.947,127.732,265600,4
+690, Randy Travis,If I Didn't Have You,country,52erNkfUKv34u02CjcHOPj,0.674,0.578,4,-10.919,1,0.0663,0.164,0.0,0.103,0.961,172.498,186747,4
+691, Tim McGraw,Down On The Farm,country,65N3RYCN1DgfY0Zcv5k9kr,0.721,0.735,5,-11.849,0,0.0284,0.115,0.0,0.0499,0.961,127.575,178867,4
+692, Reba McEntire,The Night The Lights Went Out In Georgia,country,2MiXC2LfpsoeUP5RvMGEQ3,0.428,0.51,7,-11.695,0,0.103,0.52,8.32e-06,0.105,0.393,169.967,257267,4
+693, Brooks & Dunn,Neon Moon,country,3EUl8M6SzxZl03NPkB8mUd,0.702,0.632,9,-6.508,1,0.0247,0.554,0.0,0.127,0.457,102.404,263500,4
+694, Dolly Parton Vince Gill,I Will Always Love You (with Vince Gill),country,55g4K059GVclNmL71tBYgQ,0.444,0.169,8,-13.799,1,0.0313,0.807,0.0,0.0974,0.156,132.316,197773,4
+695, John Michael Montgomery,I Love the Way You Love Me,country,6MnDkyb3VstTCT9ELxjfeE,0.447,0.319,8,-10.732,1,0.0264,0.63,1.35e-06,0.106,0.246,162.109,241307,4
+696, Shania Twain,Any Man Of Mine,country,0pdfN7nOHMYmKykzu1cyfm,0.592,0.725,8,-8.698,1,0.0412,0.207,0.0,0.148,0.784,78.235,246760,4
+697, Lonestar,Tequila Talkin',country,0iwHQiur8NmRvosDlBil2i,0.699,0.543,9,-7.105,1,0.0231,0.152,1.33e-06,0.156,0.561,99.235,204627,4
+698, Tim McGraw,Where The Green Grass Grows,country,0nDjzA4kns1QOWPXuOn6Xw,0.479,0.698,7,-7.914,1,0.0277,0.198,0.0,0.126,0.673,159.699,201600,4
+699, George Strait,I Can Still Make Cheyenne,country,7yQMZQeiSKnvEgimeGPVhi,0.585,0.39,3,-10.233,1,0.0266,0.68,0.000769,0.0919,0.237,109.514,256067,4
+700, Randy Travis,Better Class of Losers,country,3EiXWMUIE0bNNo36suPrRQ,0.59,0.686,7,-6.998,1,0.0364,0.194,0.0,0.2,0.733,179.387,160360,4
+701, Dwight Yoakam,Ain't That Lonely Yet - 2002 Remaster,country,65oM1hR5Ctd6aQQ1eFoXpL,0.598,0.732,5,-5.098,1,0.0259,0.431,3.31e-06,0.1,0.549,106.92,200707,4
+702, Reba McEntire Brooks & Dunn,"If You See Him, If You See Her",country,26y5yN6vYOvHFoqLEuQbAw,0.506,0.456,7,-7.4,1,0.0239,0.344,0.0,0.193,0.161,82.478,235667,4
+703, Brooks & Dunn,Boot Scootin' Boogie,country,7Fq9RwQxSn3kW85PrDUf0M,0.656,0.817,11,-4.296,0,0.0435,0.22,0.0,0.306,0.862,130.446,198020,4
+704, Confederate Railroad,Trashy Women,country,5c15axZrDZtzqYsomtEwTz,0.636,0.824,9,-5.535,1,0.0344,0.0468,0.0,0.139,0.872,142.553,195707,4
+705, Jo Dee Messina,I'm Alright,country,0MjT9xQqJrQlNrkWKZgFbQ,0.676,0.733,0,-7.745,1,0.0294,0.191,0.0,0.192,0.591,98.234,199040,3
+706, Collin Raye,That's My Story,country,2dKRyO4cUumqbIXxLkdkoq,0.642,0.834,5,-4.4,0,0.0982,0.538,0.0,0.108,0.645,137.875,182960,4
+707, Mark Chesnutt,It's A Little Too Late,country,1vFyOiwgezbBMIFtT4t0it,0.5,0.865,9,-9.706,1,0.044,0.313,0.0,0.11,0.777,172.946,163307,4
+708, Mindy McCready,Guys Do It All the Time,country,0uZRJmWi1TH3wrAN7hAbyF,0.551,0.794,0,-5.995,1,0.0341,0.0594,2.01e-05,0.231,0.587,165.813,191800,4
+709, Aaron Tippin,You've Got to Stand for Something,country,4RGa1ZQK9FxkNB9z9UHrjU,0.544,0.577,4,-9.842,1,0.0343,0.188,0.0,0.11,0.456,83.472,182160,4
+710, David Lee Murphy,Dust On The Bottle,country,0Xg68XXMRWzKQvD5S6BFvI,0.736,0.614,11,-11.124,1,0.0389,0.0237,5.84e-06,0.292,0.858,99.942,224667,4
+711, Travis Tritt,T-R-O-U-B-L-E - 2003 Remaster,country,2yB8Eo8f8OL7gYEBL8qT4G,0.3,0.965,7,-6.724,1,0.0429,0.0121,0.000742,0.687,0.793,178.963,181333,4
+712, Doug Stone,Why Didn't I Think Of That,country,4s9JGX0flu9KcxZziV3I0C,0.758,0.596,2,-7.468,1,0.0281,0.44,1.86e-05,0.132,0.859,121.207,191440,4
+713, Keith Whitley,It Ain't Nothin',country,3xVuSn2NnokJtXoff1RxHi,0.79,0.455,9,-11.039,1,0.0536,0.548,0.000105,0.108,0.405,119.49,244067,4
+714, John Michael Montgomery,Be My Baby Tonight,country,2P9Cn8LEt0mK0WD6iCYokP,0.634,0.774,9,-7.651,1,0.0384,0.226,2.16e-05,0.397,0.927,156.828,170533,4
+715, Shania Twain,No One Needs To Know,country,4vbW5aT9UQGRqEScStQPPy,0.663,0.525,7,-9.674,1,0.0331,0.108,0.0,0.349,0.731,134.748,183960,4
+716, Alan Jackson,Wanted,country,5oUjEriN3FJRtOy9pfHML5,0.636,0.298,5,-8.931,1,0.0268,0.612,4.31e-06,0.162,0.276,89.613,177320,3
+717, Billy Ray Cyrus,Busy Man,country,55bwRyNowFFB5Kp0Ojkvhx,0.6,0.568,7,-9.867,1,0.0388,0.106,0.0,0.238,0.475,163.887,197267,4
+718, Joe Diffie,Honky Tonk Attitude,country,61uA8ZPtKuVp61iuOnPTDr,0.679,0.812,5,-6.549,1,0.0266,0.175,8.04e-06,0.1,0.775,140.467,228627,4
+719, Tracy Byrd,The Keeper Of The Stars,country,5WEK4szbQp9c7ZK6LkYd9k,0.583,0.276,2,-12.912,1,0.0264,0.47,0.0,0.143,0.0486,78.079,247627,4
+720, Brooks & Dunn,Honky Tonk Truth,country,07VwAUiHy0WXUZ8OLunzA4,0.573,0.847,6,-7.251,1,0.0341,0.0647,8.16e-05,0.383,0.795,153.971,195107,4
+721, Tracy Lawrence,Time Marches On,country,2TIEeLrOQrGnO2D2OeDDJu,0.856,0.517,6,-9.232,0,0.0293,0.563,0.000164,0.144,0.479,118.399,185360,4
+722, Alison Krauss & Union Station,When You Say Nothing At All,country,46LI9mnlQ8fJHH47ioBubg,0.509,0.242,3,-13.353,1,0.0291,0.714,0.000365,0.127,0.448,169.642,261120,4
+723, Alan Jackson,Gone Country,country,1A0I5aiVZRwecRlbQcweBh,0.681,0.719,7,-5.918,1,0.0248,0.131,1.65e-06,0.113,0.637,125.729,259893,4
+724, Trace Adkins,I Left Something Turned On At Home,country,1CxG3QsfkmcUYlxWwvOtz5,0.623,0.91,3,-5.29,1,0.032,0.169,0.00267,0.317,0.929,151.466,188240,4
+725, Ty Herndon,What Mattered Most,country,09nWHcNuohUS7HMPdIDwrr,0.529,0.509,0,-8.926,1,0.0253,0.415,0.0,0.171,0.27,142.311,221427,4
+726, Tracy Byrd,Watermelon Crawl,country,3Q9t1A12iUemHTAWnH7PjD,0.759,0.723,0,-9.315,1,0.028,0.173,0.0,0.179,0.962,136.746,181973,4
+727, Brooks & Dunn,Brand New Man,country,75QTZG8XFYKb0HQIwgCzNE,0.642,0.762,7,-4.355,1,0.0451,0.0904,1.25e-06,0.101,0.647,127.513,179304,4
+728, Vince Gill,Don't Let Our Love Start Slippin' Away,country,70TsRbycWfabtevnripyRu,0.739,0.717,3,-9.568,1,0.0308,0.417,0.000918,0.334,0.663,113.234,223533,4
+729, Rhett Akins,That Ain't My Truck,country,7riuy1t0Kt3SRgMtFxX0FR,0.64,0.788,7,-9.012,1,0.035,0.232,0.0,0.144,0.774,128.961,243107,4
+730, Alan Jackson,Little Bitty,country,2IY559smG7SXYk229NA2Vl,0.571,0.818,4,-6.539,1,0.0415,0.151,0.0,0.348,0.728,163.045,158627,4
+731, Faith Hill,Wild One,country,0qrst0xZAZ0NtMtuUcEq0f,0.694,0.654,11,-9.148,1,0.0322,0.185,0.0,0.283,0.689,135.787,165013,4
+732, Trace Adkins,Every Light In The House,country,2A7j0RLnzvvlUFrevBiOQf,0.637,0.472,5,-7.295,1,0.0271,0.539,0.0,0.446,0.349,129.236,179600,4
+733, George Strait,Carrying Your Love With Me,country,7puxIVNdj5nsBJk43zM3bH,0.629,0.479,10,-10.608,1,0.0271,0.22,0.0,0.0587,0.345,138.231,232427,4
+734, Travis Tritt,Take It Easy - 2006 Remaster,country,1UEKaf3j6eXeNbySz761lc,0.632,0.876,7,-5.21,1,0.0276,0.0116,0.0,0.0537,0.738,140.967,213707,4
+735, Mark Chesnutt,Brother Jukebox,country,4ZR9EUWiGkN22OqEhnYAgG,0.633,0.612,1,-11.231,1,0.0264,0.205,0.00114,0.149,0.918,141.084,184600,4
+736, Neal McCoy,No Doubt About It,country,2iehL6Q3m5NUDanDT2IKwT,0.621,0.469,4,-10.438,1,0.0267,0.22,3.34e-05,0.067,0.511,144.665,227640,4
+737, Clay Walker,Then What?,country,7Ihl2uNgZmwaOyp9KRHGsA,0.564,0.806,4,-8.227,1,0.063,0.169,0.0,0.0663,0.633,176.405,183707,4
+738, Toby Keith,You Ain't Much Fun,country,2XLDLXDfStaQTcnOhEQZrB,0.746,0.802,9,-3.827,1,0.039,0.335,0.0,0.353,0.766,138.447,146373,4
+739, Brooks & Dunn,My Maria,country,09qzRI951OVkXGCc33gzcT,0.673,0.842,3,-4.627,1,0.0365,0.06,0.000257,0.184,0.897,125.571,207772,4
+740, The Chicks,There's Your Trouble,country,69m9WDPBvemwujQwdONslk,0.737,0.869,2,-5.433,1,0.0267,0.481,0.0,0.308,0.898,126.628,193065,4
+741, George Strait,I Just Want To Dance With You,country,4cdAXfguhQHYFkvuuzye1m,0.715,0.469,0,-8.674,1,0.0279,0.439,8.69e-05,0.104,0.502,113.991,210867,4
+742, Tim McGraw,"I Like It, I Love It",country,3IvcWWehbBcBR4YZxlGM9R,0.643,0.961,0,-5.298,1,0.0315,0.0196,0.0,0.948,0.96,124.027,205707,4
+743, Doug Stone,In a Different Light,country,5O0GOy0L0zfDTPv9eIApkg,0.462,0.485,5,-7.533,1,0.0247,0.146,2.24e-06,0.0604,0.506,168.374,205733,4
+744, Montgomery Gentry,Hillbilly Shoes,country,0kJeo33oWW6Nx4tkUNPshJ,0.655,0.837,7,-6.072,1,0.0355,0.0332,0.00223,0.111,0.708,115.938,192586,4
+745, Toby Keith,A Little Less Talk And A Lot More Action,country,5pxwZSyZlias88fmxGTaYN,0.755,0.808,9,-7.367,1,0.0374,0.282,2.02e-06,0.11,0.933,124.976,170547,4
+746, Brooks & Dunn,How Long Gone,country,26uKnyjdjqlDFGwR4e7C8y,0.611,0.767,5,-4.569,1,0.026,0.0246,0.00182,0.401,0.736,113.962,219057,4
+747, Mary Chapin Carpenter,I Feel Lucky,country,6IItFqIHg6jHleKOYI7Aas,0.77,0.707,6,-9.356,0,0.0402,0.26,0.000192,0.134,0.883,120.069,265667,4
+748, George Strait,Write This Down,country,1TanmIWbaUj5NVwJ3k4XPd,0.729,0.688,3,-7.468,1,0.0264,0.127,9.44e-06,0.295,0.671,123.867,219600,4
+749, David Ball,Thinkin' Problem,country,7nhTpkQfsanJzuz9RNsoo4,0.749,0.748,0,-5.783,1,0.0311,0.147,1.51e-05,0.265,0.745,110.437,180907,4
+750, Collin Raye,"Love, Me",country,5cCLKP66G2PJEorzYQVXHR,0.686,0.234,0,-12.646,1,0.0295,0.742,0.0,0.145,0.342,106.581,231507,4
+751, Tim McGraw,Indian Outlaw,country,1fYypIR0kaFzaSRbzvtjl9,0.664,0.739,9,-7.229,1,0.0415,0.0364,4.99e-05,0.282,0.759,110.101,182120,4
+752, Joe Diffie,Pickup Man,country,3QvOV1QYPPre7gjppKyeON,0.709,0.757,7,-7.006,1,0.0408,0.434,0.0,0.336,0.852,140.664,216693,4
+753, The Tractors,Baby Likes To Rock It,country,2kQtKFkPMdL5Jf7xk4T9SI,0.573,0.946,5,-6.178,1,0.0369,0.165,0.00028,0.13,0.964,79.966,236467,4
+754, The Chicks,Wide Open Spaces,country,6cjwec9ii5uLK7CDfPBYt1,0.563,0.544,4,-6.102,1,0.0306,0.577,0.0,0.128,0.602,179.351,223832,4
+755, George Strait,Check Yes Or No,country,6iy4PoAuZBMvtrlDX4VxC7,0.708,0.524,5,-12.644,1,0.0352,0.0551,3.21e-06,0.0371,0.69,111.482,200667,4
+756, Clay Walker,If I Could Make a Living,country,707ayNK8mQkl7VcsyEWMh4,0.598,0.777,5,-6.751,1,0.0321,0.18,0.0,0.285,0.873,156.053,132413,4
+757, Toby Keith,Dream Walkin',country,6hDkCNq4s5ozvE86RqRIIz,0.7,0.77,5,-5.116,1,0.0282,0.355,0.0,0.0919,0.513,117.566,235627,4
+758, Tim McGraw,Just To See You Smile,country,2op0kDNARK2VHWHntEeH4g,0.492,0.823,6,-8.526,1,0.0297,0.127,0.0,0.0523,0.702,94.342,215173,4
+759, Neal McCoy,The Shake,country,2KZXnN63ae6G6Cai2NhPkG,0.677,0.892,9,-5.709,1,0.0527,0.0755,6.6e-06,0.202,0.898,145.921,213333,4
+760, Billy Dean,Only Here For A Little While,country,0PrZqDSdiTP8ZLBJHQB0zF,0.537,0.6,9,-6.675,1,0.028,0.141,0.0,0.36,0.774,172.541,214560,4
+761, LeAnn Rimes,Blue,country,1g5EcKDECPxeI7kgkvcbxm,0.545,0.452,4,-8.604,1,0.0248,0.595,1.29e-06,0.161,0.297,91.294,169547,4
+762, George Strait,If I Know Me,country,4QRUkpv3q9NCb0x7jw0d3d,0.549,0.352,4,-11.217,1,0.0271,0.646,0.00014,0.104,0.153,134.374,161800,4
+763, Clay Walker Ed Seay,"Live, Laugh, Love",country,3Th5HBAlRZF0oN31ubxHA9,0.647,0.746,2,-10.597,1,0.0437,0.195,0.0,0.0271,0.946,98.991,246267,4
+764, Trisha Yearwood,She's In Love With The Boy,country,4EJvW4NHAk7TrIeX44jjXF,0.753,0.822,3,-4.914,1,0.031,0.518,1.72e-06,0.125,0.765,125.0,245787,4
+765, Wynonna,Tell Me Why,country,3Vfj2JGXayXgc0c9J4gJ8m,0.621,0.802,3,-6.717,1,0.0315,0.00746,0.00279,0.0677,0.81,141.612,230640,4
+766, Shania Twain,"Honey, I'm Home",country,2lvJIKJYyV9gkQVN1NoSMg,0.645,0.747,4,-5.747,1,0.0888,0.12,0.0,0.135,0.815,80.287,213200,4
+767, Diamond Rio,Meet In the Middle,country,7lUE02KHkZM44BZgjCaWRO,0.746,0.443,4,-11.305,1,0.0359,0.663,0.0,0.223,0.554,91.11,198333,4
+768, Toby Keith,Wish I Didn't Know Now,country,3m0y8N3OfpYCBzDjyBzIx0,0.799,0.707,7,-8.464,1,0.0402,0.448,0.000125,0.289,0.822,116.922,206840,4
+769, Brooks & Dunn,Hard Workin' Man,country,51uGoXB3PbXLyeH0aPGo7H,0.692,0.77,0,-9.361,1,0.0369,0.333,1.17e-06,0.0552,0.731,151.51,178493,4
+770, Alan Jackson,Summertime Blues,country,3hV8Gvijx6cVv339o3uCSK,0.395,0.862,7,-6.837,1,0.0426,0.374,3.29e-05,0.209,0.964,80.716,192093,4
+771, Joe Diffie,Bigger Than the Beatles,country,1pJKAxSNxqM8R653BL8oiH,0.716,0.84,7,-6.21,1,0.0325,0.182,0.0,0.0413,0.635,119.631,235440,4
+772, Clint Black,Put Yourself In My Shoes,country,2mqsQP9IIDbMIt6FGFkAEA,0.737,0.41,9,-11.088,1,0.0353,0.58,0.0,0.25,0.397,104.647,193093,4
+773, Tracy Byrd,I'm From The Country - Single Version,country,5Lwc3DTWzX6JaW2x2PZezt,0.687,0.898,2,-3.93,1,0.042,0.206,0.0,0.284,0.952,129.542,213973,4
+774, Diamond Rio,How Your Love Makes Me Feel,country,4LSolq1CjLOVnya9zb0pU1,0.612,0.787,0,-8.119,1,0.0313,0.351,0.0,0.065,0.577,140.91,245400,4
+775, John Anderson,Straight Tequila Night,country,5pd09tZmcXpyaXcuzs1p7J,0.638,0.661,9,-10.134,1,0.0341,0.137,0.0,0.245,0.464,109.268,172756,4
+776, Ray Price,Heartaches By The Number,country,361wxJRa6M2sH1Epy2MAC1,0.515,0.603,10,-6.246,1,0.0318,0.639,0.0,0.121,0.892,127.151,176627,4
+777, Lefty Frizzell,Always Late (With Your Kisses),country,3XQ2ZGDLsNVzypE5UMFsIF,0.776,0.198,9,-11.406,1,0.0318,0.842,0.0,0.35,0.567,117.755,184040,3
+778, Jim Reeves,Am I Losing You,country,3CRQJXjhNZiyvoNc3RIcwr,0.528,0.121,9,-21.213,1,0.0345,0.91,0.00451,0.125,0.38,87.834,139733,4
+779, Hank Locklin,Send Me the Pillow You Dream On,country,5zVjs89nsOIT7I90ETawau,0.595,0.308,3,-11.626,1,0.0333,0.84,4.08e-06,0.0942,0.624,119.755,147440,4
+780, Jimmie Rodgers,Kisses Sweeter Than Wine,country,2luRltDp0ZG4ORi3lA8NsB,0.497,0.318,6,-12.974,1,0.0597,0.672,0.0,0.0783,0.696,162.104,142333,4
+781, Red Foley,Midnight,country,5KemrO66yxhWCx9r1SBZXP,0.691,0.26,2,-14.15,1,0.0297,0.823,4.8e-06,0.102,0.447,79.08,192960,4
+782, Elvis Presley,Don't Be Cruel,country,01u6AEzGbGbQyYVdxajxqk,0.697,0.55,2,-11.496,1,0.18,0.856,3.44e-05,0.0907,0.844,84.802,122893,4
+783, Marty Robbins,Singing the Blues,country,4vcHOxfV846dVjyToPFBRp,0.546,0.469,5,-8.967,1,0.0289,0.391,0.0,0.091,0.779,142.712,145640,4
+784, Don Gibson,"Blue, Blue Day",country,0lgckCZ94ZjtCBpjfRL5Su,0.729,0.486,4,-10.84,1,0.0299,0.794,0.0,0.192,0.978,100.161,113240,4
+785, Hank Williams Drifting Cowboys,Your Cheatin' Heart - Single Version,country,3PIZKsovCCVX3XaxKSzkdY,0.666,0.129,0,-17.21,1,0.0322,0.947,4.59e-06,0.333,0.562,128.054,163507,4
+786, Red Foley The Nashville Dixielanders,Alabama Jubilee,country,4Go8YDlnV1lgAtJtc02Fq7,0.794,0.622,0,-13.444,1,0.052,0.335,0.000289,0.319,0.901,125.305,167907,4
+787, Elvis Presley,Love Me Tender - Mono,country,5ap5OgMjY85VcIDcyv02Nc,0.454,0.0659,9,-15.13,1,0.0404,0.91,5.74e-06,0.103,0.282,78.135,162133,4
+788, George Jones,White Lightning - Single Version,country,3Eixas2OjLZa4oW1Ou6dy0,0.626,0.797,10,-9.607,1,0.0687,0.709,1.21e-06,0.128,0.955,149.483,165453,4
+789, Johnny Cash,"Cry, Cry, Cry - Long Version",country,7DP5q4CQMx5hf4K5RnVVYP,0.783,0.615,5,-10.7,1,0.0754,0.779,0.000324,0.153,0.9,104.663,183000,4
+790, Hank Williams,Honky Tonk Blues - 1952 Single Version,country,6Ohgx6k29PwkyjEb8BBexc,0.776,0.256,9,-11.046,1,0.0505,0.83,3.41e-06,0.112,0.772,127.867,130133,4
+791, Hank Thompson Hank Thompson And His Brazos Valley Boys,Wildwood Flower - Instrumental,country,6zLHRDxxP2EpTuqlJz6no3,0.648,0.449,0,-10.971,1,0.0416,0.597,0.896,0.0537,0.974,117.197,177867,4
+792, Ray Price,Crazy Arms,country,2cwGK6ZYfiZ1EZva2VEKSN,0.506,0.42,5,-9.785,1,0.0334,0.666,0.0,0.204,0.761,116.76,152509,4
+793, Lefty Frizzell,Forever And Always,country,1iz8GVAaRaQ3oiybsBiM7O,0.66,0.115,7,-13.591,1,0.0274,0.589,4.47e-06,0.193,0.395,96.671,148093,4
+794, Marty Robbins,El Paso,country,4f8hBeMXMvssn6HtFAtblo,0.654,0.452,2,-9.709,1,0.03,0.835,2.89e-05,0.16,0.691,106.662,259307,3
+795, Jerry Lee Lewis,Whole Lotta Shakin' Going On,country,19J1kwHa3sgxLwaWDleGhd,0.377,0.615,0,-8.431,1,0.0309,0.812,0.000322,0.154,0.553,161.532,173159,4
+796, Don Gibson,I Can't Stop Loving You,country,3mewJ611cPqPIk8EQDiA12,0.595,0.289,11,-11.768,1,0.0292,0.946,8.98e-05,0.246,0.505,83.428,154440,4
+797, Leroy Van Dyke,The Auctioneer,country,78ppGvt1zJsERRzgRMjdLL,0.702,0.727,2,-9.209,1,0.0451,0.452,2.39e-06,0.352,0.971,131.398,167622,4
+798, Red Foley,Birmingham Bounce,country,0nd00V0zyqu1oEIqHtlDU7,0.83,0.583,8,-10.736,1,0.0905,0.635,2.34e-06,0.097,0.873,92.377,171288,4
+799, Eddy Arnold,Just Call Me Lonesome,country,0DWFp1N36GuQTtyYY9vshy,0.633,0.232,7,-11.325,1,0.0314,0.811,0.0,0.265,0.621,121.855,155307,4
+800, Webb Pierce,I Ain't Never - Single Version,country,57X5xjtkK1Mo9TYAcxgJlx,0.936,0.665,11,-6.341,1,0.0307,0.727,1.71e-05,0.0972,0.965,122.579,113640,4
+801, Elvis Presley,(Let Me Be Your) Teddy Bear,country,4qfseGEjfvaXs6veGjPU2z,0.628,0.399,0,-12.447,1,0.18,0.83,0.0,0.353,0.924,87.807,107187,4
+802, Margaret Whiting Leon Payne,I Love You Because,country,0OnnbhUUfJ23b3UAbBbzAa,0.482,0.257,5,-11.482,1,0.0281,0.889,1.1e-06,0.13,0.586,97.12,127747,4
+803, Hank Williams,Why Don't You Love Me - Single Version,country,2qHHCqqYJXrB959rYUmIMd,0.774,0.299,7,-13.219,1,0.0622,0.532,0.0,0.0897,0.963,140.481,143373,4
+804, The Davis Sisters,I Forgot More Than You'll Ever Know - Remastered,country,1hV5guiKDYaQCKnwXXLzyH,0.661,0.288,1,-6.635,1,0.0255,0.887,0.0,0.132,0.417,96.513,181507,3
+805, Webb Pierce,There Stands The Glass,country,0VxX3RBKO46Ky6XgvN0bME,0.522,0.256,3,-7.39,1,0.0309,0.923,0.0,0.359,0.64,114.96,146667,4
+806, Patsy Cline,Walkin' After Midnight,country,4HbWgdhQcrV1PbCkzspTSF,0.749,0.315,0,-9.159,1,0.0344,0.806,0.0,0.121,0.813,134.834,154000,3
+807, Eddy Arnold,How's the World Treating You,country,7oW8AM8E8DeZknzCSCb3lu,0.528,0.168,2,-12.053,1,0.0305,0.952,0.000151,0.289,0.39,82.83,176600,4
+808, Hank Williams Drifting Cowboys,"Hey, Good Lookin' - Single Version",country,4v3tdzHwvCpGLmVPnhMCkH,0.789,0.25,7,-12.786,1,0.0413,0.874,0.0,0.125,0.87,141.076,175333,4
+809, The Delmore Brothers,"Blues, Stay Away From Me",country,2ewXa1fuu1NwFn3zfdC3Ye,0.631,0.339,3,-9.796,1,0.0249,0.925,0.471,0.106,0.6,103.224,174693,4
+810, Ray Price,Invitation to the Blues,country,0C7M2eMM22PSLOGE1v8oTr,0.507,0.358,3,-12.085,1,0.0324,0.788,2.5e-05,0.0673,0.814,116.489,167416,4
+811, Elvis Presley,Hound Dog,country,64Ny7djQ6rNJspquof2KoX,0.357,0.756,0,-8.492,1,0.0621,0.733,0.00505,0.76,0.95,174.797,136027,4
+812, Hank Thompson Hank Thompson And His Brazos Valley Boys,The Wild Side Of Life,country,39AxeDwNIyjPKgI7g9H2Jg,0.596,0.144,2,-10.307,1,0.0298,0.924,0.0,0.219,0.451,115.681,164520,4
+813, Kitty Wells,Hey Joe,country,6CFckB9Rn0ptccgUwQylnR,0.742,0.503,10,-7.474,1,0.0309,0.763,0.0,0.128,0.856,112.825,157147,4
+814, Johnny Cash,Folsom Prison Blues,country,6pPmgSgrdWMemkmpRWO2aQ,0.728,0.679,5,-5.78,1,0.0262,0.716,3.65e-05,0.0901,0.869,101.601,172027,4
+815, Hank Snow & His Rainbow Ranch Boys,I Don't Hurt Anymore - Remastered,country,52o7DuuvSLrk6ffYqVphMo,0.548,0.349,11,-10.805,1,0.0295,0.812,0.0,0.13,0.702,94.379,175267,4
+816, Elvis Presley,All Shook Up,country,5ueyLj6e6oVaTY0KQ6yLaA,0.624,0.468,10,-12.162,1,0.132,0.881,6.35e-06,0.144,0.952,74.139,117080,4
+817, Tennessee Ernie Ford,Sixteen Tons,country,3P6OwCX7Ofiaaqtvujb6i5,0.693,0.324,11,-15.085,1,0.205,0.796,0.0,0.246,0.382,144.14,158307,4
+818, Kitty Wells,It Wasn't God Who Made Honky Tonk Angels,country,6uMB2D7bytHE904AGNekNB,0.565,0.23,9,-9.772,1,0.0284,0.701,0.0,0.346,0.792,137.81,150933,4
+819, Billy Grammer,Gotta Travel On,country,3HynxUWKnm7rtzjVkyXoHu,0.568,0.512,3,-12.223,1,0.0764,0.822,1.14e-05,0.0941,0.892,177.144,150493,4
+820, Duane Eddy,Rebel Rouser,country,4nAJtcmiyoL0ARY5WZY9IN,0.388,0.434,7,-11.997,1,0.0354,0.789,0.954,0.728,0.873,206.313,153533,4
+821, Elvis Presley,Heartbreak Hotel,country,6xNwKNYZcvgV3XTIwsgNio,0.696,0.21,4,-11.922,1,0.067,0.84,1.62e-06,0.107,0.717,93.543,127560,4
+822, Hank Williams,You Win Again,country,1rb3elJQHycoTWIqh80rew,0.648,0.228,4,-12.684,1,0.0292,0.674,0.0,0.122,0.544,114.258,155760,4
+823," Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys",I'm Movin' On,country,446eGf6Afa6PuZYTsF19U1,0.569,0.701,2,-7.404,1,0.0307,0.769,0.000104,0.211,0.933,97.436,167920,4
+824, Don Gibson,Oh Lonesome Me,country,0F8JWFitStLlel68uSLhUX,0.672,0.731,10,-10.139,1,0.0343,0.793,2.5e-06,0.0687,0.943,102.98,149027,4
+825, George Jones,Why Baby Why - Single Version,country,2Nl4tN3rYAnnx8PpYOhQfN,0.671,0.606,7,-4.426,1,0.0471,0.667,6.59e-06,0.0524,0.921,79.403,137760,4
+826, Carl Smith,Hey Joe,country,6IDlzJSrrWM9Aekoe6LwK9,0.737,0.611,2,-8.686,1,0.0291,0.329,3.87e-06,0.0712,0.646,110.107,149360,4
+827, Eddy Arnold,Tennessee Stud - Remastered,country,0B6zRccZmGS6CoMFXv8wdc,0.807,0.319,5,-17.234,1,0.0443,0.71,0.0,0.126,0.689,94.789,185027,4
+828, Buck Owens,Under Your Spell Again,country,62aHZDM8REF3iJKIVcNoRK,0.558,0.436,9,-5.792,1,0.0296,0.57,5.31e-06,0.0913,0.857,152.89,164240,4
+829, Ernest Tubb Red Foley Sunshine Trio,"Goodnight, Irene",country,4BhqQ37r2ByyV512lfnYPK,0.669,0.187,4,-12.353,1,0.043,0.863,0.0,0.339,0.517,128.878,181653,3
+830, Kitty Wells,Making Believe - 1955 Single Version,country,5wh5VHVPTrcdBAIRwJvWV6,0.55,0.257,5,-10.82,1,0.0254,0.747,0.0,0.161,0.471,102.787,173800,4
+831, Faron Young,Goin' Steady,country,5PBGdSfxhjSuJHfagUNOCl,0.734,0.309,0,-8.149,1,0.0344,0.797,0.0,0.0883,0.683,117.662,161533,4
+832, Johnny Cash,Big River,country,6tSlcd8gcp3XGstYNhL3It,0.632,0.559,5,-10.49,1,0.0674,0.854,0.000103,0.127,0.884,182.942,151427,4
+833, Hank Williams,"Cold, Cold Heart - Single Version",country,2ony3EiDrCcaeqciqJ5TmI,0.583,0.232,2,-8.386,1,0.034,0.885,0.0,0.15,0.517,113.491,163053,4
+834, Lefty Frizzell,If You've Got the Money I've Got the Time,country,3jvNwwHkWjELV3QALVz47D,0.545,0.392,2,-10.091,1,0.0481,0.83,9.41e-05,0.0903,0.951,208.426,179307,4
+835, Pee Wee King & His Golden West Cowboys,Slow Poke,country,0h45YvcNfRRpf5D34vVgOr,0.756,0.175,7,-15.094,1,0.138,0.732,2.47e-06,0.0737,0.783,133.907,180560,4
+836, Red Foley Ernest Tubb,Too Old To Cut The Mustard,country,3eCBDkw6G3ArDFoqEYXf7a,0.82,0.477,2,-11.189,1,0.0441,0.772,0.0,0.0622,0.807,106.107,172000,4
+837, Bobby Helms,Fraulein,country,763CAJyB9ZXHntB3QCpduv,0.745,0.408,7,-9.703,1,0.0368,0.261,0.00321,0.112,0.676,120.981,161440,4
+838, The Browns,The Three Bells,country,24SbmQo3XQkNLpSBYda4DA,0.47,0.159,7,-14.795,1,0.0403,0.893,0.0,0.124,0.418,106.488,169573,4
+839, Hank Williams,Kaw-Liga - Single Version,country,6jAq2JlwfJTWAUILREgvyv,0.636,0.382,11,-7.649,0,0.0329,0.817,0.0,0.234,0.69,111.216,153693,4
+840, Johnny Cash,Don't Take Your Guns to Town,country,0p7QF136UOOUHnyU8CuZra,0.629,0.204,10,-12.619,1,0.075,0.864,0.0,0.0863,0.489,89.199,182667,3
+841, Porter Wagoner,A Satisfied Mind,country,0L9wb8Sy398mMog38XcfND,0.732,0.243,4,-7.638,1,0.0299,0.945,3.85e-05,0.0955,0.432,115.14,166040,3
+842, Jimmie Rodgers,Honeycomb - Single Version,country,7MqkjX5YCXhazcaAlHvPmJ,0.552,0.463,2,-11.568,1,0.106,0.608,0.0,0.323,0.909,198.372,137107,4
+843, The Everly Brothers,Bye Bye Love,country,6oRHRkQigTzJ3KwpO3XOV6,0.547,0.523,9,-9.176,1,0.0572,0.724,0.0,0.103,0.89,169.598,142907,4
+844, Jerry Lee Lewis,Great Balls of Fire,country,7xe3EQCvXnx6Q0zs41Y65n,0.592,0.627,10,-10.14,1,0.0662,0.55,0.0,0.43,0.909,79.567,111240,4
+845, Johnny Cash,Ballad of a Teenage Queen,country,5HwAaXDLVDgVcoGIjDRANK,0.678,0.407,3,-11.037,0,0.055,0.583,0.0,0.121,0.641,97.957,130827,4
+846, Red Foley,Chattanoogie Shoe Shine Boy - 1949 Single Version,country,7Jf323ttHKUnPylFWiaGl3,0.725,0.373,10,-15.925,1,0.0494,0.613,0.0202,0.118,0.846,148.367,169000,4
+847, Johnny Horton,The Battle Of New Orleans,country,0dwpdcQkeZqpuoAPYD49N3,0.703,0.776,9,-10.983,1,0.139,0.764,0.0,0.0988,0.921,177.283,151627,4
+848, Slim Whitman,Indian Love Call,country,0WrIaFPKeJtGr1SUeKuYH9,0.242,0.261,3,-7.895,1,0.0335,0.97,0.000253,0.1,0.386,203.913,190653,4
+849, Elvis Presley,Jailhouse Rock,country,4gphxUgq0JSFv2BCLhNDiE,0.647,0.582,10,-9.538,0,0.0755,0.41,1.93e-06,0.0715,0.915,167.396,146480,4
+850, Johnny Cash,I Walk The Line - Single Version,country,7kIDzcFzCSaPLOi4ZMt2Bx,0.863,0.382,10,-14.34,1,0.0464,0.777,0.00103,0.109,0.744,105.766,163027,4
+851, Lefty Frizzell,I Love You a Thousand Ways,country,7pWjsuL63J2CBvml3dCCS4,0.675,0.312,4,-9.351,1,0.0316,0.642,0.0,0.0898,0.644,127.179,163000,4
+852, Johnny Horton,Honky Tonk Man,country,7m44TrK4qxvhRUh1vaibHL,0.525,0.622,4,-10.18,1,0.0367,0.516,0.0,0.505,0.965,135.816,130933,4
+853, Stonewall Jackson,Waterloo,country,4wVHCuK7ttuVAkLkQO3pTI,0.345,0.684,8,-9.338,0,0.0311,0.527,0.0,0.359,0.962,202.968,147865,4
+854, Sonny James,Young Love,country,7ow0KcdNRitEedvwQNTd6S,0.455,0.244,2,-16.097,1,0.041,0.752,9.52e-06,0.0959,0.383,146.483,152200,3
+855, Ray Price,City Lights,country,62RfCZpT2zfBHRXD8yp2WV,0.326,0.495,10,-10.839,1,0.0386,0.891,0.0,0.241,0.723,109.915,178979,4
+856, Gene Vincent & His Blue Caps,Be-Bop-A-Lula,country,0HUp7ipIDJvITTqizN6cxJ,0.593,0.537,9,-10.906,1,0.0444,0.414,0.0,0.147,0.843,126.071,156307,4
+857, Hawkshaw Hawkins,Slow Poke,country,6FF75qRTxIbIHQTDEiUFmm,0.637,0.576,8,-12.716,1,0.0373,0.712,0.00884,0.101,0.876,137.723,178707,4
+858, The Everly Brothers,Wake up Little Susie,country,11fNLqDB47gMKj7BHhR2Qr,0.709,0.62,2,-9.382,1,0.034,0.318,0.0,0.0426,0.936,93.723,123520,4
+859, Webb Pierce,In The Jailhouse Now,country,5xcJtLxdprEWBR2jRqcQPW,0.66,0.459,4,-6.038,1,0.0342,0.884,0.0,0.117,0.843,79.71,125907,4
+860, Faron Young,If You Ain't Lovin' (You Ain't Livin'),country,7oanidqUgZO3GxXugm2ucC,0.625,0.416,7,-10.282,1,0.0316,0.752,0.0,0.0853,0.833,149.44,142000,4
+861, Jim Reeves,Four Walls,country,3qReTgtrLsZDISxor3lJW0,0.388,0.157,9,-15.955,1,0.0291,0.848,2.41e-05,0.309,0.227,95.965,168640,3
+862, Hank Williams,I Can't Help It (If I'm Still In Love With You) - Single Version,country,4T5kMpam4F1U4TnkrJWiHu,0.671,0.29,4,-6.781,1,0.0368,0.728,0.0,0.318,0.608,115.991,143200,4
+863, Carl Perkins,Blue Suede Shoes,country,6YMYrOPAIKah6RHOkPP0oS,0.531,0.804,2,-3.438,1,0.0383,0.26,0.000877,0.272,0.97,168.761,136960,4
+864, Bobby Helms,My Special Angel,country,6cen3TFIPFBq2VkUM4Fod8,0.478,0.29,1,-8.591,1,0.0243,0.824,0.0,0.114,0.375,79.111,179293,4
+865, Marty Robbins Ray Conniff,A White Sport Coat (with Ray Conniff),country,3Iy8UTb7n8QpYcQK23ZjG9,0.622,0.648,1,-8.825,1,0.0308,0.811,0.000212,0.146,0.808,114.055,148600,4
+866, Eddy Arnold,Cattle Call,country,6Ha2dwEqdLBrDhImosfrBA,0.438,0.243,3,-12.28,1,0.027,0.918,0.000811,0.0916,0.442,78.745,163347,3
+867, Hank Williams,Jambalaya (On The Bayou) - Single Version,country,2ZvAYto4cSRgsUDFyAbDHf,0.507,0.188,7,-15.554,1,0.0348,0.885,7.49e-06,0.0895,0.872,164.279,174933,4
+868, Moon Mullican,I'll Sail My Ship Alone,country,5rEggQfrPHRnZDi8fFeS0L,0.751,0.411,2,-10.854,1,0.0308,0.683,0.0,0.0934,0.967,93.939,132627,4
+869, Red Foley,Salty Dog Rag,country,4MhFLl5381JQIMD5EDJNEe,0.713,0.583,10,-9.211,1,0.0831,0.68,0.0,0.127,0.851,178.991,164762,4
+870, Bill Justis,Raunchy,country,5gsVdCTBKYHzzGcYNg1TXT,0.506,0.742,2,-5.796,1,0.03,0.764,0.767,0.0854,0.731,76.353,144827,4
+871, Hank Williams,Half As Much,country,3yqwVLiW7hHfuXIjlJafbv,0.667,0.33,2,-9.947,1,0.0302,0.895,2.87e-05,0.119,0.464,127.109,162933,4
+872, Waldo's Gift,Ultimate Lunch Buffet,funk,3EsbTFnLCtTVsvO02JH3t5,0.606,0.621,7,-8.27,1,0.0264,0.00125,0.578,0.124,0.238,140.976,220540,4
+873, Quantic,Nineteen Hundred and Eighty Five,funk,65KrPjUkVnvUUfQaDGn6n7,0.658,0.707,8,-9.095,1,0.0262,0.00281,0.785,0.23,0.379,117.927,340721,4
+874, Jneiro Jarel,TROP-PICS,funk,63gPa8PIxRRnpIudOlS2Sn,0.59,0.937,10,-8.619,0,0.0423,5.2e-05,0.861,0.111,0.168,117.0,236396,4
+875, The Mighty Mocambos,Theme From Beverly Hills Cop (Axel F) - Live at Jam PDM,funk,6L2p6X0gxm7VOpnnmbNFGf,0.704,0.864,10,-6.192,1,0.0418,0.159,0.84,0.341,0.899,116.916,217174,4
+876, Keleketla! Coldcut Tony Allen Nono Nkoane Thabang Tabane Gally Ngoveni Sibusile Xaba Afla Sackey Antibalas Esa,Shepherd Song - Esa & His Afro-Synth Band Version,funk,0yM0uVP2UFGgA7SWVkgSnp,0.736,0.609,9,-9.167,0,0.0632,0.0049,0.117,0.233,0.879,121.012,317355,4
+877, Futuro Pelo Neysa May David Walters,Nefertiti - David Walters Remix,funk,1m0OvusfKEUnCp5yeu2n5w,0.802,0.673,0,-9.135,0,0.0401,0.0048,0.501,0.858,0.615,120.008,208000,4
+878, The Brooks,Gameplay,funk,7lJRxI4WSsogw5KMsSpHlz,0.692,0.846,11,-7.191,0,0.0616,0.051,0.025,0.17,0.808,116.326,366947,4
+879, Arp Frique Mariseya,Voyage,funk,2Ny9IkHyAJzSaJBEYweXyp,0.665,0.789,0,-9.646,1,0.0624,0.000822,0.472,0.183,0.797,129.974,332838,4
+880, The Mighty Mocambos,Arabesque Breakin' Suite - Live at Jam PDM,funk,1DZrA46ffYRT7tplL5kk99,0.645,0.861,0,-6.175,1,0.043,0.0556,0.856,0.711,0.748,116.858,184396,4
+881, The Diabolical Liberties Emma-Jean Thackray,High Protection,funk,0NX0eQcqinEf3gO8AF4NEw,0.717,0.782,3,-9.217,1,0.164,0.385,0.0382,0.18,0.77,115.935,259369,4
+882, The Budos Band,The Wrangler,funk,0WEMvMJZUrCUJJtu7rOPjB,0.54,0.593,9,-6.402,0,0.0271,0.00531,0.883,0.108,0.297,101.049,179547,4
+883, Marcy Luarks,Electric Murder,funk,7s1fPGMJyuILO8NVwiRO59,0.805,0.466,4,-13.018,0,0.098,0.0194,0.869,0.0796,0.954,129.728,224625,4
+884, Pat Kalla Le Super Mojo Bosq,Canette - Bosq remix,funk,1lon4oPNClhPdQfPUui0SM,0.852,0.699,10,-9.888,0,0.0717,0.104,0.0129,0.0767,0.941,123.018,373515,4
+885, Crazy P,Heartbreaker,funk,4vcPegtrtRJPUXrnfxqvg9,0.896,0.765,3,-7.335,0,0.0419,0.153,0.635,0.114,0.657,120.003,326809,4
+886, Sunlightsquare Hanlei,Hanging Tough,funk,03GrfABjDm6WiSaJZ9jVAV,0.702,0.665,4,-13.23,0,0.0468,0.027,0.906,0.118,0.891,120.998,232188,4
+887, The Budos Band,Gun Metal Grey,funk,2xBMnos2JHuKgRGr0cSgK5,0.528,0.773,4,-6.119,0,0.0344,0.000505,0.881,0.134,0.398,97.682,196747,4
+888, Robson Jorge Lincoln Olivetti,Ginga,funk,2KDF5lrsQNBN0a89SwkwDg,0.675,0.732,0,-7.972,1,0.0571,0.365,0.404,0.0427,0.83,108.647,177440,4
+889, Bandé-Gamboa,Pé Di Bissilon,funk,7FukgJWJ5qBI1vbXWKWPya,0.778,0.688,0,-10.806,0,0.0344,0.485,0.00252,0.114,0.844,102.997,261773,4
+890, Gabriele Poso,Africa Linda,funk,5J2rzPqJzIf44qifBdNoY3,0.707,0.636,9,-14.512,0,0.0492,0.165,0.00479,0.0758,0.971,123.073,208540,4
+891, Mendes & Mendes,Mitamiyo,funk,2q9SWGXBh3VE7ZmERLEbYS,0.578,0.842,9,-5.704,1,0.0313,0.342,7.86e-06,0.207,0.856,94.666,329440,4
+892, Don Laka,I Wanna Be Myself,funk,6QUtCO7EeYQCfwtR8YBGax,0.744,0.722,11,-12.119,0,0.0396,0.118,0.0244,0.0439,0.966,115.72,349436,4
+893, William & The Young Five JKriv,You Turn Me On - JKriv Rework,funk,6dzdB6mdAn8UKFW0XfiV4a,0.787,0.676,5,-9.21,1,0.0455,0.0638,0.547,0.0579,0.917,116.592,388418,4
+894, Jeannette Ndiaye Mendel,Makom Ma Bobe - Mendel Edit,funk,5jiescjwt2xzW2PgWmE8YI,0.615,0.827,4,-8.823,0,0.258,0.0937,0.0,0.234,0.796,131.471,344214,4
+895, Cantoma Noche Española,Kasoto - Noche Española Remix,funk,3zoWsC5mGgYua60WGWM5fK,0.788,0.676,4,-7.378,0,0.0954,0.0255,0.697,0.0919,0.928,114.988,342000,4
+896, The Souljazz Orchestra,Sky High,funk,3RaajzNOCvM1AHrroBgwOe,0.911,0.732,8,-5.995,1,0.0407,0.036,0.283,0.0634,0.908,119.999,261840,4
+897, Cotonete Dimitri From Paris,Parribean Disco,funk,1XvGVelBZIfnXpaqzvrrlR,0.693,0.88,5,-7.627,0,0.0487,0.000149,0.643,0.0353,0.732,124.984,483320,4
+898, Aiff,The Seduction,funk,5z0LxrEQrzdtlU7wHFscRR,0.842,0.834,5,-7.015,1,0.0399,0.116,0.00524,0.101,0.825,123.994,244613,4
+899, Uppers Chapter 2 Kill Emil,Samarin Bolga,funk,6P2HSEAhpvApOQ7PTGDcj0,0.799,0.868,7,-7.629,1,0.178,0.299,0.132,0.0664,0.729,97.016,248660,4
+900, Yta Jourias,Adome Nyueto,funk,4JxUuQvXNpSWOZloyLpqVU,0.726,0.687,7,-8.633,1,0.0412,0.0154,0.169,0.196,0.887,125.389,326979,4
+901, David Walters,Kryé Mwen,funk,5lvKr1Tlivc0synzzGHjZ3,0.937,0.574,10,-10.38,1,0.111,0.173,0.00179,0.0855,0.915,113.006,301653,4
+902, Afrik Bawantu,Noko Hewon,funk,0lNND4ICbiZEXahwxtl8OX,0.786,0.856,7,-9.42,1,0.0388,0.148,0.119,0.0441,0.845,117.034,394783,4
+903, KOKOROKO,Carry Me Home,funk,3impbLGFvLfRkGrpJpBBX1,0.409,0.747,10,-10.843,0,0.0638,0.172,0.609,0.407,0.803,129.984,327560,4
+904, Ruby Rushton,Sun Khosi,funk,5jY2fC4kHyTwFfThR7CFTh,0.523,0.51,2,-10.511,1,0.0673,0.601,0.791,0.0771,0.403,108.886,236886,3
+905, John Beltran,Entardecer,funk,2E3J6m0Q4uyKC2eMVonWfC,0.85,0.696,10,-7.92,0,0.0628,0.0436,0.68,0.0802,0.504,99.999,326987,4
+906, The Budos Band,Long in the Tooth,funk,7ETH5mL8eLwdrx0cwQiLk9,0.518,0.62,0,-7.803,1,0.0259,0.00022,0.881,0.372,0.643,98.747,221760,4
+907, David Walters Seun Kuti Guts,Bwè Dlo - Guts Extended Version,funk,5RIwO0UtiFU7KFuoSR90jy,0.815,0.736,8,-5.713,1,0.101,0.055,0.00101,0.073,0.85,125.0,353991,4
+908, Khruangbin,Pelota,funk,39p88iz6Hzx5KN00QbLIdv,0.684,0.648,9,-11.78,0,0.0541,0.0525,0.403,0.0841,0.96,103.849,167973,4
+909, Liquid Saloon,Polaroid Banana,funk,7px3JpqWmEluCvhkhnfBLL,0.809,0.764,1,-7.793,1,0.0658,0.275,0.879,0.0551,0.842,112.978,355094,4
+910, Laurent Bardainne Tigre d'Eau Douce,Porsche 944,funk,6JSkc4vPxHuTqgSuJ2vMu9,0.671,0.592,3,-5.884,0,0.0289,0.0763,0.473,0.139,0.686,96.997,235795,4
+911, The Pendletons Gizelle Smith,Keep It Working,funk,1rMvXu3DoJ1fV0Ee6eeWzA,0.688,0.824,8,-6.749,1,0.0529,0.0669,0.00134,0.0372,0.962,117.598,193666,4
+912, The Allergies Andy Cooper Marietta Smith,Say the Word,funk,3ki2cRGh2tviyJHM2Ygdq5,0.846,0.727,1,-6.928,1,0.0843,0.0112,0.00357,0.107,0.646,117.98,207533,4
+913, Kutiman,Tanzania,funk,48YCl5g4SbY9XHODuOi306,0.504,0.764,9,-6.346,0,0.0571,0.116,0.000144,0.44,0.612,132.805,328286,3
+914, Blundetto Leonardo Marques,Menina Mulher da Pele Preta,funk,7AY5KbUVj1Osxwl54sWhp9,0.771,0.638,1,-10.7,0,0.041,0.307,0.00202,0.0903,0.964,140.02,166165,4
+915, Pete Josef Marie Lister,Giants,funk,4SJUjn3TBetSRCbc7dvUNU,0.69,0.725,11,-5.844,0,0.0816,0.253,0.0421,0.0942,0.515,94.947,355408,4
+916, Superfónicos,El Adios,funk,4RCt8Qnf2h4RR72fiaS6Aj,0.643,0.912,7,-5.781,0,0.0363,0.386,1.12e-06,0.345,0.833,96.986,342517,4
+917, Bosq Kuyen,Found Your Love,funk,6TVfkxSos194SFzV6oCeGX,0.823,0.74,5,-8.404,1,0.0498,0.0637,0.788,0.0529,0.872,113.974,349257,4
+918, Bandé-Gamboa,Festa na Praia,funk,0Is39OnMsWNLRoWomgVbne,0.746,0.747,11,-9.684,1,0.0641,0.396,9.11e-05,0.115,0.885,150.006,251467,4
+919, Mulatu Astatke Black Jesus Experience,Mascaram Setaba,funk,2uP47sLTnVk6qkUVbiiFVr,0.619,0.718,7,-9.338,1,0.0381,0.511,0.258,0.112,0.858,135.981,353227,4
+920, Keleketla! Coldcut Tony Allen Nono Nkoane Thabang Tabane Gally Ngoveni Sibusile Xaba Tamar Osborn Tenderlonious Dele Sosimi Afla Sackey Antibalas,International Love Affair - Edit,funk,3piU2dhk87u73PEAE8O4FR,0.653,0.872,4,-7.202,0,0.0386,0.0041,0.32,0.341,0.611,124.994,220000,4
+921, Djavan Marizinha,Nereci,funk,6Iob8qYmUUTenQRi4u3tfs,0.666,0.583,4,-12.784,0,0.0836,0.255,0.0,0.251,0.766,100.058,199800,4
+922, Sunlightsquare,I Believe In Miracles - Broken Party Animal Mix,funk,7GHHZJ0tQu4SVSzvAKus6R,0.769,0.867,0,-6.016,0,0.0413,0.0265,0.419,0.0244,0.96,113.005,289850,4
+923, Surv,Je k'abere,funk,0mNYzvTXVvwWlmywEqnzHv,0.749,0.529,11,-12.632,1,0.0595,0.013,0.866,0.118,0.808,126.704,261167,4
+924, Mulatu Astatke Black Jesus Experience,Kulun Mankwaleshi,funk,1IcJMglWLxYd9JGAJ9Kqvf,0.593,0.477,7,-10.127,1,0.0651,0.252,0.103,0.0987,0.787,171.049,467018,3
+925, The Brooks,Turn up the Sound,funk,3xDvyv5KF5Jvnycgutrgb9,0.696,0.91,2,-5.221,1,0.171,0.119,0.00835,0.213,0.607,114.562,229133,4
+929, Skinshape Idd Aziz,Afande,funk,43m8rKCOHn5WIFnPLorqdI,0.758,0.843,5,-6.76,0,0.129,0.519,0.0293,0.353,0.932,169.876,323163,4
+930, Dalton,Alech,funk,4CfK1j6F7DNzuRSBftCXbJ,0.659,0.987,4,-8.097,0,0.0894,0.368,0.0,0.542,0.591,144.092,216000,4
+931, Rob,Boogie On,funk,0klYKuwFOaoR3RJclvlhxI,0.797,0.924,1,-6.694,1,0.0414,0.368,0.711,0.082,0.909,122.371,255347,4
+932, Nautilus,Ain't No Sunshine - Cover,funk,5s4jbY8pUhdkLc4ATqmtTi,0.527,0.604,7,-10.431,1,0.0492,0.0282,0.897,0.133,0.435,174.942,322842,4
+933, Blundetto Hindi Zahra,Fly High,funk,1A0GQQTh59wxrM5OT4Dw0o,0.613,0.478,2,-7.886,0,0.176,0.487,0.00475,0.103,0.487,106.042,190280,4
+934, Kutiman,Copasavana,funk,380ZEo3ZkUvaiLvfRMg7AQ,0.411,0.636,6,-7.851,0,0.0416,0.00241,9.51e-05,0.115,0.653,132.865,213750,3
+935, Cho and Random Impetus,Brother Sister,funk,7ozfiY4fCBjK9rXBSVScbU,0.589,0.816,9,-5.363,0,0.193,0.026,2.46e-05,0.385,0.833,122.999,197328,4
+936, Crazy P,One True Light,funk,3uDrmBpnK8eQNHiv7QOqgJ,0.848,0.673,11,-10.177,0,0.0604,0.0197,0.683,0.0395,0.448,119.989,368150,4
+937, Ze Spirits Band Esa Williams,Tucheza - Esa Extended Mix,funk,3NFRY3bt1rsgyVmM15fJve,0.649,0.823,9,-5.552,0,0.058,0.0468,0.0235,0.0714,0.806,120.957,297521,4
+938, Flamingo Pier,Tripping Up,funk,6yTgIPx8OsFOQnwr1Baj9o,0.831,0.629,11,-6.962,0,0.0407,0.0179,0.704,0.0784,0.918,117.995,287387,4
+939, Lettuce,Silence is Golden,funk,72pAdCNhYcGaKndmsJBbyz,0.741,0.652,9,-8.279,0,0.0431,0.0111,0.947,0.0671,0.758,97.023,343841,4
+940, Smoove & Turrell,It Ain't Working,funk,00xkYD4SN84YJjtDdF0ygl,0.768,0.711,1,-8.923,1,0.0574,0.0195,0.582,0.0811,0.758,120.005,337000,4
+941, Les Frères Smith Seun Kuti,No Waiting,funk,5WGuFj5MiI5HfjXNXUuJsK,0.811,0.744,0,-7.73,1,0.0562,0.525,0.00277,0.0463,0.843,123.039,326160,4
+942, Djosa,Amazone,funk,3b41lO2hVuWUPuXUU48JxS,0.68,0.528,1,-10.431,1,0.0559,0.0231,0.785,0.0414,0.831,120.03,239807,4
+943, Jeannette Ndiaye,Makom Ma Bobe,funk,6f4DXvuDxaFn0cjkKJzrsr,0.609,0.892,11,-8.547,0,0.257,0.13,0.0,0.363,0.717,132.237,267952,4
+944, Kutiman,"Layla, Pt. 1",funk,1fJWdk2kxrtkdlPFyVRqIc,0.413,0.671,5,-11.48,0,0.0321,0.00444,0.821,0.259,0.79,171.668,194947,3
+945, Lettuce,House of Lett,funk,0t43FxUgWcEMRqKAykWn0k,0.78,0.79,5,-7.79,0,0.0567,0.00227,0.687,0.0648,0.812,121.023,345706,4
+946, Blue Lab Beats Moses Boyd Nérija,Pineapple,funk,0lwkL0G07NYtLrQCugi8lX,0.849,0.529,7,-10.038,1,0.141,0.392,0.191,0.105,0.538,99.983,196587,4
+947, Tunnelvisions,Gobi,funk,5wxnKA9URyQmtdlnEIHj5z,0.689,0.59,7,-11.104,1,0.0516,0.0926,0.886,0.0699,0.323,108.997,357500,4
+948, Yuksek Bertrand Burgalat,Icare,funk,67OcVGdHgzLykVUbaXwVYv,0.88,0.809,10,-5.247,0,0.0369,0.00606,0.386,0.485,0.94,114.053,222632,4
+949, Fédia Laguerre Voilaaa,Divizion - Voilaaa Remix,funk,7lqokOhEThOZilo2YRDAxs,0.828,0.789,8,-9.198,1,0.0743,0.55,0.0674,0.123,0.905,123.439,321009,4
+950, HOWES3,Too Many Kicks,funk,3G1xg3Ak9AAoLtf19hd5SZ,0.436,0.454,10,-9.332,0,0.0615,0.201,0.874,0.0833,0.476,82.892,325839,4
+951, Mr. Käfer,Dawn at the Souk,funk,05KyHSK22P4sLoszUk34dD,0.759,0.396,8,-14.809,1,0.0394,0.0959,0.935,0.0903,0.121,109.967,306640,4
+952, Koji Ono,Inner Rhythms,funk,3uk9T5jf8jG2S9iXX6veyX,0.744,0.865,2,-9.791,1,0.0389,0.0537,0.934,0.11,0.646,117.997,408546,4
+953, Ian Pooley,Venasque,funk,20XyCtN4HMiL1BsvXyengf,0.756,0.761,10,-9.043,0,0.0961,0.0292,0.686,0.881,0.962,96.692,274080,4
+954, Voilaaa Pat Kalla,Enlevez-moi ça,funk,49AjaOxHXX3AOAGnyTbC1x,0.88,0.702,6,-11.212,1,0.118,0.0575,0.0126,0.0501,0.908,114.987,314863,4
+955, Poolside Fatnotronic,Esperar Pra Ver,funk,7baNYnxas4NlQXcoj6kSmp,0.783,0.7,6,-7.862,0,0.0367,0.0329,0.249,0.0888,0.846,99.991,300000,4
+956, The Bongo Hop Laurene P Magnani,Agua fría,funk,7CSebbAAlgMqngWpEkhBl5,0.805,0.808,7,-7.367,0,0.134,0.0846,1.3e-06,0.358,0.903,104.999,294500,4
+957, Erick Cosaque,Coq a counula,funk,0Q1bHQqoS5vVxDUIkgSroI,0.633,0.734,3,-11.218,0,0.0604,0.113,0.0551,0.152,0.961,120.662,229736,4
+958, Edmony Krater,Météw Byen,funk,7Ei31Z09xAuNQHOw7Vlk4w,0.823,0.656,1,-11.05,1,0.107,0.468,0.00224,0.109,0.65,103.017,246667,4
+959, Pat Kalla & Le Super Mojo,Requiem,funk,1PPJiazinbp1EFvRFBW2su,0.804,0.73,11,-9.26,1,0.0422,0.191,0.0219,0.398,0.924,128.001,211426,4
+960, The Allergies,Felony,funk,2vz6J5AmYo6Te8qWbUOQRD,0.694,0.705,10,-6.357,0,0.0338,0.0053,0.767,0.299,0.65,122.091,197173,4
+961, RAS,Boogie,funk,1udnVMUpzoMzVdHI5FnhQO,0.745,0.578,11,-13.826,0,0.0517,0.0101,0.385,0.194,0.681,108.197,348293,4
+962, Hailu Mergia,Bayne Lay Yihedal,funk,5ib4uV4lUJyFKXF6vfxmrk,0.629,0.543,0,-10.328,1,0.042,0.0575,0.897,0.0436,0.654,152.244,309543,4
+963, Junglelyd,Coffee,funk,6LqOYg4N0usYg21XdkaJeE,0.613,0.614,7,-9.368,1,0.0372,0.00908,0.407,0.0535,0.561,97.989,215493,4
+964, Vance and Suzzanne,I Can't Get Along Without You,funk,6mHUnQi6NWf1bq2f9GIbH5,0.751,0.752,9,-6.545,0,0.0587,0.411,0.000661,0.1,0.85,111.158,400000,4
+965, Bill Loko,Nen Lambo,funk,6zWn8wLNdQnn80WJWV6TaO,0.595,0.609,1,-12.888,0,0.0451,0.00612,0.0027,0.074,0.725,121.675,383766,4
+966, Karl Hector & The Malcouns,Kingdom of D'mt,funk,15Cv0RFfDJQwAeZKcgQjrf,0.733,0.589,8,-7.117,1,0.043,0.347,0.727,0.109,0.835,121.349,195652,4
+967, Kutiman,Saluf,funk,1ULE8R1kexScRh253uXXpp,0.571,0.972,6,-6.352,0,0.0823,0.102,0.648,0.156,0.888,189.951,303777,4
+968, Dr Rubberfunk John Turrell,Boom!,funk,2gsD0Bf0Bb0UCaSlWenzMD,0.6,0.729,2,-7.561,1,0.0446,0.134,0.0,0.208,0.803,90.084,209653,4
+969, Whitefield Brothers,Safari Strut,funk,1lDELORqnHLLTe1bYmHLq7,0.677,0.862,5,-5.016,1,0.0536,0.416,0.859,0.0967,0.902,109.965,199573,4
+970, Meister Lampe,Dantokpa,funk,2eUMZhKSqfURd3aRZsfsAZ,0.662,0.958,11,-4.581,0,0.0484,0.0746,0.275,0.0792,0.855,174.026,201627,4
+971, David Walters Déni-Shain Mister Francky,Mama - Déni-Shain & Mister Francky Remix,funk,0LoVuHRdOFBhT61crHWyIo,0.791,0.719,0,-9.508,0,0.0425,0.516,0.294,0.179,0.776,125.026,304179,4
+972, Ruby Rushton,Yardley Suite,funk,2u9mRfYp5vzMCCSLxS85X9,0.579,0.529,10,-11.433,0,0.0801,0.0121,0.88,0.0579,0.555,124.681,235804,4
+973, Edmony Krater Olivier Portal,An ba jouk - Olivier Portal Playin' 4 The Beach Remix,funk,75clowU1UTWTs5MG2jtKJB,0.747,0.64,1,-9.73,1,0.0458,0.222,0.265,0.0661,0.947,109.994,372048,4
+974, Pasteur Lappe,Na Real Sekele Fo'Ya,funk,1fReqnUh1Rcatgk8YfZUN7,0.734,0.86,9,-8.062,1,0.0674,0.219,0.514,0.651,0.863,117.14,380218,4
+975, Dumpstaphunk Chali 2na Trombone Shorty,Justice 2020 (feat. Chali 2na & Trombone Shorty),funk,4rcIBssNKyGnS8UIWH9ixO,0.701,0.948,0,-4.823,1,0.139,0.0124,2.23e-05,0.0632,0.544,100.007,293667,4
+976," Bootsy Collins Snoop Dogg Brandon ""TAZ"" Niederauer",Jam On,funk,0qDpUNoPqMV4aTiVepqXOQ,0.585,0.856,1,-5.483,1,0.0573,0.00129,0.0218,0.0724,0.785,105.0,302560,4
+977, The Bamboos,Power Without Greed,funk,1r0nn0QF5tNJDtzoIj2mIB,0.702,0.971,10,-3.071,0,0.0604,0.0035,0.00711,0.354,0.918,100.057,238882,4
+978, Orgone Kelly Finnigan,The Truth,funk,226pEjWaakamKLxnoTSaVF,0.452,0.78,6,-7.261,0,0.289,0.146,0.0,0.464,0.813,176.549,247613,4
+979, Diggin' Dirt,Satisfaction,funk,3Y0WMxJ7Mpb7xe2RTa1LkD,0.735,0.581,9,-6.825,1,0.117,0.0385,0.0,0.0316,0.642,92.537,314326,4
+980, Dumpstaphunk,Where Do We Go From Here,funk,1ax95j7TLkNoP6UeQFlU22,0.58,0.832,0,-5.513,1,0.145,0.0127,0.00246,0.108,0.783,145.937,515231,4
+981, The Du-Rites,Can't Buy Groove,funk,2AHtozTlrSktpu5CiWUpFf,0.796,0.928,9,-7.234,1,0.0438,0.331,0.0112,0.0891,0.872,101.035,174846,4
+982, David Garfield Kenya Hathaway Bill Champlin Zigaboo Modeliste,Rock Steady - Zigaboo Version - Remastered,funk,6W8053NfZcRCSO2EAnDF3b,0.543,0.833,2,-7.084,1,0.14,0.0682,0.000308,0.261,0.627,189.994,274020,4
+983, The New Mastersounds Lamar Williams Jr.,Less Is More,funk,15E1HxTq8M05lJeFACHw7m,0.597,0.606,5,-8.711,1,0.0512,0.798,0.00164,0.433,0.833,120.802,256189,4
+984, Acantha Lang,He Said / She Said,funk,5ANzbV4A2YA6EPP0e8asEi,0.748,0.938,7,-4.646,1,0.0885,0.0432,0.00882,0.157,0.546,110.082,241442,4
+985, Maceo Parker,Yes We Can Can,funk,7GO7XfiDsUysp4MMkdCiXo,0.748,0.634,2,-10.094,1,0.142,0.183,0.000211,0.0433,0.838,169.946,342880,4
+986, The Haggis Horns John McCallum,Don't Give a Damn (feat. John McCallum),funk,48d8lgSahjvXsfPc3dVXCo,0.642,0.764,7,-6.741,0,0.0457,0.1,0.32,0.0731,0.704,104.885,224041,4
+987, Prince,Cosmic Day - 2020 Remaster,funk,5PaBbJtAzd7dl3RMk6ezer,0.594,0.461,1,-11.42,1,0.054,0.0125,0.145,0.0372,0.424,77.88,339280,4
+988, Dojo Cuts Kate McQuaide,You'll Be Sorry,funk,35kDqdxX71QMxGN9TfN8Ze,0.731,0.743,11,-11.783,0,0.0506,0.0696,0.0045,0.0796,0.97,88.049,210483,4
+989, The Gold Magnolias,Gumbo,funk,70UPa0pzNUMKcRcq8JZ0YZ,0.572,0.699,2,-5.581,1,0.13,0.192,0.0,0.152,0.834,187.717,294236,4
+990, Maceo Parker,Cross The Track,funk,0E02hR1cBcwaGhZBKboKts,0.684,0.882,8,-9.353,1,0.118,0.152,0.0225,0.313,0.758,90.149,305760,4
+991, Prince,Witness 4 The Prosecution (Version 1) - 2020 Remaster,funk,22ZZIvttMc2JsRC2hVrXyF,0.494,0.844,9,-9.465,1,0.06,0.00656,0.254,0.663,0.787,191.111,239803,4
+992, The Bamboos,Hard Up,funk,2r5zwMQ5dKB04MqVfc0IeH,0.782,0.922,11,-4.028,0,0.0497,0.00655,0.0118,0.0728,0.761,104.016,255228,4
+993, Brian Culbertson Bootsy Collins,Dance Like This,funk,4KeZ70RzWqbcplRkOfrku9,0.753,0.806,0,-6.916,1,0.0449,0.0166,0.0,0.129,0.67,105.98,281605,4
+994, Tower Of Power,Look in My Eyes,funk,3xq9srnNN0LBvha15ZWpTU,0.745,0.84,0,-6.623,1,0.0692,0.0654,0.104,0.0446,0.9,123.983,224368,4
+995, The Aquaducks,Gotta Keep on Movin',funk,2jnOjKvvOH7BZSAJmwdCr7,0.75,0.747,11,-6.024,1,0.0934,0.445,0.00021,0.0696,0.819,123.913,245560,4
+996, Lee Fields,Let's Get a Groove On,funk,6nNHyyYKi90iRQbLuIdO8O,0.784,0.892,7,-8.951,1,0.235,0.447,0.127,0.391,0.45,114.093,174227,4
+997, The New Mastersounds Lamar Williams Jr.,Shake It - 45,funk,5qenhYD4ynkEEHDDwqBiEG,0.709,0.913,1,-6.941,1,0.0485,0.114,0.436,0.0605,0.916,106.723,176975,4
+998, Brownout,You've Got To Change,funk,5eZlZq3LDJTaHPVb5j3tdC,0.514,0.902,7,-6.536,1,0.111,0.0513,0.000824,0.0744,0.692,96.091,238053,4
+999, The Allergies Andy Cooper Marietta Smith,Rile 'Em Up,funk,4mvVLWbe50QZg4QJhzBztu,0.812,0.893,3,-6.043,0,0.0814,0.0309,0.196,0.0907,0.939,119.995,207071,4
+1000, The Quantic Soul Orchestra Alice Russell,Pushin' On,funk,3nPUw7RAT82QX2Yg1awMuM,0.695,0.937,6,-3.642,0,0.0733,0.00999,0.234,0.136,0.884,104.721,199560,4
+1001, Lee Fields,Let a Man Do What He Wanna Do,funk,21tzl7QqFs2UJwaGQpwtCk,0.845,0.743,9,-7.445,0,0.0931,0.0799,0.00209,0.694,0.956,112.493,170387,4
+1002, The Aquaducks,Wanna Do (Funk With You),funk,7Mg0Lbc0ehV83usNMmZlKi,0.683,0.911,0,-5.987,1,0.0809,0.0649,0.00675,0.0142,0.876,92.071,201707,4
+1003, Lettuce Jungle Boogie Big Tony,Checker Wrecker,funk,2tqfdsBI9N8TrRVFTUDnGZ,0.649,0.874,5,-6.93,1,0.0793,0.0394,0.552,0.0936,0.776,169.905,350972,4
+1004, Uché Bootsy Collins,Whatever (feat. Bootsy Collins),funk,0KlnFmi4G9od9PQ2niFSGO,0.584,0.709,7,-6.39,1,0.1,0.000791,0.0,0.411,0.649,98.735,215783,4
+1005, Tower Of Power,Let's Celebrate Our Love,funk,3ZQZUODe0CoMcgndwZ7cK9,0.657,0.754,5,-6.432,1,0.0279,0.261,6.85e-05,0.0921,0.936,121.948,275911,4
+1006, cleaveland jones,Until I Met You,funk,7uil4nygkuyV7Fnv3ujt7f,0.599,0.677,2,-8.642,1,0.0371,0.161,1.02e-05,0.345,0.743,91.044,200938,4
+1007, Prince,Don't Let Him Fool Ya,funk,6tkrORqB1r56TV43CuejIR,0.918,0.584,1,-8.37,1,0.0735,0.0537,0.00142,0.306,0.83,123.218,274667,4
+1008, Mojoflo,Perpetual Conduit of Positivity,funk,5Zx3OUrH7UjnDPkVGlQpnV,0.637,0.843,5,-4.955,1,0.075,0.0197,0.00192,0.108,0.375,119.015,351833,4
+1009, The Brand New Heavies Honey Larochelle,Heat,funk,1TvQqcEiMkUqWXKwLpEEMy,0.653,0.466,11,-9.789,1,0.0569,0.00362,1.27e-05,0.0806,0.844,120.688,230002,4
+1010, IGBO,Something To Do,funk,6ZFuCHvdJbiuPrc5FTQ4Kz,0.562,0.736,1,-5.367,1,0.14,0.0883,0.0401,0.0874,0.749,202.06,288046,4
+1011, Trulio Disgracias,If You Want Me to Stay,funk,0IFQpkcrFHy8bJOlrjKDEZ,0.323,0.892,1,-6.379,0,0.172,0.00483,4.36e-05,0.282,0.504,199.931,321845,4
+1012, Turkuaz,Mister Man,funk,2eoDZsvrMKU7Hh9qZhkpsD,0.725,0.957,10,-5.931,1,0.0472,0.0126,0.0822,0.102,0.618,119.994,226345,4
+1013, Brooklyn Funk Essentials Alison Limerick Desmond Foster,Watcha Want From Me,funk,1E6CbYhTHxWgRk9ZIH4Gj5,0.787,0.823,5,-6.548,0,0.0662,0.106,2.14e-05,0.224,0.786,119.987,268000,4
+1014, Alan Evans Trio,The Wild Root,funk,1PS0E4x777UMWqm47foX5W,0.668,0.82,2,-6.258,1,0.0351,0.00676,0.0141,0.0447,0.87,132.934,240173,4
+1015, X-Ray Ted,Mirror Ballin',funk,1pRh0b2MQUjxsXJbXDq6up,0.822,0.803,11,-7.491,0,0.0617,0.000559,0.541,0.314,0.921,109.989,292000,4
+1016, Cindy Latin,In a Year From Now,funk,6UcWi3TI0N0ZftbowzRUbC,0.611,0.742,2,-4.18,1,0.24,0.474,0.0,0.179,0.475,91.971,189660,4
+1017, Brother Theodore,.img,funk,5BXZOifc6Z6M2QCYWPFspA,0.724,0.695,11,-5.756,0,0.065,0.00602,0.0735,0.387,0.721,114.998,347237,4
+1018, Free Youth,We Can Move,funk,4UdJg615OBpJu6MepS6Hq8,0.813,0.717,0,-10.042,1,0.233,0.0153,0.00216,0.125,0.903,121.763,389390,4
+1019, The Lionyls,Pocket (Radio Edit),funk,4QtS7BCHG2jO3ka89o2eed,0.582,0.861,1,-6.202,0,0.0642,0.277,0.0,0.0558,0.75,92.047,227348,4
+1020, Jamey Arent Raquel Rodriguez,How Far We've Come,funk,4Bvc8SWQsj3DIhyygQZ9Un,0.639,0.667,8,-3.725,1,0.046,0.0807,9.41e-05,0.0571,0.514,100.851,239720,4
+1021, The New Mastersounds Lamar Williams Jr. Mike Olmos Jason Mingledorff Eddie Roberts Joe Tatton Simon Allen Pete Shand,Kings & Queens,funk,2RAwBuzTF0bFlaOjd1kAQu,0.58,0.816,11,-8.574,0,0.217,0.333,0.00933,0.132,0.765,202.324,178933,4
+1022, Mood FM,On My Own,funk,5n75cdCzSqlfFsk1hZ4ery,0.651,0.721,7,-6.229,0,0.0655,0.0294,0.0117,0.131,0.44,118.039,290261,4
+1023, Bassel & the Supernaturals,Stepping Back in Time,funk,3OnhL2nUDPfIUXToDhbiUo,0.504,0.681,4,-8.776,0,0.113,0.138,0.000374,0.0966,0.632,116.552,256204,4
+1024, Smoke & Rain,Weightless,funk,1gQi5c9jiPG7ZhIpCMTkHv,0.75,0.457,8,-10.245,0,0.0665,0.093,0.118,0.054,0.613,76.005,276469,4
+1025, Jordan John,Make Way for the Funk Parade,funk,3LtAdAaM6njXeGzmCdkXc9,0.837,0.899,7,-4.078,0,0.047,0.589,2.54e-06,0.0886,0.897,110.07,332206,3
+1026, Happy Daggers,Hold It Down,funk,57Gbsto4EnpOEUtklQQSSm,0.8,0.66,9,-8.414,1,0.0588,0.0214,1.29e-05,0.0373,0.774,113.021,184021,4
+1027, Scone Cash Players Jason Joshua,Canned Champagne,funk,4yYR3NQfBqgN9OdX2Z32BX,0.603,0.887,1,-5.343,1,0.0664,0.44,0.496,0.0836,0.803,92.982,246413,4
+1028, The Aquaducks,Got Me Funked Up,funk,6puGnKlOsMcu5SkcEEdHkg,0.748,0.646,10,-7.601,0,0.045,0.0608,0.0221,0.313,0.771,91.972,212027,4
+1029, The Vibe,Howlin',funk,2ON7wWva8R2XA5l5PODZ75,0.742,0.848,4,-6.336,0,0.0404,0.115,0.0,0.328,0.622,109.487,265872,4
+1030, The Apx Mink Slide,Your Touch,funk,7irxgIZPujseydOU1F9DGr,0.748,0.81,1,-5.836,1,0.0633,0.0556,0.0,0.102,0.716,116.921,168411,4
+1031, Cliff Beach The MB's,Confident (feat. The MB's),funk,28YkfGOg7FmjJpokMe9wS6,0.687,0.868,6,-6.798,0,0.0888,0.0627,0.00113,0.0833,0.801,102.121,199893,4
+1032, Diggin' Dirt,Superstar,funk,62cpkcxwJTpfX5PYSiyBEn,0.829,0.861,0,-5.672,1,0.0797,0.134,0.00566,0.0908,0.727,124.201,291160,4
+1033, The Fearless Flyers,Flyers Direct,funk,2nYYsMqbbuybDaDoiFkUWH,0.697,0.818,11,-9.73,0,0.0467,0.0045,0.85,0.16,0.739,132.187,164021,3
+1034, Chelsea Wilson,Word Is Out,funk,3irXL694Levp0Uzrnq5yva,0.827,0.497,1,-12.924,0,0.0766,0.0456,0.000883,0.107,0.737,109.343,274237,4
+1035, Charlie Hunter Lucy Woodward,Soul of a Man,funk,5mfBEBAREEg17GJ6ghJp6Z,0.874,0.445,5,-9.846,0,0.067,0.0496,0.00203,0.118,0.616,110.122,289349,4
+1036, The Ashton Jones Project,Good Thing Guaranteed,funk,1lgsm58CmP87rlry7TEPgo,0.888,0.531,9,-8.178,0,0.317,0.267,0.000334,0.00535,0.856,150.052,215603,4
+1037, Matador! Soul Sounds Eddie Roberts Alan Evans Chris Spies Kevin Scot Kim Dawson Adryon de León,We Got What You Need,funk,3EeKxDfgZh7O1YyjzgwDTc,0.73,0.674,5,-11.049,1,0.0526,0.00442,1.48e-06,0.0885,0.847,107.253,272722,4
+1038, The Soul Motivators,Mindblastin',funk,02GrfxYPwe1E0KBc2BdP0o,0.606,0.957,11,-5.646,0,0.18,0.113,0.0704,0.0418,0.554,99.042,261185,4
+1039, Turkuaz,Superstatic,funk,50PHCDLzmVxGqkMXFYOZGN,0.817,0.795,5,-6.108,0,0.0546,0.0449,0.0119,0.0195,0.855,107.971,245413,4
+1040, Chaka Khan,Like Sugar,funk,0lWEatZXBBYUzEQX5aMeSj,0.811,0.792,7,-8.477,1,0.0537,0.0363,0.0517,0.342,0.94,107.255,239621,4
+1041, Karl Denson,I'm Your Biggest Fan,funk,6Q4TofQytmgDayivXKAIiL,0.637,0.884,5,-6.96,1,0.0664,0.0318,3.44e-06,0.0677,0.527,121.926,216800,4
+1042, Tower Of Power,Hangin' with My Baby,funk,3ZoLqDFPHCyq4jeIMHBODq,0.703,0.914,7,-6.455,1,0.0755,0.0439,0.00123,0.161,0.843,108.993,328480,4
+1043, The Spencer Lee Band,The Wolf,funk,27iGHkO0uIiMgHuwLNlPup,0.777,0.908,9,-5.242,1,0.172,0.0904,0.0,0.224,0.674,100.938,174608,4
+1044, Soopasoul,"If It Ain't Funky Back It Up, Pt. 1",funk,4tbKutO3WSFhNyLaUs3F3s,0.814,0.682,5,-6.89,0,0.0559,0.0283,0.000789,0.159,0.914,123.722,153387,4
+1045, Brother Strut,Tequila,funk,3NuoTeIShELS6qTu2I71oS,0.629,0.734,2,-7.952,1,0.0443,0.00906,1.8e-05,0.135,0.631,150.15,234324,4
+1046, Kyle Hollingsworth Kim Dawson Darren Kramer Gabriel Mervine Drew Sayers,Stuff,funk,62jUuzrmyy1QMaPiVsr6mZ,0.728,0.694,1,-6.368,1,0.0404,0.0556,9.29e-05,0.135,0.688,90.044,287213,4
+1047, The Heavy Pets,Shahryar's Rage,funk,0EFnmJtuoxXxByPABDAzA5,0.698,0.906,7,-10.688,0,0.04,0.581,0.812,0.114,0.882,108.0,311437,4
+1048, Orgone Adryon de León,All This Love That I'm Giving,funk,5oottnT8alMG8WbzNoDdn7,0.679,0.947,6,-3.707,1,0.0809,0.67,9.69e-06,0.199,0.864,109.849,274580,4
+1049, The Haggis Horns Lucinda Slim,New York Beat (feat. Lucinda Slim),funk,17YDXy3iaj6De4pcCyxlGB,0.779,0.803,2,-5.907,0,0.0393,0.361,0.000697,0.0371,0.973,112.049,295133,4
+1050, Jurassik Funk,Pick Up On Your Line,funk,6SLHenZf92A605uJP5dURV,0.698,0.687,0,-6.185,1,0.0673,0.115,1.48e-06,0.0858,0.8,114.353,286433,4
+1051, Panthurr,Springtime,funk,2dbQacV2GvNZK51NB49M8s,0.465,0.932,7,-7.036,1,0.44,0.142,0.000351,0.725,0.625,104.876,100571,4
+1052, D/troit,Soul Sound System,funk,0mKQusD6F8gXxjad55pQYe,0.392,0.865,2,-4.766,0,0.104,0.00254,4.25e-05,0.107,0.845,188.354,216152,4
+1053, Lettuce Alecia Chakour,The Love You Left Behind (feat. Alecia Chakour),funk,31pQtFVYEWAIkYPjSzz4nM,0.518,0.877,1,-5.648,1,0.0458,0.000214,0.072,0.297,0.812,92.902,222334,4
+1054, Mr President Sabba MG,Night Time,funk,2zOdVxcYXq7i04m7gnrsr0,0.849,0.781,0,-9.329,0,0.0803,0.0946,0.057,0.0681,0.817,115.009,402852,4
+1055, Pimps of Joytime,Janxta Funk!,funk,38zPYzuphYkAEygg8Y6Fhb,0.771,0.807,7,-6.258,1,0.058,0.0107,0.0135,0.568,0.707,98.003,256960,4
+1056, Incognito Vanessa Haynes,Just Say Nothing (feat. Vanessa Haynes),funk,1XW9m112RR33Xud3BmdHvd,0.775,0.898,2,-7.054,1,0.0949,0.028,0.000269,0.0646,0.776,109.987,281133,4
+1057, Soul Scratch,Pacified,funk,0POKng0AB6Z2PjFYQo2B3U,0.658,0.895,7,-6.84,0,0.0704,0.0669,0.00312,0.361,0.855,123.912,199600,4
+1058, Doctorfunk,Gotta Get Funky,funk,5XgkwPu4UjZ6MHXp2kJgkd,0.55,0.776,0,-4.796,1,0.236,0.0893,0.000182,0.176,0.932,204.745,215587,4
+1059, St. Paul & The Broken Bones,Flow with It (You Got Me Feeling Like),funk,33qbRR8yZt50GKrYVsz9tm,0.61,0.752,10,-5.062,0,0.0389,0.294,0.0755,0.116,0.832,89.995,196867,4
+1060, 6ix Toys Connie Lush,Paint The Toon (feat. Connie Lush),funk,2INsiycUgobLSy4ksO4MzK,0.782,0.967,1,-4.406,1,0.113,0.0255,0.000945,0.0321,0.902,119.322,308213,4
+1061, The Sure Fire Soul Ensemble,A Message from the Meters,funk,0uV4hoKCnJIlveeJZKhgux,0.687,0.958,9,-4.498,1,0.118,0.0561,0.138,0.0886,0.797,158.276,186349,4
+1062, Pop Smoke,Dior,drill,79s5XnCN4TJKTVMSmOx8Ep,0.548,0.805,7,-5.732,1,0.351,0.212,0.000389,0.408,0.648,142.094,216387,4
+1066, Damso Hamza,BXL ZOO,drill,7BO3y8lmogACezwHqZ1HTB,0.745,0.656,11,-6.829,0,0.203,0.0604,0.0,0.11,0.405,137.997,201333,4
+1070, Headie One Drake,Only You Freestyle,drill,4OENnoidV0h8gJV6bhrw7r,0.68,0.826,5,-2.561,1,0.27,0.562,0.0,0.254,0.804,146.95,248937,4
+1074, Dosseh Gazo,Place de l'Etoile,drill,4JIYqa3E8YL9ZAb9qbeJoy,0.71,0.621,2,-7.798,1,0.28,0.0691,0.0,0.0996,0.365,143.091,195972,4
+1078, Pop Smoke Quavo,Aim For The Moon (feat. Quavo),drill,6O7fPYTsb2mY0PiFt2ymDB,0.713,0.605,11,-7.487,1,0.107,0.497,3.46e-06,0.115,0.432,142.025,175756,4
+1082, Koba LaD,Chambre d’hotel,drill,65mYDYaMQRXLfHJEDr2mcW,0.901,0.566,1,-5.346,1,0.137,0.0494,0.0,0.112,0.662,141.088,178200,4
+1086, Lacrim,Picasso,drill,43VuncRAkpxqSSyYPgC6lv,0.823,0.527,4,-8.279,0,0.279,0.0599,0.0,0.118,0.491,139.927,193707,4
+1090, Ninho,Problèmes du matin,drill,7oQK4prJZMQfX6FTuehqU2,0.726,0.835,8,-3.736,1,0.366,0.197,0.0,0.175,0.586,143.918,218373,4
+1094, Dosseh,A45,drill,7iIBUYzMU6J6g6iZJzkmCW,0.612,0.587,8,-9.594,1,0.364,0.075,0.0,0.0452,0.359,143.476,202067,4
+1098, Drake,War,drill,1I55Ea0zVoSKs6MqW7DQ3i,0.749,0.792,10,-4.151,0,0.0826,0.292,0.0,0.109,0.239,144.064,180000,4
+1102, 1PLIKÉ140,BATARD #4,drill,42LZAsKZdtNGN1NENVABXJ,0.823,0.452,2,-10.465,0,0.452,0.532,2.31e-05,0.102,0.699,140.846,177127,4
+1106, Gazo Hamza,Drill FR 5 (feat. Hamza),drill,5xygfcGSdzW69OOSqYi3iD,0.769,0.667,8,-6.247,1,0.242,0.131,2.52e-05,0.114,0.725,141.015,222333,4
+1110, dutchavelli ONEFOUR Kekra Noizy DIVINE,"Bando Diaries (Remix) [feat. ONEFOUR, Kekra, Noizy & DIVINE]",drill,7xVgtzZyidBegrjf6npTjW,0.903,0.578,8,-7.825,0,0.359,0.0523,0.0,0.0706,0.672,140.015,290571,4
+1111, King Von Fivio Foreign,I Am What I Am (feat. Fivio Foreign),drill,7MxWrgJmuEBOtEvqpo5iki,0.8,0.676,1,-5.631,1,0.287,0.0762,0.0,0.119,0.421,141.089,218000,4
+1115, Niska Madrane,Bandit Chef,drill,66xGOabvVDU7PcEwsIqhIC,0.798,0.645,10,-6.844,0,0.284,0.163,0.0,0.247,0.457,147.017,182941,4
+1119, Lacrim Niska,Nipsey Hussle,drill,1NDhFGCNVQkJr7qFK5J4l4,0.805,0.724,2,-6.82,1,0.333,0.0773,0.0,0.0848,0.546,148.011,175160,4
+1123, Hamza,Nobu,drill,2h1X1g6qw0IdhcQKFs1Aen,0.746,0.628,11,-8.763,0,0.11,0.0506,0.000418,0.098,0.463,143.03,189126,4
+1127, Soolking,Booboo,drill,5yFqa6JldRyAPyDQiDPaTk,0.742,0.447,10,-9.475,0,0.246,0.613,0.000277,0.102,0.532,144.941,162354,4
+1131, Digga D,Woi,drill,69F4G9WD5U1vKrpaCiLznl,0.858,0.584,5,-7.48,1,0.379,0.815,0.0,0.224,0.714,140.208,182143,4
+1135, Fivio Foreign,13 Going On 30,drill,7picgLYkMQb9UgIjq84NNF,0.757,0.802,3,-4.463,0,0.281,0.0575,3.13e-05,0.256,0.582,126.901,181473,4
+1136, Lacrim,Jacques Chirac,drill,4b6UABSAlaXm4KZjiQhYtI,0.642,0.751,11,-6.677,0,0.458,0.0869,0.0,0.241,0.429,148.41,176724,4
+1140, Kaaris,NRV,drill,65Uc29xtvhUIk6KUASvQ7Z,0.821,0.625,1,-6.733,1,0.368,0.629,0.0,0.118,0.577,142.081,191126,4
+1144, 1PLIKÉ140,La vie,drill,5ap0B5Y4FnaWmDwdThvjNl,0.822,0.575,11,-5.527,0,0.285,0.478,0.0,0.0708,0.45,149.943,218825,4
+1148, Kekra,Rolex #HLM,drill,681Yrgu7EfkadP2ilSiHDs,0.728,0.829,10,-7.446,1,0.268,0.391,2.11e-06,0.789,0.774,145.02,161485,4
+1149, dutchavelli M1llionz,Cool With Me (feat. M1llionz),drill,0w0BkzzY2JgYohvF9PYnCq,0.615,0.764,0,-5.504,1,0.401,0.158,0.0,0.172,0.784,142.403,170138,4
+1153, Justin Rarri,RILL,drill,13Dv0IaPwjRw3BPxO2vDQ3,0.692,0.586,2,-6.517,1,0.285,0.634,0.0,0.108,0.447,148.063,142703,4
+1157, 98s V9 Jimmy Billy Billions Alchubbino Stally,Taco,drill,40DTvQZrIKi0h8WiDFylUT,0.821,0.613,6,-7.948,0,0.341,0.493,0.0,0.108,0.54,141.042,176596,4
+1161, Stay Flee Get Lizzy Rv Youngs Teflon Blanco,"Handsome G (feat. RV, Youngs Teflon & Blanco)",drill,1jf1UK0N2haRZwj7Bs6fw8,0.615,0.71,1,-4.688,1,0.333,0.0856,0.0,0.173,0.349,141.961,206197,4
+1162, Gazo,Inceste,drill,1uQvuN1O3fwhb3iTFr4W5T,0.615,0.719,1,-5.17,1,0.289,0.0599,0.0336,0.103,0.53,139.947,227520,4
+1163, Liim’s,Pintero #5,drill,1RgYZFalzmoG7Es9oZWudT,0.506,0.804,6,-7.874,0,0.306,0.144,0.0,0.217,0.359,145.072,154701,4
+1164, Jnr Slice,Kush Drill,drill,6bwmrQ3gVBpKR9w43seaZv,0.809,0.494,4,-8.232,0,0.342,0.824,0.0744,0.199,0.278,140.154,132405,4
+1168, Carlito Lagangzz Wilzy,Coté Sombre 2,drill,3wnybrwOMCYOAGbDUoEJbv,0.877,0.452,3,-13.052,1,0.48,0.52,0.0,0.115,0.571,143.039,201535,4
+1169, Smoove'L,Turn Left Turn Right,drill,4fgudyASCAjUf3jaY4Esmk,0.746,0.689,1,-6.447,0,0.365,0.0163,0.0,0.126,0.734,145.987,136533,4
+1173, Deeloc Golden Boy Muj,Pause,drill,0itYOyqWxDayfXeNpMljTy,0.634,0.508,5,-10.783,0,0.441,0.0148,0.0,0.3,0.405,142.946,161119,4
+1174, Keemo Bankz Fivio Foreign,Demon Call,drill,6LcYtPjGcYQkmgRZBhwucU,0.81,0.429,9,-11.248,0,0.331,0.272,1.81e-05,0.357,0.292,139.99,179801,4
+1175, Kaaris,Freestyle 2.7.0,drill,0nbmHkmOfZPjOlJ4MKyeuu,0.762,0.772,2,-5.47,1,0.443,0.138,0.0,0.158,0.54,130.51,155331,4
+1179, RK,B.O.S.S,drill,4avhnbQ1mjzoUepZeJy6WZ,0.866,0.666,2,-5.684,1,0.415,0.306,0.0,0.247,0.686,140.094,111520,4
+1183, Lil Tjay Sheff G Sleepy Hallow,Wet Em Up Pt. 2,drill,0w1x05XBSRIuVmKd3D0IPd,0.701,0.645,8,-3.084,0,0.164,0.0274,0.000174,0.327,0.576,107.955,191904,3
+1184, Pop Smoke Swae Lee,Creature (feat. Swae Lee),drill,3eV2WT9YhfzkxbufnBF8wK,0.794,0.717,7,-5.73,1,0.251,0.0511,0.0,0.195,0.372,141.881,202816,4
+1188, Rich The Kid,Easy,drill,70R0yPk169PNp8MPYve4jn,0.807,0.544,0,-6.411,1,0.33,0.167,0.0,0.219,0.455,144.955,105920,4
+1189, ZeGuerre Sofiane,Zé,drill,4UC1LkUlDBzML3EmAGvCRR,0.75,0.851,10,-6.546,0,0.267,0.298,1.82e-05,0.119,0.447,142.164,136155,4
+1193, Key Largo,Brésil,drill,7tjXCqGKjCO7npqYAoiLRd,0.798,0.694,8,-6.215,1,0.338,0.286,0.0,0.0987,0.593,142.765,201973,4
+1197, Pop Smoke Quavo,Shake The Room (feat. Quavo),drill,7rSnKi58HPIVC0FVyh04Q1,0.733,0.684,2,-4.748,1,0.177,0.142,0.0,0.179,0.437,142.04,165640,4
+1201, Fivio Foreign Rich The Kid,Richer Than Ever,drill,2BWXfyYzeLcK0pbvPp9Itw,0.715,0.537,9,-9.414,1,0.279,0.00235,0.0,0.358,0.287,142.952,185443,4
+1202, Alonzo,OOP,drill,43gs3VtBNa8iel2LashZqg,0.837,0.501,1,-8.246,0,0.119,0.197,0.0,0.102,0.44,140.002,157714,4
+1206, Pop Smoke A Boogie Wit da Hoodie,Foreigner (feat. A Boogie Wit da Hoodie),drill,7iBKCNKl5UjxfOgyxnQ6q6,0.484,0.553,10,-7.914,0,0.353,0.471,0.0,0.276,0.598,103.772,161120,3
+1210, Cheu-B,MOËT & MARION,drill,5JtemLu0peCFwpVi7qFY1G,0.787,0.688,1,-7.966,1,0.384,0.446,0.0,0.0711,0.552,144.079,165883,4
+1211, Emodrill Retro X,5ième Symphonie,drill,3C0XFpPEQzRDyyln69jrni,0.556,0.746,8,-5.547,1,0.319,0.0876,0.0,0.0867,0.588,97.799,193252,5
+1212, Leto,Drill Papers,drill,03tc8CfxVQkeU49LV4tRxi,0.908,0.582,1,-6.997,1,0.276,0.021,4.81e-06,0.0942,0.465,146.98,159933,4
+1213, Captaine Roshi,Grand bateau,drill,6cxoVST3SBnLxRAV0JrhDM,0.635,0.593,9,-4.205,1,0.342,0.515,0.0,0.203,0.327,135.044,143973,4
+1214, Smoove'L,2020,drill,2ri6f2r2nPGPjyd4pfSefK,0.792,0.641,6,-5.463,1,0.41,0.0438,0.0,0.0513,0.713,143.979,141642,4
+1218, CHAPPO Q2T,Figure 8,drill,6rZ5N81lPxYDQVs3y5UPqe,0.932,0.506,11,-11.514,0,0.285,0.133,0.0,0.0618,0.635,140.038,157714,4
+1219, Poundz,Opp Thot,drill,4VRE2Ler8le7DUymvKepY1,0.895,0.778,1,-6.4,0,0.184,0.351,7.67e-05,0.0934,0.739,141.984,196154,4
+1220, 1PLIKÉ140,Mauvais tieks,drill,4IY86ojbNUQFDRjUysURpp,0.625,0.496,4,-8.634,0,0.456,0.559,0.0,0.106,0.499,132.287,179815,3
+1224, Captaine Roshi,Fadeaway,drill,2OSrpS1TpdIo4QIdlHt4de,0.79,0.615,8,-6.455,1,0.34,0.254,0.0,0.0927,0.353,141.935,126120,4
+1225, Kalash Criminel,Pronostic,drill,7nrcCWHUVLM307ZJBWE2Y8,0.853,0.855,11,-5.718,0,0.331,0.148,3.14e-05,0.106,0.692,141.0,204341,4
+1226, Pop Smoke,Meet the Woo,drill,4kdKKsPHWsyNrvFsZrcg52,0.816,0.526,1,-8.241,1,0.29,0.022,7.05e-05,0.0881,0.383,142.987,121080,4
+1230, Norsacce Berlusconi,Bibi la mèche,drill,2Gjlbh4j2pXXdELBa2L76l,0.71,0.662,7,-5.147,1,0.279,0.00479,0.0,0.133,0.525,149.026,169763,4
+1231, Tory Lanez Fivio Foreign,K Lo K (feat. Fivio Foreign),drill,3TlrDcdC7ydI8mto84R1GW,0.745,0.695,7,-5.797,0,0.202,0.0904,0.0,0.385,0.656,139.89,185420,4
+1235, Huntrill,Fuck La Drill,drill,0ZDRlvv0wWB42r4NZFTYLT,0.857,0.522,1,-10.119,1,0.355,0.173,0.000165,0.226,0.485,145.034,189552,4
+1236, Clue,Moves,drill,0CcnN2EO1qu5K6kAlSs4hj,0.706,0.659,0,-5.935,1,0.203,0.33,0.000527,0.144,0.503,146.129,172603,4
+1240, 22Gz,No Questions,drill,4RHHhJbneFWfJxkGQOO9Ud,0.612,0.781,9,-3.424,1,0.333,0.518,0.0,0.108,0.486,144.979,185182,4
+1241, Lyonzon,Confinato,drill,0jSahKfUFwzzAZxqvSnYxT,0.927,0.424,1,-8.863,1,0.453,0.153,0.000185,0.107,0.366,138.004,154507,4
+1242, Smoke Boys 67 Money Every,Section 6ixty,drill,1CB2bxK47FgIT88srD5X0G,0.747,0.687,11,-7.274,0,0.319,0.179,0.0,0.211,0.468,139.982,162000,3
+1246, Ron Suno,PINOCCHIO,drill,5GO45r4u84nc3QvdoVw4YP,0.87,0.854,8,-4.819,1,0.475,0.0451,0.0,0.29,0.76,140.12,124982,4
+1247, 22Gz,"Suburban, Pt. 2",drill,7rWLqeQJabrK7FbY8X0TyI,0.83,0.574,11,-6.892,1,0.701,0.281,0.0,0.124,0.538,143.892,190746,4
+1248, Ninho,En chien,drill,4vWalWi55l3pa9zh4X7NBx,0.704,0.653,8,-6.642,0,0.0679,0.287,0.0,0.282,0.66,141.978,180427,4
+1249, Lil Tjay Jay Critch,City on My Back,drill,0Junu3e7oARNdpIsOV5LNu,0.474,0.546,5,-7.201,0,0.268,0.0924,1.45e-06,0.153,0.244,140.707,204259,4
+1250, Dinos,Dur à aimer,drill,4D2V8Q5WinqfQUaBLTeTwj,0.801,0.514,10,-9.675,1,0.417,0.231,4.7e-05,0.112,0.231,147.911,181622,3
+1254, Zola,Bro Bro,drill,4mtY2gjqFFWTMnzaQPvERm,0.959,0.593,9,-7.552,1,0.303,0.208,3.41e-06,0.13,0.456,121.029,144347,4
+1255, Fivio Foreign Mr Swipey,2 Cars (feat. Mr Swipey),drill,179AFgIRoVmTkppOFqtxyg,0.83,0.634,11,-5.799,0,0.0899,0.0928,0.0,0.178,0.387,141.951,166267,4
+1256, Lil Tjay Fivio Foreign Pop Smoke,Zoo York (feat. Fivio Foreign & Pop Smoke),drill,3Ddny34bFoYBb8dIGq5lwp,0.565,0.569,6,-6.084,0,0.379,0.0352,8.81e-06,0.106,0.303,92.466,214825,5
+1257, Chief Keef Lil Reese,I Don't Like,drill,1h6kgem1ai8vUgO1rZOwfB,0.742,0.844,2,-4.622,1,0.0479,0.000634,0.0,0.0659,0.416,131.986,293840,4
+1261, Norsacce Berlusconi,Silex freestyle,drill,3RSDO39LTIJhyhbub9IpNh,0.453,0.593,7,-8.175,1,0.101,0.262,0.0,0.0991,0.078,99.369,133726,3
+1262, ASHE 22,Bracelet,drill,07JNxbsoza72c9xcEuhm3u,0.779,0.343,2,-13.075,1,0.22,0.232,0.000679,0.104,0.169,139.973,165806,4
+1263, Cheu-B,ENCORE UNE MALETTE,drill,4VIR8FKfPcoo2yCsdYbhP3,0.921,0.583,10,-7.742,0,0.362,0.176,7.39e-06,0.0731,0.447,140.033,169784,4
+1267, 1PLIKÉ140,1PLIKTOI BIEN,drill,7m1wsat0RhxlxviJhQ3sfJ,0.878,0.67,5,-7.886,0,0.25,0.601,0.0,0.096,0.607,145.033,140434,4
+1271, Pop Smoke Fivio Foreign,Sweetheart (feat. Fivio Foreign),drill,1zCB57Q2Hp5PPWLTpgW3w2,0.741,0.764,4,-3.969,0,0.28,0.124,0.0,0.107,0.587,141.003,156373,4
+1272, Bizzy Banks,Don't Start,drill,0VzfpwlCGWAnkpqLERPvpB,0.688,0.83,8,-3.088,1,0.486,0.736,0.0,0.0951,0.112,72.288,172085,4
+1273, 22Gz,Sniper Gang Freestyle,drill,12hfZNWtZInct3l8nT3c9O,0.834,0.668,1,-5.733,0,0.326,0.0792,0.0,0.0965,0.372,130.849,102821,4
+1274, Negrito,La purge IV,drill,6bpPkLL7PcCpGeN8Hi49hc,0.738,0.386,2,-13.141,1,0.467,0.0933,0.0,0.0702,0.248,147.192,198346,4
+1275, ENVY CAINE Coach Da Ghost,Woo K,drill,1oGqiocoQolUvIU4WmbGbH,0.67,0.629,2,-8.16,1,0.325,0.139,0.0,0.0852,0.471,154.598,159373,4
+1276, Nick Blixky 22Gz Nas Blixky,Drive the Boat,drill,48iweZVWP1Qpdj7zFB00gS,0.804,0.588,8,-5.692,0,0.224,0.126,5.61e-06,0.105,0.278,141.867,294381,4
+1277, Rah Swish,Treeshin',drill,213tziHyYbGocC8TU4rDBr,0.885,0.479,6,-10.105,1,0.411,0.325,7.71e-06,0.1,0.61,146.985,195997,4
+1278, M24 Tion Wayne,London (feat. Tion Wayne),drill,0jgO2f0lAPSs36KBAHx9Dl,0.851,0.605,5,-6.86,0,0.521,0.122,0.0,0.415,0.562,142.892,161119,4
+1279, Sleepy Hallow Fousheé,Deep End Freestyle,drill,4zTPYAf5scZdp0LnwPPeWK,0.876,0.479,4,-6.687,0,0.44,0.703,0.0,0.102,0.776,133.858,115200,4
+1280, Bravs Largu,Smoke Net Pop,drill,0PqXG0UEfkJisqqW10ENp0,0.684,0.715,5,-11.023,1,0.156,0.0381,0.00119,0.322,0.718,145.089,220138,4
+1281, Smoove'L,Apollo,drill,0VPmIETYsw3JBnyh4iDjVv,0.622,0.494,2,-8.518,1,0.457,0.0298,0.0,0.149,0.166,142.866,208968,4
+1285, Freeze corleone,Fentanyl,drill,0fgTlupLG2Cmx0hburHioQ,0.698,0.37,1,-16.029,1,0.459,0.606,0.0,0.117,0.42,158.495,224810,4
+1286, ENVY CAINE Coach Da Ghost,"Woo K, Pt. 2",drill,1vjO9MmB3MutuUdl8OlAIU,0.615,0.633,1,-9.096,1,0.345,0.108,0.0,0.236,0.709,142.387,128880,4
+1287, Ty Flex AXL BEATS Tazzo B Knuxkles B Zah Finesse,Brims In The Spot,drill,560UBqZJ2160ogiupvPsPq,0.712,0.836,3,-8.591,0,0.34,0.463,0.0,0.193,0.181,140.112,222215,4
+1288, SimxSantana,FLEXIN N' FLASHIN,drill,64BafeBQMbpUgMz492JVsd,0.915,0.538,2,-7.468,1,0.444,0.119,0.0,0.198,0.219,130.126,197356,4
+1289, PNV Jay,OMBK,drill,3nKFNVCzDVcm8hmReR6qVT,0.676,0.732,1,-8.753,1,0.0819,0.0201,0.0,0.155,0.234,137.895,141662,4
+1290, Unknown T,Squeeze & Buss,drill,18Fv8uvzBFfJOqBr0YizpO,0.834,0.362,9,-12.864,1,0.353,0.26,0.0,0.0909,0.28,143.136,201399,4
+1294, Leeky G Bando Bizzy Banks,Luva,drill,4O5e82GNfSDRjcTjCEX6I8,0.781,0.584,10,-12.83,0,0.479,0.49,0.0,0.102,0.455,141.984,189362,4
+1295, Bandokay,Patient,drill,0eAO4p8OuoJ3buOYmXKjOV,0.839,0.72,3,-6.428,0,0.293,0.548,0.0,0.199,0.843,144.093,227386,4
+1299, Zuukou mayzie Osirus Jack,Docteur Lulu,drill,7o3yXwiCycErtARDrbjGGC,0.696,0.5,7,-10.251,1,0.128,0.0596,2.92e-06,0.198,0.489,134.984,194222,4
+1300, Lyonzon,Benibla freestyle,drill,6ZjDUpXaQDDKTFS9pBLYKn,0.865,0.49,1,-7.985,1,0.272,0.0708,2.28e-05,0.109,0.216,138.033,393718,4
+1301, Dinos,Sacoche,drill,57g8Ootq1gX7Cnsp6n37ph,0.774,0.652,11,-8.18,0,0.32,0.203,0.0,0.204,0.491,144.0,161213,4
+1302, 1PLIKÉ140,TRANQUILLEMENT,drill,1akPVDK9KcpXMskJRoH6HU,0.873,0.362,6,-11.442,1,0.376,0.391,0.0,0.167,0.622,142.952,218182,4
+1303, Lacrim,Végéta,drill,3qoi98EMOVARuOAyp9xYyN,0.636,0.637,6,-9.2,1,0.3,0.167,2.02e-05,0.117,0.333,137.963,195493,4
+1304, Rich The Kid,Easy,drill,63FiCssRxWHmRW48pwzVxf,0.799,0.544,0,-6.411,1,0.346,0.166,0.0,0.219,0.452,144.987,105920,4
+1305, Fivio Foreign Young M.A,Move Like a Boss (feat. Young M.A),drill,3T3SeUjR8NhTzSE3NSDxkK,0.798,0.793,1,-3.926,1,0.32,0.0665,0.0,0.297,0.494,141.944,175775,1
+1306, PLK,Dégaine de bandit,drill,5VXGxU06D7RRHtNRCn4Vm6,0.823,0.617,1,-8.05,1,0.275,0.188,0.0,0.102,0.588,139.984,170600,4
+1307, Carlito Lagangzz,Boyz N the hood,drill,2KIkRsygUV7nZc0pwvHYDV,0.839,0.817,7,-4.765,1,0.416,0.227,0.0,0.12,0.311,150.018,166400,4
+1308, Dizzee Rascal Smoke Boys,Act Like You Know (feat. Smoke Boys),drill,0plyevDLPKxvmaI6dZvL05,0.845,0.663,0,-6.71,1,0.339,0.049,0.0,0.157,0.347,145.92,219133,4
+1309, Gazo Freeze corleone,Drill FR 4,drill,3eGnvpFOpf2CEffcKjbC5m,0.751,0.774,3,-5.399,0,0.387,0.188,0.0,0.24,0.459,137.0,254000,4
+1310, Le Juiice Meryl,O NONO (feat. Meryl),drill,0p3izvFZlKhMnWHoTX2UyT,0.748,0.56,8,-8.471,0,0.091,0.158,0.0,0.131,0.58,147.142,156735,4
+1311, Elh Kmer Captaine Roshi,Béni,drill,4GfohFH6tVmRw1EeJjq2Q4,0.702,0.62,6,-8.58,0,0.34,0.167,0.0,0.168,0.624,146.983,155652,4
+1312, DAVINHOR,Fais les sous,drill,3Jf7ZPBigK7M2at3PaiQlc,0.737,0.691,3,-5.372,0,0.322,0.269,0.0,0.298,0.675,147.871,146416,4
+1313, Captaine Roshi,Fadeaway,drill,6mhvYr6benzRqAfnEQsQy7,0.79,0.615,8,-6.455,1,0.34,0.254,0.0,0.0927,0.353,141.935,126120,4
+1314, KO 98s Jimmy Stally DA Hitman Mazza Billy Billions,Homerton2Holly,drill,6D0cw3lYCyXTgZc2PflAeH,0.773,0.656,5,-6.862,0,0.372,0.333,0.0,0.074,0.444,144.964,224733,4
+1315, Pop Smoke Fivio Foreign,Sweetheart (feat. Fivio Foreign),drill,3sAXuKtlMOQKM7PHadkhyl,0.741,0.763,4,-3.972,0,0.279,0.124,0.0,0.108,0.584,141.011,156373,4
+1316, Digga D,No Diet,drill,3HUb7feX3gdnzZVEHy5yFj,0.9,0.592,6,-8.499,0,0.463,0.318,0.0,0.107,0.432,139.988,192387,4
+1317, Josué,Argent propre,drill,4KkqGgQhWPGASVu5Yx2545,0.875,0.422,5,-13.733,0,0.32,0.633,0.0,0.0621,0.667,144.97,173138,4
+1318, 1PLIKÉ140,Cruel,drill,000tzYf4t6wndzd6Kh3YJn,0.839,0.526,8,-7.464,1,0.451,0.357,0.0,0.119,0.49,141.971,217710,4
+1319, Captaine Roshi,Grand bateau,drill,7aiRy2qHBUXvMAMBturvGu,0.635,0.593,9,-4.205,1,0.342,0.515,0.0,0.203,0.327,135.044,143973,4
+1320, Unknown T KO V9,AVEN9ERS (feat. KO & V9),drill,0LdJhkdjM1JkOPZDYUZkWy,0.74,0.631,4,-6.822,0,0.333,0.218,0.0,0.281,0.439,143.087,202124,4
+1321, V9 Unknown T,Drip Drip,drill,4hIXIJxc7gEYqA8NkcZkKl,0.874,0.547,9,-10.494,1,0.705,0.425,0.0,0.208,0.91,144.968,200250,4
